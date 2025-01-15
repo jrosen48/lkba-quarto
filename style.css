@@ -411,5 +411,5 @@ li {
 
 /* Make table fonts smaller */
 table, th, td {
-  font-size: 0.8em; /* Adjust this value as needed */
+  font-size: 0.85em; /* Adjust this value as needed */
 }
