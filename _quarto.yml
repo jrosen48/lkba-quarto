@@ -1,7 +1,6 @@
 project:
   type: book
   output-dir: docs
-  site-url: "https://jrosen48.github.io/lkba-quarto/"
   
 number-depth: 1
   
