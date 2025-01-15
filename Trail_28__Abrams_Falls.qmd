@@ -8,16 +8,21 @@ This is a classic Smokies hike along the scenic Abrams Creek, ending in an epic 
 
 ### Directions to the Trailhead
 
-Trailhead Address: Abrams Falls Trailhead, H4RW+CX Townsend, Tennessee
-Trailhead GPS Coordinates: 35.59129, -83.85233
+Trailhead Address: Abrams Falls Trailhead, H4RW+CX Townsend, Tennessee Trailhead GPS Coordinates: 35.59129, -83.85233
 
 Navigate to this parking area at the end of a short gravel road connected to the Cades Cove Loop Rd. Lots of parking. Look for a sign pointing toward the Abrams Falls Trail and Abrams Fall.
+
+::: {.callout-note appearance="minimal" icon="false"}
+
+A symbol of the wildness of the Smokies -- and a very real presence. If you see one, admire their strength, beauty, and intelligence (from a distance!).
+
+:::
 
 ### Trail Description
 
 | Distance from Start |                                                                                                                                  Description                                                                                                                                  |
-|:--------------:|:------------------------------------------------------:|
-|         0.0         |                                                             Start on the Abrams Fall Trail, crossing a bridge over the scenic Abrams Creek soon after you start.                                                             |
+|:----------------:|:----------------------------------------------------:|
+|         0.0         |                                                                                     Start on the Abrams Fall Trail, crossing a bridge over the scenic Abrams Creek soon after you start.                                                                                      |
 |         0.1         |                                                                                                                  Wind along the path through a pine forest.                                                                                                                   |
 |         1.1         |                                                                                                              Rocky prominence that serves as a scenic overlook.                                                                                                               |
 |         2.2         |                                                                                 Small hill beside and atop Abrams Falls. Take the trail briefly, steeply down to the bottom of the waterfall.                                                                                 |
