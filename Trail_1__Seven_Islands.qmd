@@ -23,7 +23,7 @@ This is one of our favorite trails in this book—it is the first trail for that
 
 ![](maps/trail-01-map.jpeg)
 
-::: {.callout-note appearance="minimal" icon="false"}
+::: {.callout-note appearance="simple" icon="true"}
 
 The Kelly name is highly visible at Seven Islands, but a more recent owner of this land - the Clausens - prompted the formation of this state park when a planned entertainment development across the river concerned them that this precious area would be over-developed. 
 
