@@ -3,6 +3,7 @@ project:
   output-dir: docs
   
 number-depth: 1
+number-sections: false
   
 format:
   html:
