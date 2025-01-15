@@ -3,7 +3,7 @@
 ### Key Characteristics
 
 | Trail Name                    | Abrams Creek                                 |
-|:------------------------------|:---------------------------------------------|
+|:----------------------------|:------------------------------------------|
 | Region                        | Great Smoky Mountains National Park          |
 | Trail \#                      | 23                                           |
 | Time Estimate - Hiking Fast   | 4 hours                                      |
@@ -25,16 +25,15 @@ Abrams Creek is a great place to start hiking in the Smokies if you live in or a
 
 ### Directions to the Trailhead
 
-| Trailhead Address         | Abrams Creek Campground, J368+MR Tallassee, Tennessee |
-|:--------------------------|:------------------------------------------------------|
-| Trailhead GPS Coordinates | 35.61095, -83.93356                                   |
+Trailhead Address: Abrams Creek Campground, J368+MR Tallassee, Tennessee
+Trailhead GPS Coordinates: 35.61095, -83.93356
 
 It never seems to become crowded at Abrams Creek, but parking can be a bit confusing. This is because the campground is further along the same road the trailhead is on. Also, there are two areas to park for the trailhead. We usually park by the gate to the campground, but you can also park near the large sign with maps of this area of the national park.
 
 ### Trail Description
 
 | Distance from Start |                                                                Description                                                                |
-|:-------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+|:-------------:|:-------------------------------------------------------:|
 |         0.0         |                               Start at the trailhead parking area. Walk along the road beside Abrams Creek.                               |
 |         0.4         |                                 Arrive at the campground. A great spot to rest and hang out by the creek.                                 |
 |         1.0         |                        Cross Kingfisher Creek for the first time. Watch for rocks and branches to aid in crossing.                        |

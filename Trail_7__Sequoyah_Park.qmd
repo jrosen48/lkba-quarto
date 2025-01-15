@@ -31,9 +31,8 @@ Good for kids of all walking ages; alternate ways to access the greenway make it
 
 ### Directions to the Trailhead
 
-| Trailhead Address         | Sequoyah Park Restrooms, W2HG+M9, Knoxville, TN 37919 |
-|:-----------------------------------|:-----------------------------------|
-| Trailhead GPS Coordinates | 35.92932, -83.97398                                   |
+Trailhead Address: Sequoyah Park Restrooms, W2HG+M9, Knoxville, TN 37919
+Trailhead GPS Coordinates: 35.92932, -83.97398
 
 The above address takes you to the restrooms that serve as a landmark for this sprawling park.
 Please note that the address uses a "Plus" code that only works with Google Maps because the restrooms and trailhead don't have an assigned address.

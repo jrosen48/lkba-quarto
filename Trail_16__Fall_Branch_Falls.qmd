@@ -25,16 +25,15 @@ Part of the Big South Fork National River and Recreation Area, a National Park S
 
 ### Directions to the Trailhead
 
-| Trailhead Address         | Bandy Creek Visitors Center, 151 Stable Rd, Oneida, TN 37841 |
-|:--------------------------|:-------------------------------------------------------------|
-| Trailhead GPS Coordinates | 36.49062, -84.69777                                          |
+Trailhead Address: Bandy Creek Visitors Center, 151 Stable Rd, Oneida, TN 37841
+Trailhead GPS Coordinates: 36.49062, -84.69777
 
 The trailhead address will navigate you to the nearby Visitors Center (worth a visit when open---9:00 am - 5:00 pm year-round!). From the Visitors Center, walk across Bandy Loop Road toward the campground. Find Duncan Hollow Road, and walk up it a short distance, passing the Bandy Creek Pool (at which you could also park) on the left. The trailhead is immediately past the pool on the right side of Duncan Hollow Road.
 
 ### Trail Description
 
 | Distance from Start | Description                                                                               |
-|:--------------------|:------------------------------------------------------------------------------------------|
+|:----------------|:------------------------------------------------------|
 | 0.0                 | Start on the Litten-Slaven Farm Loop Trail.                                               |
 | 0.2                 | Begin to gradually descend into the Fall Branch creekbed.                                 |
 | 0.5                 | Trail levels.                                                                             |

@@ -25,9 +25,8 @@ Andrews Bald is the under-rated twin to Kuwohi (formerly known as Clingman's Dom
 
 ### Directions to the Trailhead
 
-| Trailhead Address         | Kuwohi Trailhead, HG43+QG Bryson City, North Carolina |
-|:--------------------------|:------------------------------------------------------|
-| Trailhead GPS Coordinates | 35.55680, -83.49617                                   |
+Trailhead Address: Kuwohi Trailhead, HG43+QG Bryson City, North Carolina
+Trailhead GPS Coordinates: 35.55680, -83.49617
 
 The above address is for the trailhead for Kuwohi---formerly named Clingman's Dome until renamed to its traditional name to the Cherokee, Kuwohi. in 2023. Parking here can be difficult to find during busy periods (especially during the summer, during breaks, and on weekends during the fall).
 
@@ -36,7 +35,7 @@ Consider visiting outside of these busy periods to avoid being stuck waiting to 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                     |
-|:--------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------|:--------------------------------------------------------|
 | 0.01                | Start on the Forney Ridge Trail.                                                                                                                |
 | 0.2                 | Intersection with the Kuwohi Bypass Trail. Turn left.                                                                                           |
 | 0.25                | A moderately rocky but well-maintained section that descends. Steep in sections.                                                                |
