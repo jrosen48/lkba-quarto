@@ -2,6 +2,7 @@ project:
   type: book
   output-dir: docs
   
+
 number-depth: 1
 number-sections: false
   
@@ -9,6 +10,7 @@ format:
   html:
     theme: cosmo1
     css: style.css
+  docx: default
     
 book:
   title: "Little Kids, Big Adventures: A Guide to Family Hikes Around Knoxville"
