@@ -1,6 +1,7 @@
 project:
   type: book
   output-dir: docs
+  site-url: "https://jrosen48.github.io/lkba-quarto/"
   
 number-depth: 1
   
@@ -63,11 +64,10 @@ book:
         - ZZZ - Bigger_Kids.qmd
         - ZZZ - Finding_Community.qmd
         - ZZZ - Recommended_Books__Resources__and_Organizations.qmd
-    - part: sec - back matter.qmd
+    - part: "Back Matter"
       chapters:   
         - ZZZ - About_the_Authors.qmd
         - ZZZ - Acknowledgments.qmd
-        - ZZZ - References.qmd
         - ZZZ - Appendices.qmd
 
 bibliography: references.bib
