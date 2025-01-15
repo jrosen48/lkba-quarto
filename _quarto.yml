@@ -7,14 +7,13 @@ book:
   author: "Katie Rosenberg and Joshua Rosenberg"
   date: "1/14/2025"
   chapters:
-    - part: "Introduction"
+    - part: sec - introduction.qmd
       chapters:
         - index.qmd
+        - AAA__About This Book.qmd
         - AAA - Considerations_for_Your_First_Hike.qmd
-        - AAA - Deepening_the_Experience.qmd
         - AAA - Finding_a_Hike.qmd
         - AAA - Top_5.qmd
-        - AAA__About This Book.qmd
     - part: Sec - Knoxville.qmd
       chapters: 
         - Trail_1__Seven_Islands.qmd
@@ -51,14 +50,17 @@ book:
         - Trail_28__Abrams_Falls.qmd
         - Trail_29__Andrews_Bald.qmd
         - Trail_30__Alum_Cave_Bluffs.qmd
-    - part: "Conclusion and Appendices"
+    - part: sec - doing more.qmd
       chapters:
-        - ZZZ - About_the_Authors.qmd
-        - ZZZ - Acknowledgments.qmd
-        - ZZZ - Appendices.qmd
+        - ZZZ - Deepening_the_Experience.qmd
         - ZZZ - Bigger_Kids.qmd
         - ZZZ - Finding_Community.qmd
         - ZZZ - Recommended_Books__Resources__and_Organizations.qmd
+    - part: sec - back matter.qmd
+      chapters:   
+        - ZZZ - About_the_Authors.qmd
+        - ZZZ - Acknowledgments.qmd
         - ZZZ - References.qmd
+        - ZZZ - Appendices.qmd
 
 bibliography: references.bib
