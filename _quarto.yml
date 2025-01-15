@@ -2,6 +2,12 @@ project:
   type: book
   output-dir: docs
   
+number-depth: 1
+  
+format:
+  html:
+    theme: cosmo1
+    
 book:
   title: "Little Kids, Big Adventures: A Guide to Family Hikes Around Knoxville"
   author: "Katie Rosenberg and Joshua Rosenberg"
