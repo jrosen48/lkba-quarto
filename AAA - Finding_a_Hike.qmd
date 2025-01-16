@@ -36,7 +36,7 @@ This book is organized into the three regions we mentioned in the last chapter -
 
 Within each section, we ordered the trails loosely along the lines of those we’d recommend first to friends looking for a pointer for where to go. Thus, the first few hikes in each section are what we think of as sure bets — get the weather right, pack a bunch of snacks, and we think you’ll likely have a good time. The other hikes are also great, but they might have some features that make them a bit more challenging or more particular in terms of when you need to visit to avoid the crowds.
 
-Each hike includes a brief overview, key characteristics, a trail description, directions to the trailhead. We also include a map of the trail, and a note about what’s nearby.
+Each hike includes a brief overview, key characteristics, a trail description, directions to the trailhead. We also include a map of the trail, and a note about what’s nearby. The trails also include one or more "callouts" to scientific, historical, or other interesting information about the trail.
 
 The trail maps should be pretty straightforward to use; the trailheads are marked with a green dot, and the trail is in red, with key features of the trail noted along the way. There are symbols for parking areas, restrooms, scenic overlooks, waterfalls, and other amenities, like playgrounds and picnic areas.
 
