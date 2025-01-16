@@ -6,7 +6,6 @@ This is a hike up arguably *the* finest trail in the Great Smoky Mountains Natio
 
 ![](img/trail-30-figure-01.jpg)
 
-
 ### Key Characteristics
 
 | Trail Name                    | Alum Cave                           |
@@ -26,15 +25,14 @@ This is a hike up arguably *the* finest trail in the Great Smoky Mountains Natio
 
 ### Directions to the Trailhead
 
-Trailhead Address: Alum Cave Trailhead Parking Area, 3639 Newfound Gap Rd, Gatlinburg, TN 37738
-Trailhead GPS Coordinates: 35.62872, -83.45076
+Trailhead Address: Alum Cave Trailhead Parking Area, 3639 Newfound Gap Rd, Gatlinburg, TN 37738 Trailhead GPS Coordinates: 35.62872, -83.45076
 
 This is one of the busiest parking areas and trailheads in the park. Particularly with children, visiting during periods that are less busy can be essential for quickly finding a spot. Apart from visiting outside of busy periods, arriving in the early-mid afternoon can be a good time, as many who arrived in the morning are departing. Try to park at one of the two parking areas immediately beside the trailhead (one alongside the road, the other near the seasonal toilet). If you cannot, other parking is available, but from those you have to walk along the side of the road to reach the trailhead. If two or more adults are present, consider dropping children off with one adult, while the other finds a spot. After finding a spot, look for the signs for the Alum Cave Trail.
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                           |
-|:-----------------------------------|:-----------------------------------|
+|:-----------|:-----------------------------------|
 | 0.0                 | Start on the Alum Cave Trail. Almost immediately cross a bridge over the West Prong of the Little Pigeon River.                                                       |
 | 0.1                 | Continue on the trail, now along Alum Cave Creek. The trail gradually climbs up a wide, scenic pathway, occasionally crossing                                         |
 | 0.6                 | Fun spots to splash in the creek abound around this section. Pick one and cool off in warmer weather!                                                                 |

@@ -6,7 +6,6 @@ This short hike leads to one of the most surprising geologic features in Tenness
 
 ![](img/trail-17-figure-01.jpg)
 
-
 ### Key Characteristics
 
 | Trail Name                    | Twin Arches Loop   |
@@ -26,15 +25,14 @@ This short hike leads to one of the most surprising geologic features in Tenness
 
 ### Directions to the Trailhead
 
-Trailhead Address: Twin Arches Trailhead, G7V5+Q7 Jamestown, Tennessee
-Trailhead GPS Coordinates: 36.48797, -84.69744
+Trailhead Address: Twin Arches Trailhead, G7V5+Q7 Jamestown, Tennessee Trailhead GPS Coordinates: 36.48797, -84.69744
 
 The above address should easily navigate you to the large parking area with a restroom. Note that the above address uses a Google Maps "Plus code", as the trailhead does not have a street address. This will only work in Google Maps. Park, and look for the sign for the Twin Arches trail near the back of the parking lot.
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                 |
-|:-----------------------------------|:-----------------------------------|
+|:------------|:-----------------------------------|
 | 0.0                 | Start on the Twin Arches trail.                                                                                                             |
 | 0.25                | Intersection. Head right to complete the loop in a counterclockwise section (though, it is perfectly fine to head in the other direction!). |
 | 0.3                 | Stairs.                                                                                                                                     |

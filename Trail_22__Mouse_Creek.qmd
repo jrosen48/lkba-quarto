@@ -6,7 +6,6 @@ Surprisingly close to Knoxville, given how remote and wild this trailhead and tr
 
 ![](img/trail-22-figure-01.jpg)
 
-
 ### Key Characteristics
 
 | Trail Name                    | Mouse Creek Falls                   |
@@ -26,15 +25,14 @@ Surprisingly close to Knoxville, given how remote and wild this trailhead and tr
 
 ### Directions to the Trailhead
 
-Trailhead Address: Big Creek Picnic Area, QV2R+H6 Newport, Tennessee
-Trailhead GPS Coordinates: 35.75132, -83.10964
+Trailhead Address: Big Creek Picnic Area, QV2R+H6 Newport, Tennessee Trailhead GPS Coordinates: 35.75132, -83.10964
 
 Navigate to the Big Creek Picnic Area. Note that the above address uses a Google Maps "Plus code" in the absence of a street address for this picnic area; the plus code only works in Google Maps. The picnic area is at the end of a bumpy dirt road; it's large and easy to find. You may note the Big Creek Trailhead on the way (it was on the right, immediately before the parking lot). Park and then backtrack a little on the road you took to the parking area to find the start of this trail. Kids may like to play around the picnic area (and the pretty bridge crossing Big Creek) before or after the hike!
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                             |
-|:---------------|:-------------------------------------------------------|
+|:--------------------|:--------------------------------------------------------------------------------------------------------|
 | 0.0                 | Start on the Big Creek Trail. Gradually ascend.                                                         |
 | 0.1                 | Ascend grardually on a wide path.                                                                       |
 | 1.4                 | Midnight Hole Falls. Great swimming spot in the summer.                                                 |

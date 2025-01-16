@@ -34,7 +34,7 @@ The trail begins from the parking lot at the above address; look for the paved p
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                        |
-|:-------------|:---------------------------------------------------------|
+|:--------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0                   | Start off on the trail with a gentle descent.                                                                                                                                      |
 | 0.1                 | Enter the wooded part of the hike and begin a gentle climb.                                                                                                                        |
 | 0.35                | Red chairs and the large open area. Head toward the mowed grassy section (followed by gravel). Alternatively, particularly if in a stroller, return on the paved pathway you took. |

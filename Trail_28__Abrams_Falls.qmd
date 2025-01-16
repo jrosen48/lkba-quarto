@@ -18,14 +18,14 @@ A symbol of the wildness of the Smokies -- and a very real presence. If you see 
 
 ### Trail Description
 
-| Distance from Start |                                                                                                                                  Description                                                                                                                                  |
-|:------------------:|:--------------------------------------------------:|
-|         0.0         |                                                                                     Start on the Abrams Fall Trail, crossing a bridge over the scenic Abrams Creek soon after you start.                                                                                      |
-|         0.1         |                                                                                                                  Wind along the path through a pine forest.                                                                                                                   |
-|         1.1         |                                                                                                              Rocky prominence that serves as a scenic overlook.                                                                                                               |
-|         2.2         |                                                                                 Small hill beside and atop Abrams Falls. Take the trail briefly, steeply down to the bottom of the waterfall.                                                                                 |
-|         2.5         | Reach the base of the waterfall. There are many spots to stop and snack or picnic. Take care to watch from a distance and not swim in the pool of the falls here; the undertone is dangerous. After a break, turn around to begin the back portion of this out-and-back hike. |
-|         5.0         |                                                                                                                                  Trailhead.                                                                                                                                   |
+| Distance from Start | Description                                                                                                                                                                                                                                                                   |
+|:--------------|:--------------------------------------------------|
+| 0.0                 | Start on the Abrams Fall Trail, crossing a bridge over the scenic Abrams Creek soon after you start.                                                                                                                                                                          |
+| 0.1                 | Wind along the path through a pine forest.                                                                                                                                                                                                                                    |
+| 1.1                 | Rocky prominence that serves as a scenic overlook.                                                                                                                                                                                                                            |
+| 2.2                 | Small hill beside and atop Abrams Falls. Take the trail briefly, steeply down to the bottom of the waterfall.                                                                                                                                                                 |
+| 2.5                 | Reach the base of the waterfall. There are many spots to stop and snack or picnic. Take care to watch from a distance and not swim in the pool of the falls here; the undertone is dangerous. After a break, turn around to begin the back portion of this out-and-back hike. |
+| 5.0                 | Trailhead.                                                                                                                                                                                                                                                                    |
 
 ### Nearby
 

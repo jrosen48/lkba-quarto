@@ -6,7 +6,6 @@ Steep but quiet and rewarding, Chestnut Top is a fun choice for a shorter hike i
 
 ![](img/trail-27-figure-01.jpg)
 
-
 ### Key Characteristics
 
 | Trail Name                    | Chestnut Top                        |
@@ -26,15 +25,14 @@ Steep but quiet and rewarding, Chestnut Top is a fun choice for a shorter hike i
 
 ### Directions to the Trailhead
 
-Trailhead Address: Townsend Wye, Laurel Creek Rd & Little River Rd, Townsend, TN 37882
-Trailhead GPS Coordinates: 35.66027, -83.70839
+Trailhead Address: Townsend Wye, Laurel Creek Rd & Little River Rd, Townsend, TN 37882 Trailhead GPS Coordinates: 35.66027, -83.70839
 
 This address is for the Townsend Wye, a prominent intersection between Townsend, the road to Gatlinburg (Little River Gorge Rd.), and the road to Cades Cove (Laurel Creek Road) and one of the best-known summer swimming spots in the Smokies. Park in the large parking area on the left of the Townsend Entrance Rd. on which you entered if coming from Knoxville and Townsend. The trail begins across the Townsend Entrance Rd. --- look for a sign across the road for the Chestnut Top Trail.
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                       |
-|:-------------|:---------------------------------------------------------|
+|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.0                 | Start on the Chestnut Top Trail. Ascend steeply.                                                                                                                                  |
 | 0.6                 | Trail levels out. Townsend visible from the trail.                                                                                                                                |
 | 0.70                | Rocky outcropping. Great place for a break and for kids to scramble up and around the rocks. Look for Mountain Laurel a little bit up the trail that flowers around May and June. |

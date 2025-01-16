@@ -6,7 +6,6 @@ Unreal! This trail features rope ladders, wooden ladders, gigantic sandstone wal
 
 ![](img/trail-19-figure-01.jpg)
 
-
 ### Key Characteristics
 
 | Trail Name                    | Honey Creek Loop                                   |
@@ -26,8 +25,7 @@ Unreal! This trail features rope ladders, wooden ladders, gigantic sandstone wal
 
 ### Directions to the Trailhead
 
-Trailhead Address: Honey Creek Trailhead and Parking Area, C8CX+G7 Allardt, Tennessee
-Trailhead GPS Coordinates: 36.42123, -84.65180
+Trailhead Address: Honey Creek Trailhead and Parking Area, C8CX+G7 Allardt, Tennessee Trailhead GPS Coordinates: 36.42123, -84.65180
 
 Navigate to the Honey Creek Trailhead. Note that there is also a Honey Creek Overlook --- the incorrect start for this hike. The above address uses a Google Maps "Plus" code in lieu of a street address for this trailhead; it only works in Google Maps.
 
@@ -36,7 +34,7 @@ Park in one of the many spots at the trailhead. The trail begins slightly past t
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                                                                                                        |
-|:-----------------------------------|:-----------------------------------|
+|:----------|:-----------------------------------|
 | 0.0                 | Start on the Honey Creek Loop Trail. Gently wind through the densely wooded forest.                                                                                                                                                                                                |
 | 0.2                 | Gently, then more steeply, descend through the woods.                                                                                                                                                                                                                              |
 | 0.9                 | Rope ladder.                                                                                                                                                                                                                                                                       |

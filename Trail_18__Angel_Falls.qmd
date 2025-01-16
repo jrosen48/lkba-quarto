@@ -6,7 +6,6 @@ Like a few of the other trails in or near the Cumberland Plateau, this is a spec
 
 ![](img/trail-18-figure-01.jpg)
 
-
 ### Key Characteristics
 
 | Trail Name                    | Angel Falls Overlook |
@@ -26,15 +25,14 @@ Like a few of the other trails in or near the Cumberland Plateau, this is a spec
 
 ### Directions to the Trailhead
 
-Trailhead Address: Grand Gap Loop Trailhead, G84V+69 Oneida, Tennessee
-Trailhead GPS Coordinates: 36.50549, -84.65664
+Trailhead Address: Grand Gap Loop Trailhead, G84V+69 Oneida, Tennessee Trailhead GPS Coordinates: 36.50549, -84.65664
 
 This address is for the trailhead for the Grand Gap Loop, deep into the Big South Fork National River & Recreation Area. The address uses a Google Maps "Plus code," as there is not a street address for the trailhead. Please note this only works for Google Maps. Turn right into the parking area from Alfred Smith Rd. Look for the Grand Gap Loop Trail to begin the hike.
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                     |
-|:-----------------------------------|:-----------------------------------|
+|:------------|:-----------------------------------|
 | 0.0                 | Start on the Grand Gap Loop (part of the John Muir Trail - they share a name at this point). Head counterclockwise on the loop trail; the other direction is a much longer way to the overlook. |
 | 0.85                | Grave site.                                                                                                                                                                                     |
 | 1.0                 | Descend gently toward the overlook.                                                                                                                                                             |

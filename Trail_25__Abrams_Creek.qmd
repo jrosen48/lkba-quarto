@@ -6,7 +6,6 @@ Abrams Creek is a great place to start hiking in the Smokies if you live in or a
 
 ![](img/trail-25-figure-01.jpg)
 
-
 ### Key Characteristics
 
 | Trail Name                    | Abrams Creek                                 |
@@ -26,26 +25,25 @@ Abrams Creek is a great place to start hiking in the Smokies if you live in or a
 
 ### Directions to the Trailhead
 
-Trailhead Address: Abrams Creek Campground, J368+MR Tallassee, Tennessee
-Trailhead GPS Coordinates: 35.61095, -83.93356
+Trailhead Address: Abrams Creek Campground, J368+MR Tallassee, Tennessee Trailhead GPS Coordinates: 35.61095, -83.93356
 
 It never seems to become crowded at Abrams Creek, but parking can be a bit confusing. This is because the campground is further along the same road the trailhead is on. Also, there are two areas to park for the trailhead. We usually park by the gate to the campground, but you can also park near the large sign with maps of this area of the national park.
 
 ### Trail Description
 
-| Distance from Start |                                                                Description                                                                |
-|:-------------:|:-------------------------------------------------------:|
-|         0.0         |                               Start at the trailhead parking area. Walk along the road beside Abrams Creek.                               |
-|         0.4         |                                 Arrive at the campground. A great spot to rest and hang out by the creek.                                 |
-|         1.0         |                        Cross Kingfisher Creek for the first time. Watch for rocks and branches to aid in crossing.                        |
-|         1.1         |                                   Cross Kingfisher Creek again about 100 yards past the first crossing.                                   |
-|         1.3         |           Reach Backcountry Site #1. Frequently used by overnight backpackers; a good resting spot. We often turn around here!            |
-|         1.5         | Reach the top of the ridge after a steep climb. Another great place to stop and rest (or turn around). Or continue for a grand adventure. |
-|         1.6         |                            Arrive at the overlook with views of Abrams Creek and Gregory Bald in the distance.                            |
-|         2.0         |            Return to Abrams Creek near its intersection with Buckshank Branch. A great spot to relax and splash in the creek.             |
-|         2.8         |                                  Reach Backcountry Site #17. Turn around here to head back to the start.                                  |
-|         4.3         |                                                      Return to Backcountry Site #1.                                                       |
-|         5.6         |                                                                Trailhead.                                                                 |
+| Distance from Start | Description                                                                                                                               |
+|:------------|:------------------------------------------------------|
+| 0.0                 | Start at the trailhead parking area. Walk along the road beside Abrams Creek.                                                             |
+| 0.4                 | Arrive at the campground. A great spot to rest and hang out by the creek.                                                                 |
+| 1.0                 | Cross Kingfisher Creek for the first time. Watch for rocks and branches to aid in crossing.                                               |
+| 1.1                 | Cross Kingfisher Creek again about 100 yards past the first crossing.                                                                     |
+| 1.3                 | Reach Backcountry Site #1. Frequently used by overnight backpackers; a good resting spot. We often turn around here!                      |
+| 1.5                 | Reach the top of the ridge after a steep climb. Another great place to stop and rest (or turn around). Or continue for a grand adventure. |
+| 1.6                 | Arrive at the overlook with views of Abrams Creek and Gregory Bald in the distance.                                                       |
+| 2.0                 | Return to Abrams Creek near its intersection with Buckshank Branch. A great spot to relax and splash in the creek.                        |
+| 2.8                 | Reach Backcountry Site #17. Turn around here to head back to the start.                                                                   |
+| 4.3                 | Return to Backcountry Site #1.                                                                                                            |
+| 5.6                 | Trailhead.                                                                                                                                |
 
 ![](img/trail-25-figure-02.jpg)
 

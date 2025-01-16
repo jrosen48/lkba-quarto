@@ -34,7 +34,7 @@ The trailhead is easy to find with the above address. Park in the large parking 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                           |
-|:-----------------------------------|:-----------------------------------|
+|:----------------|:-----------------------------------|
 | 0.0                 | Walk along the paved road.                                                                                                                                            |
 | 0.1                 | Start of the Oak-Hickory Trail on the right.                                                                                                                          |
 | 0.2                 | Start of the Heath Cove Trail on the left. This is a shortcut if you're looking for one!                                                                              |

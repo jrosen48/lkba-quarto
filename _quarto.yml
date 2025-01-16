@@ -65,7 +65,7 @@ book:
       chapters:
         - ZZZ - Deepening_the_Experience.qmd
         - ZZZ - Finding_Community.qmd
-        - AAA - Top_5.qmd
+        - ZZZ - Top_5.qmd
         - ZZZ - Recommended_Books__Resources__and_Organizations.qmd
     - part: "Back Matter"
       chapters:   

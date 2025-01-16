@@ -6,7 +6,6 @@ This is the wildflower hike in the Smokies. It's a joy in mid-late April, depend
 
 ![](img/trail-23-figure-01.jpg)
 
-
 ### Key Characteristics
 
 | Trail Name                    | Whiteoak Sink                       |
@@ -33,7 +32,7 @@ The above address is for the parking area beside the trail. Please note it uses 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                                                                                                                                                            |
-|:---------------|:-------------------------------------------------------|
+|:--------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.0                 | Start on the Schoolhouse Gap Trail. Trail very gradually ascends.                                                                                                                                                                                                                                                                      |
 | 0.4                 | Trail climbs more steeply (but managably!).                                                                                                                                                                                                                                                                                            |
 | 1.1                 | Intersection with the trail to Whiteoak Sink. Note that Whiteoak Sink is not an official trail on the official trail map for the Great Smoky Mountains National Park; thus, the trail is not as well marked as most others. Turn left from the Schoolhouse Gap trail onto the trail to Whiteoak Sink. Descend for around .25 miles.    |

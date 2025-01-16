@@ -8,17 +8,20 @@ It’s easy to take this destination for granted if you live in Knoxville – we
 
 ### Key Characteristics %WRONG TABLE IS BELOW%
 
-| Distance from Start | Description                                                                                                    |
-|---------------|--------------------------------------------------------|
-| 0.0                 | Start near the doors to the Visitor's Center.                                                                  |
-| 0.05                | Turn left to begin the North Cove Trail.                                                                       |
-| 0.2                 | Turn right onto the River Trail.                                                                               |
-| 0.4                 | Short wooden stairs down to the boardwalk section.                                                             |
-| 0.5                 | End of the boardwalk section.                                                                                  |
-| 0.6                 | Climb rock steps.                                                                                              |
-| 0.7                 | Turn right on the Tower Trail (or, optionally, remain on the River Trail to head toward Mead's Quarry).        |
-| 0.85                | Pass an old communication tower at the high point of the trail; begin to descend back to the Visitor's Center. |
-| 1.03                | Return to the Visitor's Center.                                                                                |
+# Trail Details: Ijams River and Tower Loop
+
+| **Attribute**              | **Details**                 |
+|----------------------------|-----------------------------|
+| **Region**                 | Knoxville and Surroundings |
+| **Trail #**                | 2                           |
+| **Time Estimate - Fast**   | 45 minutes                 |
+| **Time Estimate - Slow**   | 1.5 hours                  |
+| **Trail Distance (Miles)** | 1.03                       |
+| **Elevation Change**       | Moderate                   |
+| **Pets**                   | Allowed on leash           |
+| **Parking Pass/Fee**       | Required (pay on site)     |
+| **Restroom(s)**            | Yes                        |
+| **Terrain**                | Dirt path; boardwalk; rocky steps |
 
 ![](maps/trail-02-map.jpeg)
 
@@ -33,7 +36,7 @@ Use the above address to easily navigate to the parking area. Park in the large 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                    |
-|---------------|--------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | 0.0                 | Start near the doors to the Visitor's Center.                                                                  |
 | 0.05                | Turn left to begin the North Cove Trail.                                                                       |
 | 0.2                 | Turn right onto the River Trail.                                                                               |

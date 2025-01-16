@@ -32,7 +32,7 @@ The trailhead can be just a little tricky to find---partially because Google Map
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                    |
-|:-----------------------------------|:-----------------------------------|
+|:------------|:-----------------------------------|
 | 0.0                 | Start by walking through the Arbor, past the handy trail map of the Sharps Ridge area. You're technically on the very short Hanover Access trail.              |
 | 0.1                 | Turn right onto Lincoln Trail. Wind up through the deep woods and easy curves in the trail.                                                                    |
 | 0.8                 | Turn right onto Sharp Shin.                                                                                                                                    |

@@ -6,7 +6,6 @@ This is a short but rewarding overlook hike that is just a moderate drive from K
 
 ![](img/trail-26-figure-01.jpg)
 
-
 ### Key Characteristics
 
 | Trail Name                    | Look Rock Overlook                  |
@@ -26,15 +25,14 @@ This is a short but rewarding overlook hike that is just a moderate drive from K
 
 ### Directions to the Trailhead
 
-Trailhead Address: Look Rock Lower Overlook, 7210 Flats Rd, Tallassee, TN 37878
-Trailhead GPS Coordinates: 35.63099, -83.94083
+Trailhead Address: Look Rock Lower Overlook, 7210 Flats Rd, Tallassee, TN 37878 Trailhead GPS Coordinates: 35.63099, -83.94083
 
 The above address takes you to a large parking lot with a scenic overlook. Park, and look for the scenic overlook---the Murry Gap Overlook. From there, walk along the back of the parking lot, and then along a sidewalk. Cross the road to the Look Rock Trail to begin the hike.
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                |
-|:-----------------------------------|:-----------------------------------|
+|:------------|:-----------------------------------|
 | 0.0                 | Start at the Murry Gap Overlook.                                                                                                           |
 | 0.15                | Cross the road to the Look Rock Trail.                                                                                                     |
 | 0.35                | Intersection. Turn left to continue on the Look Rock Trail.                                                                                |

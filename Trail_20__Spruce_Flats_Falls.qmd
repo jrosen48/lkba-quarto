@@ -6,7 +6,6 @@ An adventurous hike in the Smokies accessible to many families, it is also a gre
 
 ![](img/trail-20-figure-01.jpg)
 
-
 ### Key Characteristics
 
 | Trail Name                    | Spruce Flats Falls                  |
@@ -26,15 +25,14 @@ An adventurous hike in the Smokies accessible to many families, it is also a gre
 
 ### Directions to the Trailhead
 
-Trailhead Address: 9275 Tremont Rd, Townsend, TN 37882
-Trailhead GPS Coordinates: 35.64000, -83.68905
+Trailhead Address: 9275 Tremont Rd, Townsend, TN 37882 Trailhead GPS Coordinates: 35.64000, -83.68905
 
 The address and coordinates are for the Great Smoky Mountains Institute, as this is the easiest-to-locate destination. When nearly there (less than a quarter of a mile from the destination), you'll cross a bridge to enter the Institute. You'll see a lot of parking around --- and the gift shop. Though the trailhead and Google Maps will navigate you a little further, the parking you see here is the best place to park. From this parking lot, walk up the road a little toward the Spruce Flats Falls Trailhead to start the hike.
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                         |
-|:-----------------------------------|:-----------------------------------|
+|:----------|:-----------------------------------|
 | 0.0                 | You'll see signs for Spruce Flats Falls, but you'll begin ever-so-briefly on a different trail that connects to the trail you'll take to the falls, Buckeye Trail. Start on the Lumber Ridge Trail. |
 | 0.1                 | Turn right onto the Buckete Trail, the trail you'll be on all the way to the falls (and back to this spot on the return journey).                                                                   |
 | 0.15                | Trail levels out before a steep cluimb.                                                                                                                                                             |
