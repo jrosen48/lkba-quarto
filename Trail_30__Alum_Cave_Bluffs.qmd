@@ -1,4 +1,4 @@
-## Trail 30: Alum Cave Bluffs
+## ipTrail 30: Alum Cave Bluffs
 
 ### Overview
 
@@ -32,7 +32,7 @@ This is one of the busiest parking areas and trailheads in the park. Particularl
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                           |
-|:-----------|:-----------------------------------|
+|:------------------|:----------------------------------------------------|
 | 0.0                 | Start on the Alum Cave Trail. Almost immediately cross a bridge over the West Prong of the Little Pigeon River.                                                       |
 | 0.1                 | Continue on the trail, now along Alum Cave Creek. The trail gradually climbs up a wide, scenic pathway, occasionally crossing                                         |
 | 0.6                 | Fun spots to splash in the creek abound around this section. Pick one and cool off in warmer weather!                                                                 |
