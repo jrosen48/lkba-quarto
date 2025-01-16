@@ -16,6 +16,8 @@ This is one of our favorite trails in this book, and it is the first trail for t
 | Pets                        | Allowed on leash |
 | Parking Pass/Entrance Fee   | Not Required     |
 | Restroom(s)                 | Yes              |
+| Best Ages                   |                  |
+| Strollers and Wheelchairs   |                  |
 
 ![](maps/trail-01-map.jpeg)
 
@@ -34,7 +36,7 @@ Park in the large gravel lot (note there is another parking area by a boat launc
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                    |
-|:--------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------|:--------------------------------------------------------|
 | 0.0                 | Barn with the blue "barn quilt" featuring four blue birds. You can walk through the barn to begin the hike on the paved Bobwhite Access trail. |
 | 0.05                | Bathroom on the left of the trail.                                                                                                             |
 | 0.1                 | Descend through grassy meadows with wildflowers in the spring and early fall.                                                                  |

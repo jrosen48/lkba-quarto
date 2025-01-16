@@ -17,6 +17,7 @@ This is a gem of a hikie that is off the radar for many in Knoxville, as it is t
 | Parking Pass/Entrance Fee | Not Required         |
 | Restroom(s)            | No      |
 | Best Ages              |                     |
+| Strollers and Wheelchairs |                             |
 
 ![](maps/trail-05-map.jpeg)
 
