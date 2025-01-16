@@ -2,7 +2,7 @@
 
 ### Overview
 
-A gem in Knoxville's city park system. This hike, entirely on a paved path, circles the perimeter of the park, featuring high points (and views of the Smokies) and a boardwalk along the river. Traverses past four excellent play areas this hike winds past. Well known, but not overrated — a great spot for a hike that could fit into a busy weekend, or even a weeknight. Good for kids of all ages; consider looping back to your start point with younger children.
+A gem in Knoxville's city park system, this hike, entirely on a paved path, circles the perimeter of the park, featuring high points, views of the Smokies, and a boardwalk along the river. It also boasts four excellent play areas along the way! Well known, but not overrated, this is a great spot for a hike that could fit into a busy weekend, or even a weeknight, and is great for young ones of all ages, truly offering something for everyone.
 
 ![](img/trail-03-figure-01.jpg)
 
@@ -27,7 +27,7 @@ A gem in Knoxville's city park system. This hike, entirely on a paved path, circ
 
 Trailhead Address: Lakeshore Park, 6014 Lyons View Pike, Knoxville, TN 37919 Trailhead GPS Coordinates: 35.92389, -83.990
 
-The address above is suitable for navigating to Lakeshore in general, but it's a large park! Our hike starts at a large parking area near the center of the park. To find it, entering Lakeshore from Lyons View Pike, turn left onto Cliffside Dr., and park in the large parking area on the right, immediately past Circle Dr. Start on the greenway near the parking lot, on the same side of the road on which you are parked. Of course, you can park elsewhere nearby or in any parking area at Lakeshore.
+The address above navigates to the park's main entrance. Our hike starts at a large parking area near the center of the park. To find it, entering Lakeshore from Lyons View Pike, turn onto Cliffside Dr. and park in the large parking area on the right, immediately past Circle Dr. Start on the greenway near the parking lot on the same side of the road on which you are parked. Of course, you can park elsewhere nearby or in any parking area at Lakeshore.
 
 ### Trail Description
 
@@ -45,5 +45,5 @@ The address above is suitable for navigating to Lakeshore in general, but it's a
 
 ### Nearby
 
--   Playing at one of the many playgrounds. There are four awesome playgrounds at Lakeshore --- Hank Rappé (universal playground with a bit of everything), Huie Woodland (nature-themed), Tower (lots of climbing opportunities!), and Central (smaller, and with workout equipment nearby).
--   Having a picnic. Lakeshore seems made for picnics. Bring one along for a grassy area or numerous seating areas near the Hank Rappé, Tower, and Central playgrounds.
+-   Enjoy one or more of the many playgrounds! There are four awesome playgrounds at Lakeshore: Hank Rappé (universal playground with a bit of everything), Huie Woodland (nature-themed), Tower (lots of climbing opportunities, best for kids age 5 and older), and Central (best suited for ages 5 and older, and with workout equipment nearby for adults).
+-   Bring a picnic! Lakeshore seems made for picnics. Enjoy one on a grassy area or one numerous seating areas near the Hank Rappé, Tower, and Central playgrounds.

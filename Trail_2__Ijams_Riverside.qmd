@@ -2,14 +2,14 @@
 
 ### Overview
 
-If you live in Knoxville, then you've probably heard of Ijams Nature Center. It’s easy to take for granted, but we seem to find something new every time we visit — and we always have a great time. This hike is meant to be a gentle introduction to what Ijams refers to as the Riverside area (see the Ijams Crag hike for an introduction to the second part of Ijams). The trail starts by the Ijams Nature Center's visitor center and hikes down through a deep forest to the river. It continues along the boardwalk trail that happens to follow the side of the very first mile of the Tennessee River. The trail returns back up and over a rocky ridge to return to the visitor center—and the play area and links to other trails nearby.
+It’s easy to take this destination for granted if you live in Knoxville – we seem to find something new every time we visit! Bring along your baby carrier for this hike, which is meant to be a gentle introduction to what Ijams refers to as the Riverside area. The trail starts by the Ijams Nature Center's visitor center and meanders down through a deep forest to the river. It continues along the boardwalk trail that happens to follow the side of the very first mile of the Tennessee River. The trail returns back up and over a rocky ridge to return to the visitor center. Ijams offers multiple play areas and links to other trails nearby, so you can make a day of it!
 
 ![](img/trail-02-figure-01.jpg)
 
-### Key Characteristics
+### Key Characteristics %WRONG TABLE IS BELOW%
 
 | Distance from Start | Description                                                                                                    |
-|---------------------|----------------------------------------------------------------------------------------------------------------|
+|---------------|--------------------------------------------------------|
 | 0.0                 | Start near the doors to the Visitor's Center.                                                                  |
 | 0.05                | Turn left to begin the North Cove Trail.                                                                       |
 | 0.2                 | Turn right onto the River Trail.                                                                               |
@@ -28,12 +28,12 @@ Trailhead Address: Ijams Nature Center, 2915 Island Home Ave, Knoxville, TN 3792
 
 Trailhead GPS Coordinates: 35.95612, -83.86725
 
-Use the above address to easily navigate to the parking area. Park in the large parking lot near the Visitor's Center. Look for signs for the North Cove Trail; looking toward the front doors to the Visitor's Center, the trail heads off to the right.
+Use the above address to easily navigate to the parking area. Park in the large parking lot near the Visitor's Center.
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                    |
-|---------------------|----------------------------------------------------------------------------------------------------------------|
+|---------------|--------------------------------------------------------|
 | 0.0                 | Start near the doors to the Visitor's Center.                                                                  |
 | 0.05                | Turn left to begin the North Cove Trail.                                                                       |
 | 0.2                 | Turn right onto the River Trail.                                                                               |
@@ -46,6 +46,6 @@ Use the above address to easily navigate to the parking area. Park in the large 
 
 ### Nearby
 
--   Hiking at Mead's Quarry. Check out the Ijams Crag hike for a great starting point at the over area that comprises Ijams.
--   Visit Jo's Grove. Near the Visitor's Center, which features a fun cabin and a wooded area for kids to play and goof (this is a premiere hide-and-seek spot!).
--   Grabbing a bite to eat on the south side of Knoxville. The south side of town near Ijams is a great place to grab a bite to eat. Our favorites include South Coast Pizza (1103 Sevier Ave, Knoxville, TN 37920) and Angry Dumplings Tea (1119 Sevier Ave, Knoxville, TN 37920). Breweries nearby also abound.
+-   See more of what Ijams has to offer by checking out the Ijams Crag hike across the road at Mead' Quary!
+-   Visit Jo's Grove near the Visitor's Center, which features a fun cabin and a wooded area for kids to play (this is a premiere hide-and-seek spot!).
+-   Grab a bite to eat on the south side of Knoxville! Our favorites include South Coast Pizza (1103 Sevier Ave, Knoxville, TN 37920) and Angry Dumplings Tea (1119 Sevier Ave, Knoxville, TN 37920). Breweries nearby also abound, as well as Suttree Landing Park, which boasts a very fun playground.
