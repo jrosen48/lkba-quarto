@@ -17,20 +17,22 @@ A gem in Knoxville's city park system, this hike, entirely on a paved path, circ
 | Parking Pass/Entrance Fee | Not Required          |
 | Restroom(s)               | Yes                   |
 | Best Ages                 |                       |
-| Strollers and Wheelchairs |                             |
+| Strollers and Wheelchairs |                       |
 
 ![](maps/trail-03-map.jpeg)
 
 ### Directions to the Trailhead
 
-Trailhead Address: Lakeshore Park, 6014 Lyons View Pike, Knoxville, TN 37919 Trailhead GPS Coordinates: 35.92389, -83.990
+Trailhead Address: Lakeshore Park, 6014 Lyons View Pike, Knoxville, TN 37919
+
+Trailhead GPS Coordinates: 35.92389, -83.990
 
 The address above navigates to the park's main entrance. Our hike starts at a large parking area near the center of the park. To find it, entering Lakeshore from Lyons View Pike, turn onto Cliffside Dr. and park in the large parking area on the right, immediately past Circle Dr. Start on the greenway near the parking lot on the same side of the road on which you are parked. Of course, you can park elsewhere nearby or in any parking area at Lakeshore.
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                               |
-|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------|:---------------------------------------------------------|
 | 0.0                 | Cross Orchard Drive, heading clockwise on the paved greenway. Note the greenway on the left, which immediately heads toward the Huie Woodland Playground. |
 | 0.05                | Bench and overlook to the Smokies. Can you spy Clingman's Dome? Note that Hank Rappé playground is immediately below the greenway (to your right).        |
 | 0.15                | Steep descent!                                                                                                                                            |
