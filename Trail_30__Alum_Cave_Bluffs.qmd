@@ -8,15 +8,15 @@ This is a hike up arguably *the* finest trail in the Great Smoky Mountains Natio
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 3 hours - 5 hours           |
-| Trail Distance (Miles) | 4.5                 |
-| Elevation Change       | Very Steep          |
-| Pets                   | Not Allowed         |
-| Parking Pass/Entrance Fee | Required         |
-| Restroom(s)            | Yes (seasonal)      |
-| Best Ages              |                     |
+| **Characteristic**        | **Details**       |
+|---------------------------|-------------------|
+| Time Estimate             | 3 hours - 5 hours |
+| Trail Distance (Miles)    | 4.5               |
+| Elevation Change          | Very Steep        |
+| Pets                      | Not Allowed       |
+| Parking Pass/Entrance Fee | Required          |
+| Restroom(s)               | Yes (seasonal)    |
+| Best Ages                 |                   |
 
 ![](maps/trail-30-map.jpeg)
 
@@ -29,7 +29,7 @@ This is one of the busiest parking areas and trailheads in the park. Particularl
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                           |
-|:------------------|:----------------------------------------------------|
+|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.0                 | Start on the Alum Cave Trail. Almost immediately cross a bridge over the West Prong of the Little Pigeon River.                                                       |
 | 0.1                 | Continue on the trail, now along Alum Cave Creek. The trail gradually climbs up a wide, scenic pathway, occasionally crossing                                         |
 | 0.6                 | Fun spots to splash in the creek abound around this section. Pick one and cool off in warmer weather!                                                                 |
