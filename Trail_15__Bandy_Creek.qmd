@@ -8,18 +8,15 @@ A welcoming, gentle introduction to the Big South Fork. Best if you're staying a
 
 ### Key Characteristics
 
-| Trail Name                    | Bandy Creek        |
-|:------------------------------|:-------------------|
-| Region                        | Cumberland Plateau |
-| Trail \#                      | 15                 |
-| Time Estimate - Hiking Fast   | 45 minutes         |
-| Time Estimate - Hiking Slowly | 1 hour, 15 minutes |
-| Trail Distance (Miles)        | 1.3                |
-| Elevation Change              | Flat               |
-| Pets                          | Allowed on leash   |
-| Parking Pass/Entrance Fee     | Not Required       |
-| Restroom(s)                   | Yes                |
-| Terrain                       | Dirt path          |
+| **Characteristic**     | **Details**         |
+|-------------------------|---------------------|
+| Time Estimate          | 45 minutes - 1 hour, 15 minutes           |
+| Trail Distance (Miles) | 1.3                 |
+| Elevation Change       | Flat          |
+| Pets                   | Allowed on leash         |
+| Parking Pass/Entrance Fee | Not Required         |
+| Restroom(s)            | Yes      |
+| Best Ages              |                     |
 
 ![](maps/trail-15-map.jpeg)
 

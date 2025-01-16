@@ -8,18 +8,15 @@ This is a short but rewarding overlook hike that is just a moderate drive from K
 
 ### Key Characteristics
 
-| Trail Name                    | Look Rock Overlook                  |
-|:------------------------------|:------------------------------------|
-| Region                        | Great Smoky Mountains National Park |
-| Trail \#                      | 24                                  |
-| Time Estimate - Hiking Fast   | 30 minutes                          |
-| Time Estimate - Hiking Slowly | 1 hour                              |
-| Trail Distance (Miles)        | 0.6                                 |
-| Elevation Change              | Moderate                            |
-| Pets                          | Not Allowed                         |
-| Parking Pass/Entrance Fee     | Required                            |
-| Restroom(s)                   | No                                  |
-| Terrain                       | Paved path                          |
+| **Characteristic**     | **Details**         |
+|-------------------------|---------------------|
+| Time Estimate          | 30 minutes - 1 hour           |
+| Trail Distance (Miles) | 0.6                 |
+| Elevation Change       | Moderate          |
+| Pets                   | Not Allowed         |
+| Parking Pass/Entrance Fee | Required         |
+| Restroom(s)            | No      |
+| Best Ages              |                     |
 
 ![](maps/trail-26-map.jpeg)
 

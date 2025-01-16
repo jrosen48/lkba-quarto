@@ -8,18 +8,15 @@ Abrams Creek is a great place to start hiking in the Smokies if you live in or a
 
 ### Key Characteristics
 
-| Trail Name                    | Abrams Creek                                 |
-|:----------------------------|:------------------------------------------|
-| Region                        | Great Smoky Mountains National Park          |
-| Trail \#                      | 23                                           |
-| Time Estimate - Hiking Fast   | 4 hours                                      |
-| Time Estimate - Hiking Slowly | 6 hours                                      |
-| Trail Distance (Miles)        | 5.8                                          |
-| Elevation Change              | Moderate                                     |
-| Pets                          | Not Allowed                                  |
-| Parking Pass/Entrance Fee     | Required                                     |
-| Restroom(s)                   | Yes (seasonal)                               |
-| Terrain                       | Dirt path; rocky path; small creek crossings |
+| **Characteristic**     | **Details**         |
+|-------------------------|---------------------|
+| Time Estimate          | 4 hours - 6 hours           |
+| Trail Distance (Miles) | 5.8                 |
+| Elevation Change       | Moderate          |
+| Pets                   | Not Allowed         |
+| Parking Pass/Entrance Fee | Required         |
+| Restroom(s)            | Yes (seasonal)      |
+| Best Ages              |                     |
 
 ![](maps/trail-25-map.jpeg)
 

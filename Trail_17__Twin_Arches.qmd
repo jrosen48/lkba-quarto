@@ -8,18 +8,15 @@ This short hike leads to one of the most surprising geologic features in Tenness
 
 ### Key Characteristics
 
-| Trail Name                    | Twin Arches Loop   |
-|:------------------------------|:-------------------|
-| Region                        | Cumberland Plateau |
-| Trail \#                      | 16                 |
-| Time Estimate - Hiking Fast   | 1.5 hour           |
-| Time Estimate - Hiking Slowly | 2.5 hours          |
-| Trail Distance (Miles)        | 1.2                |
-| Elevation Change              | Moderate           |
-| Pets                          | Allowed on leash   |
-| Parking Pass/Entrance Fee     | Not Required       |
-| Restroom(s)                   | Yes                |
-| Terrain                       | Dirt path; stairs  |
+| **Characteristic**     | **Details**         |
+|-------------------------|---------------------|
+| Time Estimate          | 1.5 hour - 2.5 hours           |
+| Trail Distance (Miles) | 1.2                 |
+| Elevation Change       | Moderate          |
+| Pets                   | Allowed on leash         |
+| Parking Pass/Entrance Fee | Not Required         |
+| Restroom(s)            | Yes      |
+| Best Ages              |                     |
 
 ![](maps/trail-17-map.jpeg)
 

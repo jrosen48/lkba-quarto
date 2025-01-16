@@ -8,18 +8,15 @@ You'll be surrounded by trees galore at William Hastie! The start features a beg
 
 ### Key Characteristics
 
-| Trail Name                    | William Hastie             |
-|:------------------------------|:---------------------------|
-| Region                        | Knoxville and Surroundings |
-| Trail \#                      | 9                          |
-| Time Estimate - Hiking Fast   | 0.5 hours                  |
-| Time Estimate - Hiking Slowly | 1 hour                     |
-| Trail Distance (Miles)        | 1.3                        |
-| Elevation Change              | Flat                       |
-| Pets                          | Allowed on leash           |
-| Parking Pass/Entrance Fee     | Not Required               |
-| Restroom(s)                   | No                         |
-| Terrain                       | Gravel path                |
+| **Characteristic**     | **Details**         |
+|-------------------------|---------------------|
+| Time Estimate          | 0.5 hours - 1 hour           |
+| Trail Distance (Miles) | 1.3                 |
+| Elevation Change       | Flat          |
+| Pets                   | Allowed on leash         |
+| Parking Pass/Entrance Fee | Not Required         |
+| Restroom(s)            | No      |
+| Best Ages              |                     |
 
 ![](maps/trail-09-map.jpeg)
 

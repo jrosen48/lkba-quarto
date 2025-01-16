@@ -8,18 +8,15 @@ An adventurous hike in the Smokies accessible to many families, it is also a gre
 
 ### Key Characteristics
 
-| Trail Name                    | Spruce Flats Falls                  |
-|:------------------------------|:------------------------------------|
-| Region                        | Great Smoky Mountains National Park |
-| Trail \#                      | 20                                  |
-| Time Estimate - Hiking Fast   | 1.5 hours                           |
-| Time Estimate - Hiking Slowly | 2.5 hours                           |
-| Trail Distance (Miles)        | 1.6                                 |
-| Elevation Change              | Moderate                            |
-| Pets                          | Not Allowed                         |
-| Parking Pass/Entrance Fee     | Required                            |
-| Restroom(s)                   | Yes                                 |
-| Terrain                       | Dirt path; rocky path               |
+| **Characteristic**     | **Details**         |
+|-------------------------|---------------------|
+| Time Estimate          | 1.5 hours - 2.5 hours           |
+| Trail Distance (Miles) | 1.6                 |
+| Elevation Change       | Moderate          |
+| Pets                   | Not Allowed         |
+| Parking Pass/Entrance Fee | Required         |
+| Restroom(s)            | Yes      |
+| Best Ages              |                     |
 
 (This map is being worked on stil) <!-- ![](maps/trail-20-map.jpeg) -->
 

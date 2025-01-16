@@ -8,18 +8,15 @@ This is a gem of a hikie that is off the radar for many in Knoxville, as it is t
 
 ### Key Characteristics %ADD STROLLER ACCESS%
 
-| Trail Name                    | University of Tennessee Arboretum |
-|:------------------------------|:----------------------------------|
-| Region                        | Knoxville and Surroundings        |
-| Trail \#                      | 5                                 |
-| Time Estimate - Hiking Fast   | 0.5 hours                         |
-| Time Estimate - Hiking Slowly | 1 hour                            |
-| Trail Distance (Miles)        | 0.9                               |
-| Elevation Change              | Gentle                            |
-| Pets                          | Not Allowed                       |
-| Parking Pass/Entrance Fee     | Not Required                      |
-| Restroom(s)                   | No                                |
-| Terrain                       | Paved                             |
+| **Characteristic**     | **Details**         |
+|-------------------------|---------------------|
+| Time Estimate          | 0.5 hours - 1 hour           |
+| Trail Distance (Miles) | 0.9                 |
+| Elevation Change       | Gentle          |
+| Pets                   | Not Allowed         |
+| Parking Pass/Entrance Fee | Not Required         |
+| Restroom(s)            | No      |
+| Best Ages              |                     |
 
 ![](maps/trail-05-map.jpeg)
 

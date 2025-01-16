@@ -8,18 +8,15 @@ Unreal! This trail features rope ladders, wooden ladders, gigantic sandstone wal
 
 ### Key Characteristics
 
-| Trail Name                    | Honey Creek Loop                                   |
-|:--------------------------|:--------------------------------------------|
-| Region                        | Cumberland Plateau                                 |
-| Trail \#                      | 18                                                 |
-| Time Estimate - Hiking Fast   | 4 hours                                            |
-| Time Estimate - Hiking Slowly | 7 hours                                            |
-| Trail Distance (Miles)        | 4.4                                                |
-| Elevation Change              | Steep                                              |
-| Pets                          | Not Allowed                                        |
-| Parking Pass/Entrance Fee     | Required                                           |
-| Restroom(s)                   | No                                                 |
-| Terrain                       | Rocky path; dirt path; ladders; river rock hopping |
+| **Characteristic**     | **Details**         |
+|-------------------------|---------------------|
+| Time Estimate          | 4 hours - 7 hours           |
+| Trail Distance (Miles) | 4.4                 |
+| Elevation Change       | Steep          |
+| Pets                   | Not Allowed         |
+| Parking Pass/Entrance Fee | Required         |
+| Restroom(s)            | No      |
+| Best Ages              |                     |
 
 ![](maps/trail-19-map.jpeg)
 

@@ -8,18 +8,15 @@ This hike is great for families looking to have an authentic hiking experience d
 
 ### Key Characteristics
 
-| Trail Name                    | Middle Prong                        |
-|:------------------------------|:------------------------------------|
-| Region                        | Great Smoky Mountains National Park |
-| Trail \#                      | 22                                  |
-| Time Estimate - Hiking Fast   | 4 hours                             |
-| Time Estimate - Hiking Slowly | 6 hours                             |
-| Trail Distance (Miles)        | 7.6                                 |
-| Elevation Change              | Moderate                            |
-| Pets                          | Not Allowed                         |
-| Parking Pass/Entrance Fee     | Required                            |
-| Restroom(s)                   | No                                  |
-| Terrain                       | Dirt path; rocky path               |
+| **Characteristic**     | **Details**         |
+|-------------------------|---------------------|
+| Time Estimate          | 4 hours - 6 hours           |
+| Trail Distance (Miles) | 7.6                 |
+| Elevation Change       | Moderate          |
+| Pets                   | Not Allowed         |
+| Parking Pass/Entrance Fee | Required         |
+| Restroom(s)            | No      |
+| Best Ages              |                     |
 
 ![](maps/trail-24-map.jpeg)
 

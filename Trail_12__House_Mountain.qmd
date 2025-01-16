@@ -8,18 +8,15 @@ The highest point in Knox County (but far from the highest in the book), this tr
 
 ### Key Characteristics
 
-| Trail Name                    | House Mountain Overlook    |
-|:------------------------------|:---------------------------|
-| Region                        | Knoxville and Surroundings |
-| Trail \#                      | 12                         |
-| Time Estimate - Hiking Fast   | 2.5 hours                  |
-| Time Estimate - Hiking Slowly | 4.5 hours                  |
-| Trail Distance (Miles)        | 2.5                        |
-| Elevation Change              | Steep                      |
-| Pets                          | Allowed on leash           |
-| Parking Pass/Entrance Fee     | Not Required               |
-| Restroom(s)                   | No                         |
-| Terrain                       | Dirt path; rocky path      |
+| **Characteristic**     | **Details**         |
+|-------------------------|---------------------|
+| Time Estimate          | 2.5 hours - 4.5 hours           |
+| Trail Distance (Miles) | 2.5                 |
+| Elevation Change       | Steep          |
+| Pets                   | Allowed on leash         |
+| Parking Pass/Entrance Fee | Not Required         |
+| Restroom(s)            | No      |
+| Best Ages              |                     |
 
 ![](maps/trail-12-map.jpeg)
 

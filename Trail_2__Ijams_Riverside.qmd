@@ -6,22 +6,17 @@ It’s easy to take this destination for granted if you live in Knoxville – we
 
 ![](img/trail-02-figure-01.jpg)
 
-### Key Characteristics %WRONG TABLE IS BELOW%
+### Key Characteristics
 
-# Trail Details: Ijams River and Tower Loop
-
-| **Attribute**              | **Details**                 |
-|----------------------------|-----------------------------|
-| **Region**                 | Knoxville and Surroundings |
-| **Trail #**                | 2                           |
-| **Time Estimate - Fast**   | 45 minutes                 |
-| **Time Estimate - Slow**   | 1.5 hours                  |
-| **Trail Distance (Miles)** | 1.03                       |
-| **Elevation Change**       | Moderate                   |
-| **Pets**                   | Allowed on leash           |
-| **Parking Pass/Fee**       | Required (pay on site)     |
-| **Restroom(s)**            | Yes                        |
-| **Terrain**                | Dirt path; boardwalk; rocky steps |
+| **Characteristic**     | **Details**                 |
+|-------------------------|-----------------------------|
+| Time Estimate          | 45 minutes - 1.5 hours     |
+| Trail Distance (Miles) | 1.03                        |
+| Elevation Change       | Moderate                   |
+| Pets                   | Allowed on leash           |
+| Parking Pass/Entrance Fee | Required (pay on site)     |
+| Restroom(s)            | Yes                        |
+| Best Ages              |                             |
 
 ![](maps/trail-02-map.jpeg)
 
