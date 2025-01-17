@@ -25,6 +25,8 @@ Surprisingly close to Knoxville, given how remote and wild this trailhead and tr
 
 Trailhead Address: Big Creek Picnic Area, QV2R+H6 Newport, Tennessee Trailhead GPS Coordinates: 35.75132, -83.10964
 
+Trailhead GPS Coordinates: 35.75132, -83.10964
+
 Navigate to the Big Creek Picnic Area. Note that the above address uses a Google Maps "Plus code" in the absence of a street address for this picnic area; the plus code only works in Google Maps. The picnic area is at the end of a bumpy dirt road; it's large and easy to find. You may note the Big Creek Trailhead on the way (it was on the right, immediately before the parking lot). Park and then backtrack a little on the road you took to the parking area to find the start of this trail. Kids may like to play around the picnic area (and the pretty bridge crossing Big Creek) before or after the hike!
 
 ### Trail Description
@@ -41,4 +43,4 @@ Navigate to the Big Creek Picnic Area. Note that the above address uses a Google
 
 ### Nearby
 
--   **Picnicking at a lovely picnic area.** The Big Creek Picnic Area is one of the finest spots to picnic in the Great Smoky Mountains National Park. Start or end your hike with a picnic here.
+-   ****Picnicking at a lovely picnic area.**** The Big Creek Picnic Area is one of the finest spots to picnic in the Great Smoky Mountains National Park. Start or end your hike with a picnic here.

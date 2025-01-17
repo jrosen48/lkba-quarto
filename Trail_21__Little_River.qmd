@@ -25,6 +25,8 @@ This hike is a great introduction to the Great Smoky Mountains National Park by 
 
 Trailhead Address: Elkmont Campground, MC58+3H Gatlinburg, Tennessee Trailhead GPS Coordinates: 35.65346, -83.58005
 
+Trailhead GPS Coordinates: 35.65346, -83.58005
+
 The trailhead address includes a "Plus code" to park at the start of the Little River Trail --- that parking area does not have a specific address. If you navigate to "Elkmont Campground," then look for signs to the parking for the Little River Trail, where this hike begins. Park and look for the gate across the gravel road, where the Little River Trail begins.
 
 ### Trail Description
@@ -45,5 +47,5 @@ The trailhead address includes a "Plus code" to park at the start of the Little 
 
 ### Nearby
 
--   **Visiting historic cabins.** The nearby historic cabins are a must-see. Kids love to duck into and out of many recently restored (and others in the process of being restored).
--   **Camping at Elkmont campground.** The Elkmont Campground is scenic, large, and worth a visit, especially if you can reserve a spot beside the Little River.
+-   ****Visiting historic cabins.**** The nearby historic cabins are a must-see. Kids love to duck into and out of many recently restored (and others in the process of being restored).
+-   ****Camping at Elkmont campground.**** The Elkmont Campground is scenic, large, and worth a visit, especially if you can reserve a spot beside the Little River.

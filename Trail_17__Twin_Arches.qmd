@@ -25,6 +25,8 @@ This short hike leads to one of the most surprising geologic features in Tenness
 
 Trailhead Address: Twin Arches Trailhead, G7V5+Q7 Jamestown, Tennessee Trailhead GPS Coordinates: 36.48797, -84.69744
 
+Trailhead GPS Coordinates: 36.48797, -84.69744
+
 The above address should easily navigate you to the large parking area with a restroom. Note that the above address uses a Google Maps "Plus code", as the trailhead does not have a street address. This will only work in Google Maps. Park, and look for the sign for the Twin Arches trail near the back of the parking lot.
 
 ### Trail Description
@@ -42,5 +44,5 @@ The above address should easily navigate you to the large parking area with a re
 
 ### Nearby
 
--   **Camping or renting a cabin at Pickett State Park.** Pickett State Park, a nice campground that also has both historic and modern cabins to rent, is close to this trail. It also features a great lake for kayaking, canoeing, or paddle boarding.
--   **View the night sky.** Pickett State Park has a Silver-tier designation as an International Dark Sky Park. Even if you're not strictly in the State Park, this is a great place to view stars and planets in the night sky.
+-   ****Camping or renting a cabin at Pickett State Park.**** Pickett State Park, a nice campground that also has both historic and modern cabins to rent, is close to this trail. It also features a great lake for kayaking, canoeing, or paddle boarding.
+-   ****View the night sky.**** Pickett State Park has a Silver-tier designation as an International Dark Sky Park. Even if you're not strictly in the State Park, this is a great place to view stars and planets in the night sky.
