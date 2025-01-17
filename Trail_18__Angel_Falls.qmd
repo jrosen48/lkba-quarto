@@ -8,16 +8,16 @@ Like a few of the other trails in or near the Cumberland Plateau, this is a spec
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 1.5 hours - 2.5 hours           |
-| Trail Distance (Miles) | 2.8                 |
-| Elevation Change       | Gentle          |
-| Pets                   | Allowed on leash         |
-| Parking Pass/Entrance Fee | Not Required         |
-| Restroom(s)            | No      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**           |
+|---------------------------|-----------------------|
+| Time Estimate             | 1.5 hours - 2.5 hours |
+| Trail Distance (Miles)    | 2.8                   |
+| Elevation Change          | Gentle                |
+| Pets                      | Allowed on leash      |
+| Parking Pass/Entrance Fee | Not Required          |
+| Restroom(s)               | No                    |
+| Best Ages                 |                       |
+| Strollers and Wheelchairs |                       |
 
 ![](maps/trail-18-map.jpeg)
 
@@ -32,7 +32,7 @@ This address is for the trailhead for the Grand Gap Loop, deep into the Big Sout
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                     |
-|:------------|:-----------------------------------|
+|:-------------------|:---------------------------------------------------|
 | 0.0                 | Start on the Grand Gap Loop (part of the John Muir Trail - they share a name at this point). Head counterclockwise on the loop trail; the other direction is a much longer way to the overlook. |
 | 0.85                | Grave site.                                                                                                                                                                                     |
 | 1.0                 | Descend gently toward the overlook.                                                                                                                                                             |
@@ -41,5 +41,5 @@ This address is for the trailhead for the Grand Gap Loop, deep into the Big Sout
 
 ### Nearby
 
--   ****Stopping by Bandy Creek.**** Check out the Bandy Creek chapter for more details.
--   ****Hiking the Angel Falls Trail---and others.**** The Angel Falls Trail---not to be mistaken with the trail taken to the overlook featured in this hike---starts at the parking area beside the Leatherwood Ford Bridge. It follows the Big South Fork River to conclude with a different---closer---view of Angel Falls, but without the vista from the overlook. Also, the Big South Fork National River and Recreation Area has more than 300 miles of trails.
+-   **Stopping by Bandy Creek.** Check out the Bandy Creek chapter for more details.
+-   **Hiking the Angel Falls Trail**—**and others.** The Angel Falls Trail—not to be mistaken with the trail taken to the overlook featured in this hike—starts at the parking area beside the Leatherwood Ford Bridge. It follows the Big South Fork River to conclude with a close-up view of Angel Falls, but without the vista from the overlook. Also, the Big South Fork National River and Recreation Area has more than 300 miles of trails.

@@ -8,16 +8,16 @@ You'll be surrounded by trees galore at William Hastie! The start features a beg
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 0.5 hours - 1 hour           |
-| Trail Distance (Miles) | 1.3                 |
-| Elevation Change       | Flat          |
-| Pets                   | Allowed on leash         |
-| Parking Pass/Entrance Fee | Not Required         |
-| Restroom(s)            | No      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**        |
+|---------------------------|--------------------|
+| Time Estimate             | 0.5 hours - 1 hour |
+| Trail Distance (Miles)    | 1.3                |
+| Elevation Change          | Flat               |
+| Pets                      | Allowed on leash   |
+| Parking Pass/Entrance Fee | Not Required       |
+| Restroom(s)               | No                 |
+| Best Ages                 |                    |
+| Strollers and Wheelchairs |                    |
 
 ![](maps/trail-09-map.jpeg)
 
@@ -41,5 +41,5 @@ The above address will direct you to a large, rarely-busy parking lot and a nice
 
 ### Nearby
 
--   ****Bring bike and enjoy the kids' loop.**** The "green" mountain biking trail, Springarn, is a great spot for kids to begin to learn to ride on trails. It's only 0.6 miles and is a nice complement to this hike.
--   ****Explore some of the many other trails while you're there.**** William Hastie Natural Area features many other trails of varying difficulty. Consider taking Mitchie's Way from near the parking area --- ****and then looping back to Margaret Road and the start on the trail of your choice.****
+-   **Bring bike and enjoy the kids' loop.** The "green" mountain biking trail, Springarn, is a great spot for kids to begin to learn to ride on trails. It's only 0.6 miles and is a nice complement to this hike.
+-   **Explore some of the many other trails while you're there.** William Hastie Natural Area features many other trails of varying difficulty. Consider taking Mitchie's Way from near the parking area—and then looping back to Margaret Road and the start on the trail of your choice.

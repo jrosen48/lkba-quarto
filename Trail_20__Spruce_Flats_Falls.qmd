@@ -8,16 +8,16 @@ An adventurous hike in the Smokies accessible to many families, it is also a gre
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 1.5 hours - 2.5 hours           |
-| Trail Distance (Miles) | 1.6                 |
-| Elevation Change       | Moderate          |
-| Pets                   | Not Allowed         |
-| Parking Pass/Entrance Fee | Required         |
-| Restroom(s)            | Yes      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**           |
+|---------------------------|-----------------------|
+| Time Estimate             | 1.5 hours - 2.5 hours |
+| Trail Distance (Miles)    | 1.6                   |
+| Elevation Change          | Moderate              |
+| Pets                      | Not Allowed           |
+| Parking Pass/Entrance Fee | Required              |
+| Restroom(s)               | Yes                   |
+| Best Ages                 |                       |
+| Strollers and Wheelchairs |                       |
 
 (This map is being worked on stil) <!-- ![](maps/trail-20-map.jpeg) -->
 
@@ -32,7 +32,7 @@ The address and coordinates are for the Great Smoky Mountains Institute, as this
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                         |
-|:----------|:-----------------------------------|
+|:-----------------|:-----------------------------------------------------|
 | 0.0                 | You'll see signs for Spruce Flats Falls, but you'll begin ever-so-briefly on a different trail that connects to the trail you'll take to the falls, Buckeye Trail. Start on the Lumber Ridge Trail. |
 | 0.1                 | Turn right onto the Buckete Trail, the trail you'll be on all the way to the falls (and back to this spot on the return journey).                                                                   |
 | 0.15                | Trail levels out before a steep cluimb.                                                                                                                                                             |
@@ -41,10 +41,10 @@ The address and coordinates are for the Great Smoky Mountains Institute, as this
 | 0.8                 | Spruce Flat Falls. A great snack or picnic spot. After a nice break, turn around the way you came.                                                                                                  |
 | 1.6                 | Trailhead.                                                                                                                                                                                          |
 
-![](img/spruce flats kids.jpg)
+![](img/spruce%20flats%20kids.jpg)
 
 ### Nearby
 
--   ****Stopping at the Tremont store.**** The gift store at Tremont (the full name is the Great Smoky Mountains Institute at Tremont) is usually open Monday -- ****Friday from 10:00 a.****m. -- ****4:00 p.****m.
--   ****Hiking the West Prong trail.**** This is a great nearby trail to a great picnic spot (at the site of Backcountry Site #18--- ****across the road from the Great Smoky Mountains Institute at Tremont.****
--   ****Visiting Townsend.**** See Chestnut Tops trail for more detail.
+-   **Stopping at the Tremont store.** The gift store at Tremont (the full name is the Great Smoky Mountains Institute at Tremont) is usually open Monday—Friday from 10:00 a.m.—4:00 p.m.
+-   **Hiking the West Prong trail.** This is a great nearby trail to a great picnic spot (at the site of Backcountry Site #18---across the road from the Great Smoky Mountains Institute at Tremont.
+-   **Visiting Townsend.** See Chestnut Tops trail for more detail.

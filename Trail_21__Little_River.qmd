@@ -8,16 +8,16 @@ This hike is a great introduction to the Great Smoky Mountains National Park by 
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 3 hours - 5 hours           |
-| Trail Distance (Miles) | 5.5                 |
-| Elevation Change       | Moderate          |
-| Pets                   | Not Allowed         |
-| Parking Pass/Entrance Fee | Required         |
-| Restroom(s)            | No      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**       |
+|---------------------------|-------------------|
+| Time Estimate             | 3 hours - 5 hours |
+| Trail Distance (Miles)    | 5.5               |
+| Elevation Change          | Moderate          |
+| Pets                      | Not Allowed       |
+| Parking Pass/Entrance Fee | Required          |
+| Restroom(s)               | No                |
+| Best Ages                 |                   |
+| Strollers and Wheelchairs |                   |
 
 ![](maps/trail-21-map.jpeg)
 
@@ -32,7 +32,7 @@ The trailhead address includes a "Plus code" to park at the start of the Little 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                               |
-|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------|:---------------------------------------------------------|
 | 0.0                 | Pass around the gate (it's closed only to vehicles) to begin on the Little River Trail.                                                                   |
 | 0.1                 | Pass the Spence Cabin, a histotic cabin that is available to rent (for the day --- not for nights!).                                                      |
 | 0.45                | Trail begins to ascend.                                                                                                                                   |
@@ -43,9 +43,9 @@ The trailhead address includes a "Plus code" to park at the start of the Little 
 | 5.3                 | Reach Jakes Creek Road. Turn right to return to the trailhead.                                                                                            |
 | 5.5                 | Trailhead.                                                                                                                                                |
 
-![](img/trail-21-figure-02.jpg)
+![](img/butterflies.jpg)
 
 ### Nearby
 
--   ****Visiting historic cabins.**** The nearby historic cabins are a must-see. Kids love to duck into and out of many recently restored (and others in the process of being restored).
--   ****Camping at Elkmont campground.**** The Elkmont Campground is scenic, large, and worth a visit, especially if you can reserve a spot beside the Little River.
+-   **Visiting historic cabins.** The nearby historic cabins are a must-see. Kids love to duck into and out of many recently restored (and others in the process of being restored).
+-   **Camping at Elkmont campground.** The Elkmont Campground is scenic, large, and worth a visit, especially if you can reserve a spot beside the Little River.

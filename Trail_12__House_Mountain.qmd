@@ -8,16 +8,16 @@ The highest point in Knox County (but far from the highest in the book), this tr
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 2.5 hours - 4.5 hours           |
-| Trail Distance (Miles) | 2.5                 |
-| Elevation Change       | Steep          |
-| Pets                   | Allowed on leash         |
-| Parking Pass/Entrance Fee | Not Required         |
-| Restroom(s)            | No      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**           |
+|---------------------------|-----------------------|
+| Time Estimate             | 2.5 hours - 4.5 hours |
+| Trail Distance (Miles)    | 2.5                   |
+| Elevation Change          | Steep                 |
+| Pets                      | Allowed on leash      |
+| Parking Pass/Entrance Fee | Not Required          |
+| Restroom(s)               | No                    |
+| Best Ages                 |                       |
+| Strollers and Wheelchairs |                       |
 
 ![](maps/trail-12-map.jpeg)
 
@@ -32,7 +32,7 @@ The trailhead is straightforward to locate and access. Park at the large parking
 ### Trail Description
 
 | Distance from Start | Description                                                                                                   |
-|:------------|:-----------------------------------|
+|:-------------------|:---------------------------------------------------|
 | 0.0                 | Start on the Connector Trail.                                                                                 |
 | 0.1                 | Turn left onto the West Overlook Trail. Begin to climb up the mountain.                                       |
 | 0.85                | Rocky prominence. The trail changes here to the Crest Trail. Trail flattens from here.                        |
@@ -44,4 +44,4 @@ The trailhead is straightforward to locate and access. Park at the large parking
 
 ### Nearby
 
--   ****Visiting Zoo Knoxville on the way home.**** Zoo Knoxville (3500 Knoxville Zoo Dr, Knoxville, TN 37914) is accessible from I-40, on the way to House Mountain for those traveling from Knoxville or west of the city center. It's a fantastic place to spend half of a day (or longer).
+-   **Visiting Zoo Knoxville on the way home.** Zoo Knoxville (3500 Knoxville Zoo Dr, Knoxville, TN 37914) is accessible from I-40, on the way to House Mountain for those traveling from Knoxville or west of the city center. It's a fantastic place to spend half of a day (or longer).

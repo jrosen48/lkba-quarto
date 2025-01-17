@@ -8,16 +8,16 @@ Another hike that is very close to Knoxville's city center, the Knox-Blount Gree
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 45 minutes - 1.5 hours           |
-| Trail Distance (Miles) | 2.3                 |
-| Elevation Change       | Gentle          |
-| Pets                   | Allowed on leash         |
-| Parking Pass/Entrance Fee | Not Required         |
-| Restroom(s)            | No      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**            |
+|---------------------------|------------------------|
+| Time Estimate             | 45 minutes - 1.5 hours |
+| Trail Distance (Miles)    | 2.3                    |
+| Elevation Change          | Gentle                 |
+| Pets                      | Allowed on leash       |
+| Parking Pass/Entrance Fee | Not Required           |
+| Restroom(s)               | No                     |
+| Best Ages                 |                        |
+| Strollers and Wheelchairs |                        |
 
 ![](maps/trail-06-map.jpeg)
 
@@ -32,7 +32,7 @@ Park in the lot at the above address. If helpful, the building next to the lot i
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                           |
-|:-----------------|:-----------------------------------|
+|:------------------------|:-----------------------------------------------|
 | 0.0                 | Walk down the terraced amphitheater.                                                                                                                                  |
 | 0.1                 | Begin to descend down a gradual hill.                                                                                                                                 |
 | 0.3                 | Reach the river and the Knox-Blount Greenway trail proper. Our route turns right, but you can explore in either direction!                                            |
@@ -45,5 +45,5 @@ Park in the lot at the above address. If helpful, the building next to the lot i
 
 ### Nearby
 
--   ****Take time to visit the UT Gardens.**** The nearby UT Gardens (2621 Morgan Circle, Knoxville, TN 37996) is a great spot for a meander through beautiful gardens. Be sure to check out the Children's Garden featuring grassy mounds and ample play structures!
--   ****Bike the greenways!**** While we featured the Knox-Blount Greenway as a hike, it's also a fun bike ride for young bikers.
+-   **Take time to visit the UT Gardens.** The nearby UT Gardens (2621 Morgan Circle, Knoxville, TN 37996) is a great spot for a meander through beautiful gardens. Be sure to check out the Children's Garden featuring grassy mounds and ample play structures!
+-   **Bike the greenways!** While we featured the Knox-Blount Greenway as a hike, it's also a fun bike ride for young bikers.

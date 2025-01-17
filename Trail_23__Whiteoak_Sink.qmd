@@ -8,16 +8,16 @@ This is the wildflower hike in the Smokies. It's a joy in mid-late April, depend
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 3 hours - 5 hours           |
-| Trail Distance (Miles) | 4.6                 |
-| Elevation Change       | Moderate          |
-| Pets                   | Not Allowed         |
-| Parking Pass/Entrance Fee | Required         |
-| Restroom(s)            | No      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**       |
+|---------------------------|-------------------|
+| Time Estimate             | 3 hours - 5 hours |
+| Trail Distance (Miles)    | 4.6               |
+| Elevation Change          | Moderate          |
+| Pets                      | Not Allowed       |
+| Parking Pass/Entrance Fee | Required          |
+| Restroom(s)               | No                |
+| Best Ages                 |                   |
+| Strollers and Wheelchairs |                   |
 
 ![](maps/trail-23-map.jpeg)
 
@@ -32,7 +32,7 @@ The above address is for the parking area beside the trail. Please note it uses 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                                                                                                                                                            |
-|:--------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-----------|:-----------------------------------------------------------|
 | 0.0                 | Start on the Schoolhouse Gap Trail. Trail very gradually ascends.                                                                                                                                                                                                                                                                      |
 | 0.4                 | Trail climbs more steeply (but managably!).                                                                                                                                                                                                                                                                                            |
 | 1.1                 | Intersection with the trail to Whiteoak Sink. Note that Whiteoak Sink is not an official trail on the official trail map for the Great Smoky Mountains National Park; thus, the trail is not as well marked as most others. Turn left from the Schoolhouse Gap trail onto the trail to Whiteoak Sink. Descend for around .25 miles.    |
@@ -43,8 +43,10 @@ The above address is for the parking area beside the trail. Please note it uses 
 | 2.35                | Reach the large bat cave ahead of the end of the trail. Still tread carefully (and do not attempt to enter the caves for your safety and to not endanger the bats). Optionally, turn right or left to explore more of this special area. Then, turn around to return along the trail you took into Whiteoak Sink. Return to the start. |
 | 4.6                 | Trailhead.                                                                                                                                                                                                                                                                                                                             |
 
+![](img/sign for whiteoak.jpeg)
+
 ### Nearby
 
--   ****Exploring the Cades Cove loop.**** A drive around the Cades Cove Loop can complement a hike to Whiteoak Sink. We recommend only driving this beautiful loop road outside of the busiest times (summer and fall weekends and holidays, mainly) when traffic can be intense. Consult the Abrams Fall hike for additional details on this area and nearby amenities.
--   ****Visiting Townsend.**** Like the Chestnut Tops hike, visiting "The Peaceful Side of the Smokies," Townsend, is a great way to end this trip to the Great Smoky Mountains National Park.
--   ****Hiking the West Prong Trail.**** The nearby West Prong Trail is a favorite that didn't quite make it into this book, but it is still a worthy destination. Instead of hiking up Schoolhouse Gap (like for this trail), cross the road and hike to the scenic backpacking site #18 as the turn-around spot beside a wood log bridge and pretty creek.
+-   \*\*\*\*Exploring the Cades Cove loop.\*\*\*\* A drive around the Cades Cove Loop can complement a hike to Whiteoak Sink. We recommend only driving this beautiful loop road outside of the busiest times (summer and fall weekends and holidays, mainly) when traffic can be intense. Consult the Abrams Fall hike for additional details on this area and nearby amenities.
+-   \*\*\*\*Visiting Townsend.\*\*\*\* Like the Chestnut Tops hike, visiting "The Peaceful Side of the Smokies," Townsend, is a great way to end this trip to the Great Smoky Mountains National Park.
+-   \*\*\*\*Hiking the West Prong Trail.\*\*\*\* The nearby West Prong Trail is a favorite that didn't quite make it into this book, but it is still a worthy destination. Instead of hiking up Schoolhouse Gap (like for this trail), cross the road and hike to the scenic backpacking site #18 as the turn-around spot beside a wood log bridge and pretty creek.

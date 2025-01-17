@@ -8,16 +8,16 @@ Abrams Creek is a great place to start hiking in the Smokies if you live in or a
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 4 hours - 6 hours           |
-| Trail Distance (Miles) | 5.8                 |
-| Elevation Change       | Moderate          |
-| Pets                   | Not Allowed         |
-| Parking Pass/Entrance Fee | Required         |
-| Restroom(s)            | Yes (seasonal)      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**       |
+|---------------------------|-------------------|
+| Time Estimate             | 4 hours - 6 hours |
+| Trail Distance (Miles)    | 5.8               |
+| Elevation Change          | Moderate          |
+| Pets                      | Not Allowed       |
+| Parking Pass/Entrance Fee | Required          |
+| Restroom(s)               | Yes (seasonal)    |
+| Best Ages                 |                   |
+| Strollers and Wheelchairs |                   |
 
 ![](maps/trail-25-map.jpeg)
 
@@ -32,7 +32,7 @@ It never seems to become crowded at Abrams Creek, but parking can be a bit confu
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                               |
-|:------------|:------------------------------------------------------|
+|:----------------|:------------------------------------------------------|
 | 0.0                 | Start at the trailhead parking area. Walk along the road beside Abrams Creek.                                                             |
 | 0.4                 | Arrive at the campground. A great spot to rest and hang out by the creek.                                                                 |
 | 1.0                 | Cross Kingfisher Creek for the first time. Watch for rocks and branches to aid in crossing.                                               |
@@ -49,5 +49,5 @@ It never seems to become crowded at Abrams Creek, but parking can be a bit confu
 
 ### Nearby
 
--   ****Visiting the Look Rock Overlook.**** Check the Look Rock Overlook hike for a short, nearby hike to a pretty overlook.
--   ****Camping at Abrams Creek Campground.**** This is a lovely creekside campground that you pass on this hike. Consider a stay in the summer, when jumping in the cool, not-too-deep creek can be a respite from the heat---or in the fall when this area pops with fall colors.
+-   **Visiting the Look Rock Overlook.** Check the Look Rock Overlook hike for a short, nearby hike to a pretty overlook.
+-   **Camping at Abrams Creek Campground.** This is a lovely creekside campground that you pass on this hike. Consider a stay in the summer, when jumping in the cool, not-too-deep creek can be a respite from the heat---or in the fall when this area pops with fall colors.

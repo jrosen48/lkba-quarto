@@ -8,16 +8,16 @@ Writing about this trail makes us smile. In many ways, it's the perfect kid hike
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 2 hours - 3.5 hours           |
-| Trail Distance (Miles) | 2.4                 |
-| Elevation Change       | Moderate          |
-| Pets                   | Allowed on leash         |
-| Parking Pass/Entrance Fee | Not Required         |
-| Restroom(s)            | No      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**         |
+|---------------------------|---------------------|
+| Time Estimate             | 2 hours - 3.5 hours |
+| Trail Distance (Miles)    | 2.4                 |
+| Elevation Change          | Moderate            |
+| Pets                      | Allowed on leash    |
+| Parking Pass/Entrance Fee | Not Required        |
+| Restroom(s)               | No                  |
+| Best Ages                 |                     |
+| Strollers and Wheelchairs |                     |
 
 ![](maps/trail-13-map.jpeg)
 
@@ -32,18 +32,17 @@ Park in a spot at the Emory Gap Trailhead. Note that the above address uses a "P
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                            |
-|:------------|:-----------------------------------|
+|:-------------------|:---------------------------------------------------|
 | 0.0                 | Start by walking across the bridge at the trailhead.                                                                                                   |
 | 0.55                | DeBord Falls. Walk down the stairs on the right to view the waterfall from below. The trail continues along, but turn back if you like (we often do!). |
 | 0.9                 | Trail switchbacks.                                                                                                                                     |
 | 1.1                 | Steep and rocky section at the end to the viewing spot for Emory Falls.                                                                                |
 | 1.2                 | After viewing the waterfall, head back to the start!                                                                                                   |
 | 2.4                 | Trailhead.                                                                                                                                             |
-
-![](img/trail-13-figure-02.jpg)
+![](img/cliffs emory.jpg)
 
 ### Nearby
 
--   ****Playing at the playground.**** There is a fun, shaded creekside playground 0.7 miles down the road from the trailhead; most of the year, the creek is a perfect depth for safe splashing.
--   ****Checking out the Flat Fork Story Book Trail.**** Starting near the playground, this short trail is great for the littlest hikers.
--   ****Hiking to the Frozen Head Mountain Summit.**** A challenge for the biggest hikers---including adults! This hike is around strenuous seven miles to and back from the Lookout Tower at the summit of Frozen Head Mountain, from which views of the Smokies far in the distance can be faintly visible on clear days.
+-   **Playing at the playground.** There is a fun, shaded creekside playground 0.7 miles down the road from the trailhead; most of the year, the creek is a perfect depth for safe splashing.
+-   **Checking out the Flat Fork Story Book Trail.** Starting near the playground, this short trail is great for the littlest hikers.
+-   **Hiking to the Frozen Head Mountain Summit.** A challenge for the biggest hikers—including adults! This hike is around strenuous seven miles to and back from the Lookout Tower at the summit of Frozen Head Mountain, from which views of the Smokies far in the distance can be faintly visible on clear days.

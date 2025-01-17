@@ -8,16 +8,16 @@ This hike is just north of downtown, making it a great stop before grabbing a bi
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 1.5 hours - 2.5 hours           |
-| Trail Distance (Miles) | 2.3                 |
-| Elevation Change       | Moderate          |
-| Pets                   | Allowed on leash         |
-| Parking Pass/Entrance Fee | Not Required         |
-| Restroom(s)            | No      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**           |
+|---------------------------|-----------------------|
+| Time Estimate             | 1.5 hours - 2.5 hours |
+| Trail Distance (Miles)    | 2.3                   |
+| Elevation Change          | Moderate              |
+| Pets                      | Allowed on leash      |
+| Parking Pass/Entrance Fee | Not Required          |
+| Restroom(s)               | No                    |
+| Best Ages                 |                       |
+| Strollers and Wheelchairs |                       |
 
 ![](maps/trail-10-map.jpeg)
 
@@ -32,7 +32,7 @@ The trailhead can be just a little tricky to find---partially because Google Map
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                    |
-|:------------|:-----------------------------------|
+|:-------------------|:---------------------------------------------------|
 | 0.0                 | Start by walking through the Arbor, past the handy trail map of the Sharps Ridge area. You're technically on the very short Hanover Access trail.              |
 | 0.1                 | Turn right onto Lincoln Trail. Wind up through the deep woods and easy curves in the trail.                                                                    |
 | 0.8                 | Turn right onto Sharp Shin.                                                                                                                                    |
@@ -43,7 +43,9 @@ The trailhead can be just a little tricky to find---partially because Google Map
 | 2.2                 | Turn left onto the Hanover Access Trail.                                                                                                                       |
 | 2.3                 | Traihead.                                                                                                                                                      |
 
+![](img/sharps trail.jpg)
+
 ### Nearby
 
--   ****Grab a bite to eat at a nearby restaurant.**** Favorite nearby spots include the fantastic Wild Love Bakehouse (1625 N Central St, Knoxville, TN 37917), the quick, inexpensive, tasty Taqueria La Herradura (2625 N Broadway, Knoxville, TN 37917), and Hard Knox Pizza Central (2300 N Central St, Knoxville, TN 37917).
--   ****Hike further or on other trails to keep the adventures rolling.**** Sharp's Ridge includes many other trails. A favorite starts at a different nearby parking area, immediately behind the Cherry Creek Apartments (navigate to 3404 Dill St, Knoxville, TN 37917). We like the Lincoln Trail, which is also an accessible mountain bike trail.
+-   **Grab a bite to eat at a nearby restaurant.** Favorite nearby spots include the fantastic Wild Love Bakehouse (1625 N Central St, Knoxville, TN 37917), the quick, inexpensive, tasty Taqueria La Herradura (2625 N Broadway, Knoxville, TN 37917), and Hard Knox Pizza Central (2300 N Central St, Knoxville, TN 37917).
+-   **Hike further or on other trails to keep the adventures rolling.** Sharp's Ridge includes many other trails. A favorite starts at a different nearby parking area, immediately behind the Cherry Creek Apartments (navigate to 3404 Dill St, Knoxville, TN 37917). We like the Lincoln Trail, which is also an accessible mountain bike trail.

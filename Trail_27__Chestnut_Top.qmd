@@ -8,16 +8,16 @@ Steep but quiet and rewarding, Chestnut Top is a fun choice for a shorter hike i
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 1.5 hours - 2.5 hours           |
-| Trail Distance (Miles) | 2.6                 |
-| Elevation Change       | Steep          |
-| Pets                   | Not Allowed         |
-| Parking Pass/Entrance Fee | Required         |
-| Restroom(s)            | No      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**           |
+|---------------------------|-----------------------|
+| Time Estimate             | 1.5 hours - 2.5 hours |
+| Trail Distance (Miles)    | 2.6                   |
+| Elevation Change          | Steep                 |
+| Pets                      | Not Allowed           |
+| Parking Pass/Entrance Fee | Required              |
+| Restroom(s)               | No                    |
+| Best Ages                 |                       |
+| Strollers and Wheelchairs |                       |
 
 ![](maps/trail-27-map.jpeg)
 
@@ -32,7 +32,7 @@ This address is for the Townsend Wye, a prominent intersection between Townsend,
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                       |
-|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------|:---------------------------------------------------------|
 | 0.0                 | Start on the Chestnut Top Trail. Ascend steeply.                                                                                                                                  |
 | 0.6                 | Trail levels out. Townsend visible from the trail.                                                                                                                                |
 | 0.70                | Rocky outcropping. Great place for a break and for kids to scramble up and around the rocks. Look for Mountain Laurel a little bit up the trail that flowers around May and June. |
@@ -41,5 +41,5 @@ This address is for the Townsend Wye, a prominent intersection between Townsend,
 
 ### Nearby
 
--   ****Visiting Townsend.**** Townsend rightly contrasts itself with busy Pigeon Forge and Gatlinburg---it remains quiet but full of places to stop. We love the kid-friendly Peaceful Side Social (7967 E Lamar Alexander Pkwy, Townsend, TN 37882) and the next-door Peaceful Side Creamery.
--   ****Swimming at the Townsend Wye.**** This is a classic summertime Smokies activity. From the large parking area near the trailhead, swim in the Little River beside the Townsend Wye---the three-way intersection of Townsend Entrance Road (toward Townsend), Laurel Creek Road (to Cades Cove), and Little River Gorge Road (toward Gatlinburg).
+-   **Visiting Townsend.** Townsend rightly contrasts itself with busy Pigeon Forge and Gatlinburg---it remains quiet but full of places to stop. We love the kid-friendly Peaceful Side Social (7967 E Lamar Alexander Pkwy, Townsend, TN 37882) and the next-door Peaceful Side Creamery.
+-   **Swimming at the Townsend Wye.** This is a classic summertime Smokies activity. From the large parking area near the trailhead, swim in the Little River beside the Townsend Wye---the three-way intersection of Townsend Entrance Road (toward Townsend), Laurel Creek Road (to Cades Cove), and Little River Gorge Road (toward Gatlinburg).

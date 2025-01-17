@@ -21,7 +21,7 @@ A symbol of the wildness of the Smokies -- and a very real presence. If you see 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                                                                                                   |
-|:--------------|:--------------------------------------------------|
+|:-----------------|:-----------------------------------------------------|
 | 0.0                 | Start on the Abrams Fall Trail, crossing a bridge over the scenic Abrams Creek soon after you start.                                                                                                                                                                          |
 | 0.1                 | Wind along the path through a pine forest.                                                                                                                                                                                                                                    |
 | 1.1                 | Rocky prominence that serves as a scenic overlook.                                                                                                                                                                                                                            |
@@ -31,8 +31,8 @@ A symbol of the wildness of the Smokies -- and a very real presence. If you see 
 
 ### Nearby
 
--   ****Visiting the visitor center.**** The Cades Cove Visitor Center (5686 Cades Cove Loop Rd, Townsend, TN 37882) up the road is a store, but it also abuts several nearby historical structures that are worth a visit)---the Cades Cove Historical Grist Mill and the John P Cable Drive Thru Barn (that you walk, rather than drive, to and through!). Try to find your way to Mill Creek to cool off in warm weather.
--   ****Stopping at historic cabins and scenic lookouts.**** Though it can be busy with traffic, especially during peak visitation periods (summer and fall weekends, in particular), a drive through Cades Cove is punctuated with numerous opportunities to stop at historic cabins and scenic lookouts. Plus, much of the year, you and others will stop to see wildlife---deer, turkey, and often bears!
--   ****Bike the Cades Cove Loop.**** Biking the Cades Cove Loop on car-free Wednesdays during the summer and into the early fall is a classic Smokies activity. We know it's a lot for kids to bike (or be carried out on a bike) and to hike, so this may be best as a separate day trip.
+-   **Visiting the visitor center.** The Cades Cove Visitor Center (5686 Cades Cove Loop Rd, Townsend, TN 37882) up the road is a store, but it also abuts several nearby historical structures that are worth a visit)---the Cades Cove Historical Grist Mill and the John P Cable Drive Thru Barn (that you walk, rather than drive, to and through!). Try to find your way to Mill Creek to cool off in warm weather.
+-   **Stopping at historic cabins and scenic lookouts.** Though it can be busy with traffic, especially during peak visitation periods (summer and fall weekends, in particular), a drive through Cades Cove is punctuated with numerous opportunities to stop at historic cabins and scenic lookouts. Plus, much of the year, you and others will stop to see wildlife---deer, turkey, and often bears!
+-   **Bike the Cades Cove Loop.** Biking the Cades Cove Loop on car-free Wednesdays during the summer and into the early fall is a classic Smokies activity. We know it's a lot for kids to bike (or be carried out on a bike) and to hike, so this may be best as a separate day trip.
 
 ![](img/cades.jpg)

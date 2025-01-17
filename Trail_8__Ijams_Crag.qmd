@@ -8,16 +8,16 @@ This trail is a nice introduction to the area of Ijams that is centered around M
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 45 minutes - 1.5 hours           |
-| Trail Distance (Miles) | 1.5                 |
-| Elevation Change       | Moderate          |
-| Pets                   | Allowed on leash         |
-| Parking Pass/Entrance Fee | Not Required         |
-| Restroom(s)            | Yes      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**            |
+|---------------------------|------------------------|
+| Time Estimate             | 45 minutes - 1.5 hours |
+| Trail Distance (Miles)    | 1.5                    |
+| Elevation Change          | Moderate               |
+| Pets                      | Allowed on leash       |
+| Parking Pass/Entrance Fee | Not Required           |
+| Restroom(s)               | Yes                    |
+| Best Ages                 |                        |
+| Strollers and Wheelchairs |                        |
 
 ![](maps/trail-08-map.jpeg)
 
@@ -32,7 +32,7 @@ Park in the parking lot for Meads Quarry using the above address. The trail begi
 ### Trail Description
 
 | Distance from Start | Description                                                                                                              |
-|:------------|:-----------------------------------|
+|:--------------------|:-------------------------------------------------------------------------------------------------------------------------|
 | 0.0                 | Start on Imery's trail, heading away from the parking lot.                                                               |
 | 0.15                | Gradually, then more steeply. begin to ascend.                                                                           |
 | 0.30                | Trail levels out at an intersection between Imery's Trail, Rock Bridge Trail, and Gravel Road Trail.                     |
@@ -42,6 +42,6 @@ Park in the parking lot for Meads Quarry using the above address. The trail begi
 
 ### Nearby
 
--   ****Make sure to stop by the Ijams Visitor Center for a unique gift shop and a small collection of local river-based animals!**** Check out the Ijams River and Tower loop for an introduction to this other area of the Ijams Nature Center.
--   ****Play at the Ijams Nature Playscape.**** This is an amazing part of Ijams, worthy of a visit on its own. Tucked away a bit on the side of the parking area at Mead's Quarry. It's a favorite for kids, with a treehouse, tightrope, stumps for jumping, and, yes, a mud pit!
--   ****Check out the Ijams Primal playground.**** Also nearby, smaller than the Nature Playground, but packed with features for climbing and jumping for kids able to climb and explore with little adult assistance.
+-   **Make sure to stop by the Ijams Visitor Center for a unique gift shop and a small collection of local river-based animals!** Check out the Ijams River and Tower loop for an introduction to this other area of the Ijams Nature Center.
+-   **Play at the Ijams Nature Playscape.** This is an amazing part of Ijams, worthy of a visit on its own. Tucked away a bit on the side of the parking area at Mead's Quarry. It's a favorite for kids, with a treehouse, tightrope, stumps for jumping, and, yes, a mud pit!
+-   **Check out the Ijams Primal playground.** Also nearby, smaller than the Nature Playground, but packed with features for climbing and jumping for kids able to climb and explore with little adult assistance.

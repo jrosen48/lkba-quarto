@@ -8,16 +8,16 @@ This hike is great for families looking to have an authentic hiking experience d
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 4 hours - 6 hours           |
-| Trail Distance (Miles) | 7.6                 |
-| Elevation Change       | Moderate          |
-| Pets                   | Not Allowed         |
-| Parking Pass/Entrance Fee | Required         |
-| Restroom(s)            | No      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**       |
+|---------------------------|-------------------|
+| Time Estimate             | 4 hours - 6 hours |
+| Trail Distance (Miles)    | 7.6               |
+| Elevation Change          | Moderate          |
+| Pets                      | Not Allowed       |
+| Parking Pass/Entrance Fee | Required          |
+| Restroom(s)               | No                |
+| Best Ages                 |                   |
+| Strollers and Wheelchairs |                   |
 
 ![](maps/trail-24-map.jpeg)
 
@@ -32,7 +32,7 @@ The above address will navigate you to the parking area for the trailhead. Pleas
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                                                                                                                    |
-|:----------|:-----------------------------------|
+|:-----------------|:-----------------------------------------------------|
 | 0.0                 | Cross the bridge over Lynn Camp Prong. Ascend gradually on the Middle Prong Trail.                                                                                                                                                                                                             |
 | 0.05                | Almost immediately past the bridge, not the split in the trail. This hike heads to the left. A short trail, the Thunderhead Prong Quiet Walkway, heads to the left (it's a great place for kids to play and splash on hot days!).                                                              |
 | 0.65                | Overlook to Lynn Camp Prong. Though a short way in, this is an acceptable spot to turn around and head back to the start. The trail continues onward. This is one of many trails in the Smokies that is pretty and very worthwhile all along the way; hike as far as you or your littles like. |
@@ -42,7 +42,9 @@ The above address will navigate you to the parking area for the trailhead. Pleas
 | 5.25                | Intersection with the Panther Creek Trail on the right.                                                                                                                                                                                                                                        |
 | 7.6                 | Trailhead                                                                                                                                                                                                                                                                                      |
 
+![](img/jo middle prong.jpg)
+
 ### Nearby
 
--   ****Driving the Cade's Cove Loop.**** This is a nice way to make a longer day of your trip. Instead of returning the way you came, at the intersection of Townsend Road and Laurel Creek Road, turn left and head toward Cade's Cove. The drive to Cade's Cove is around 15 minutes; the loop road around Cade's Cove takes around 45 minutes to drive--longer on busy days, especially when bears are visible--which is often! Traffic on the loop road can be severe, especially during peak times, so plan accordingly to avoid restless kiddos.
--   ****Stopping for a snack or meal in Townsend.**** Townsend bills itself as the "Peaceful Side of the Smokies". Peaceful Side Social is a favorite lunch and dinner spot with kids, owing to the good food and large outdoor play area.
+-   Driving the Cade's Cove Loop. This is a nice way to make a longer day of your trip. Instead of returning the way you came, at the intersection of Townsend Road and Laurel Creek Road, turn left and head toward Cade's Cove. The drive to Cade's Cove is around 15 minutes; the loop road around Cade's Cove takes around 45 minutes to drive--longer on busy days, especially when bears are visible--which is often! Traffic on the loop road can be severe, especially during peak times, so plan accordingly to avoid restless kiddos.
+-   **Stopping for a snack or meal in Townsend.** Townsend bills itself as the "Peaceful Side of the Smokies". Peaceful Side Social is a favorite lunch and dinner spot with kids, owing to the good food and large outdoor play area.
