@@ -51,6 +51,6 @@ Park in the large gravel lot (note there is another parking area by a boat launc
 
 ### Nearby
 
--   Take advantage of the other trails nearby! Hike up the Hickory Ridge trail, another trail at Seven Islands State Birding Park, that is accessible from just behind the bathrooms near the parking lot. There are several other great hikes available, including hikes down the Kelly Lane Greenway (the other, wider, paved path near the barn that is gated to prevent cars from driving on it) and the Upland Inner and Outer Trail Loops.
--   Bring your canoe, kayak, or paddle board for even more adventures! Access parking by %ADD ADDRESS OR PARKING DIRECTIONS% Also, River Sports Outfitters rents kayaks and canoes here during the summer (see [https://www.riversportsoutfitters.com/](#0){.uri}).
--   Stop for a bite to eat and a drink on the way back! Consider stopping by kid-friendly Walnut Springs Winery (1175 Midway Rd, Knoxville, TN 37914), open Wednesday-Sunday as of this writing.
+-   **Take advantage of the other trails nearby!** Hike up the Hickory Ridge trail, another trail at Seven Islands State Birding Park, that is accessible from just behind the bathrooms near the parking lot. There are several other great hikes available, including hikes down the Kelly Lane Greenway (the other, wider, paved path near the barn that is gated to prevent cars from driving on it) and the Upland Inner and Outer Trail Loops.
+-   **Bring your canoe, kayak, or paddle board for even more adventures!** Access parking by %ADD ADDRESS OR PARKING DIRECTIONS% Also, River Sports Outfitters rents kayaks and canoes here during the summer (see [https://www.riversportsoutfitters.com/](#0){.uri}).
+-   **Stop for a bite to eat and a drink on the way back!** Consider stopping by kid-friendly Walnut Springs Winery (1175 Midway Rd, Knoxville, TN 37914), open Wednesday-Sunday as of this writing.
