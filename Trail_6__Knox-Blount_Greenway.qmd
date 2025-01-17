@@ -32,7 +32,7 @@ Park in the lot at the above address. If helpful, the building next to the lot i
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                           |
-|:------------------------|:-----------------------------------------------|
+|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.0                 | Walk down the terraced amphitheater.                                                                                                                                  |
 | 0.1                 | Begin to descend down a gradual hill.                                                                                                                                 |
 | 0.3                 | Reach the river and the Knox-Blount Greenway trail proper. Our route turns right, but you can explore in either direction!                                            |

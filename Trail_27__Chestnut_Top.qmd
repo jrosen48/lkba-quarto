@@ -4,7 +4,7 @@
 
 Steep but quiet and rewarding, Chestnut Top is a fun choice for a shorter hike in the Great Smoky Mountains National Park. This hike is one of the closest to Knoxville. Furthermore, it is close to the amenities of Townsend --- a far quieter town than Pigeon Forge and Gatlinburg. The trail starts with a steep climb until it reaches a rocky point that is a great stopping point; we always grab a snack here, and kiddos like to hike on or around the rocks. The trail continues along the trail past pretty mountain laurel, typically in bloom around mid-May through early June, stopping at a fun but somewhat arbitrary point - a hollow tree! Continue farther if you like, or head back to the start and the Townsend Wye, a great picnic and water play spot. Best for kids who are comfortable with a steady climb.
 
-![](img/trail-27-figure-01.jpg)
+![](img/trail-27-figure-01.jpg){width="600"}
 
 ### Key Characteristics
 
@@ -32,7 +32,7 @@ This address is for the Townsend Wye, a prominent intersection between Townsend,
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                       |
-|:-------------|:---------------------------------------------------------|
+|:----------------|:------------------------------------------------------|
 | 0.0                 | Start on the Chestnut Top Trail. Ascend steeply.                                                                                                                                  |
 | 0.6                 | Trail levels out. Townsend visible from the trail.                                                                                                                                |
 | 0.70                | Rocky outcropping. Great place for a break and for kids to scramble up and around the rocks. Look for Mountain Laurel a little bit up the trail that flowers around May and June. |

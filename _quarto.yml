@@ -2,7 +2,7 @@ project:
   type: book
   output-dir: docs
   
-
+copyright:  "© 2025 Katie Rosenberg and Joshua Rosenberg. All rights reserved."
 number-depth: 1
 number-sections: false
 callout-appearance: simple
@@ -24,6 +24,7 @@ book:
         - index.qmd
         - AAA__About This Book.qmd
         - AAA - Finding_a_Hike.qmd
+        - AAA - Top_5.qmd
         - AAA - Considerations_for_Your_First_Hike.qmd
     - part: Sec - Knoxville.qmd
       chapters: 
@@ -65,9 +66,8 @@ book:
       chapters:
         - ZZZ - Deepening_the_Experience.qmd
         - ZZZ - Finding_Community.qmd
-        - ZZZ - Top_5.qmd
         - ZZZ - Recommended_Books__Resources__and_Organizations.qmd
-    - part: "Back Matter"
+    - part: "Bookends"
       chapters:   
         - ZZZ - About_the_Authors.qmd
         - ZZZ - Acknowledgments.qmd

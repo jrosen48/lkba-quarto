@@ -4,7 +4,7 @@
 
 Part of Norris Dam State Park, around thirty minutes north of Knoxville on the pretty Norris Lake. This hike is one of the flattest we feature. Further, it's on a graded gravel path. Like the Knox-Blount Greenway along the Tennessee River, you may be surprised by the variety and quantity of wildlife you see along this scenic river, the Clinch. A relaxing trail for a family outing that might end with a drive over Norris Dam or a stop for a bite and a drink at the nearby Clinch River Brewery. This hike would be a fun challenge for the toddler ready to hike a bit farther.
 
-![](img/trail-11-figure-01.jpg)
+![](img/trail-11-figure-01.jpg){width="600"}
 
 ### Key Characteristics
 
@@ -32,7 +32,7 @@ There are several possible trailheads, all easy to access. We chose to start thi
 ### Trail Description
 
 | Distance from Start | Description                                                                                               |
-|:--------------------|:----------------------------------------------------------------------------------------------------------|
+|:---------------|:-------------------------------------------------------|
 | 0.0                 | Start by crossing a short bridge over Clear Creek.                                                        |
 | 0.05                | Turn right to start the loop in a counterclockwise fashion (of course, you can hike the other way, too!). |
 | 0.3                 | Short bridge.                                                                                             |
