@@ -29,6 +29,12 @@ Trailhead GPS Coordinates: 36.00344, -83.93787
 
 The trailhead can be just a little tricky to find---partially because Google Maps has several trailheads with the same name! We once met friends at different Sharps Ridge Trailheads! Consider putting in the address (above) to find the trailhead, which is at the end of Hanover St. Park in one of the parking spots or the gravel area on the side of Ridge Ave.
 
+::: {.callout-note appearance="simple" icon="true"}
+#### Lichen (Three Kinds)  
+There are three primary types of lichens: Foliose (leaf-like in appearance), Crustose (crusty looking), and Fruiticose (coral-like and bushy). They are abundant in the region and are great bioindicators of air quality!  
+- Amanda Garner  
+:::
+
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                    |

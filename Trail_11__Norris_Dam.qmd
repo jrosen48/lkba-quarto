@@ -32,7 +32,7 @@ There are several possible trailheads, all easy to access. We chose to start thi
 ### Trail Description
 
 | Distance from Start | Description                                                                                               |
-|:---------------|:-------------------------------------------------------|
+|:--------------------|:----------------------------------------------------------------------------------------------------------|
 | 0.0                 | Start by crossing a short bridge over Clear Creek.                                                        |
 | 0.05                | Turn right to start the loop in a counterclockwise fashion (of course, you can hike the other way, too!). |
 | 0.3                 | Short bridge.                                                                                             |

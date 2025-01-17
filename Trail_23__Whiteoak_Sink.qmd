@@ -29,10 +29,16 @@ Trailhead GPS Coordinates: 35.62718, -83.72650
 
 The above address is for the parking area beside the trail. Please note it uses a Google Maps "Plus code", as this trailhead does not have a street address. This plus code only works in Google Maps. Park, and look for several large boulders next to a sign for the Schoolhouse Gap Trail to begin the hike.
 
+::: {.callout-note appearance="simple" icon="true"}
+#### Trillium  
+Native perennial plants with distinctive three-petal flowers that bloom in the spring. These shade-loving plants are often found in the forest understory, where their seeds are dispersed and buried by ants, in a process called myrmecochory. Trillium plants are protected in many places because they are extremely slow-growing. For some species, it can take anywhere from 5-9 years from being planted to their first bloom; a single plant can live up to 25 years! So, next time you see one, make sure you appreciate their beauty with your eyes only.  
+- MaryRose Weatherton  
+:::
+
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                                                                                                                                                            |
-|:-----------|:-----------------------------------------------------------|
+|:---------------|:-------------------------------------------------------|
 | 0.0                 | Start on the Schoolhouse Gap Trail. Trail very gradually ascends.                                                                                                                                                                                                                                                                      |
 | 0.4                 | Trail climbs more steeply (but managably!).                                                                                                                                                                                                                                                                                            |
 | 1.1                 | Intersection with the trail to Whiteoak Sink. Note that Whiteoak Sink is not an official trail on the official trail map for the Great Smoky Mountains National Park; thus, the trail is not as well marked as most others. Turn left from the Schoolhouse Gap trail onto the trail to Whiteoak Sink. Descend for around .25 miles.    |
@@ -43,7 +49,7 @@ The above address is for the parking area beside the trail. Please note it uses 
 | 2.35                | Reach the large bat cave ahead of the end of the trail. Still tread carefully (and do not attempt to enter the caves for your safety and to not endanger the bats). Optionally, turn right or left to explore more of this special area. Then, turn around to return along the trail you took into Whiteoak Sink. Return to the start. |
 | 4.6                 | Trailhead.                                                                                                                                                                                                                                                                                                                             |
 
-![](img/sign for whiteoak.jpeg)
+![](img/sign%20for%20whiteoak.jpeg)
 
 ### Nearby
 

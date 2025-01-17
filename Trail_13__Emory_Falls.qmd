@@ -29,6 +29,11 @@ Trailhead GPS Coordinates: 36.13658, -84.48785
 
 Park in a spot at the Emory Gap Trailhead. Note that the above address uses a "Plus code" that will only work in Google Maps—because Emory Gap Trailhead does not have a street address.
 
+::: {.callout-note appearance="simple" icon="true"}
+#### Brushy Mountain State Penitentiary  
+A closed prison near Frozen Head State Park is full of lore due to its remote location. Now a site of a restaurant and distillery.  
+:::
+
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                            |

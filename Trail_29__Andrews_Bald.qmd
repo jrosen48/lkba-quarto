@@ -31,10 +31,15 @@ The above address is for the trailhead for Kuwohi---formerly named Clingman's Do
 
 Consider visiting outside of these busy periods to avoid being stuck waiting to find a spot. After finding a spot, walk toward the Kuwohi Visitor Center. Look for the signs for the Forney Ridge Trail (it's just a few feet to the left along the same path as the Kuwohi Trail).
 
+::: {.callout-note appearance="simple" icon="true"}
+#### Fraser Fir  
+You'll feel like you're in a different state or country when you spot these trees atop the Smokies – usually at elevations above 5,500 feet. Note the “Christmas tree smell”! Afflicted by the Balsam Wooly Adelgid and potentially a changing climate around the ridge of the Smokies, including Kuwohi, you’ll note both dead and diseased and healthy specimens. Recent evidence suggests that the Fraser Firs are healthier as a population than 20-30 years ago.  
+:::
+
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                     |
-|:-------------|:--------------------------------------------------------|
+|:----------------|:------------------------------------------------------|
 | 0.01                | Start on the Forney Ridge Trail.                                                                                                                |
 | 0.2                 | Intersection with the Kuwohi Bypass Trail. Turn left.                                                                                           |
 | 0.25                | A moderately rocky but well-maintained section that descends. Steep in sections.                                                                |

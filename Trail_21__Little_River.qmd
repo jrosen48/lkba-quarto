@@ -29,10 +29,15 @@ Trailhead GPS Coordinates: 35.65346, -83.58005
 
 The trailhead address includes a "Plus code" to park at the start of the Little River Trail --- that parking area does not have a specific address. If you navigate to "Elkmont Campground," then look for signs to the parking for the Little River Trail, where this hike begins. Park and look for the gate across the gravel road, where the Little River Trail begins.
 
+::: {.callout-note appearance="simple" icon="true"}
+#### Eastern Hemlock  
+A tree that “feels” like the Smokies - likes shaded groves. Characterized by its needles being arranged in a flat frond. Threatened by an invasive species, the Hemlock Wooly Adelgid. While many trees in the region are affected (look for a white dusty covering of needles), others are not.  
+:::
+
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                               |
-|:-------------|:---------------------------------------------------------|
+|:----------------|:------------------------------------------------------|
 | 0.0                 | Pass around the gate (it's closed only to vehicles) to begin on the Little River Trail.                                                                   |
 | 0.1                 | Pass the Spence Cabin, a histotic cabin that is available to rent (for the day --- not for nights!).                                                      |
 | 0.45                | Trail begins to ascend.                                                                                                                                   |

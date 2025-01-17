@@ -29,10 +29,15 @@ Trailhead GPS Coordinates: 36.50549, -84.65664
 
 This address is for the trailhead for the Grand Gap Loop, deep into the Big South Fork National River & Recreation Area. The address uses a Google Maps "Plus code," as there is not a street address for the trailhead. Please note this only works for Google Maps. Turn right into the parking area from Alfred Smith Rd. Look for the Grand Gap Loop Trail to begin the hike.
 
+::: {.callout-note appearance="simple" icon="true"}
+#### Angel Falls  
+Angel Falls is more a rapids than a waterfall, but there’s a history to its name: It was a waterfall until the 1940s, when it was dynamited to make the river more easily navigable by paddlers and boaters. It was only a little successful: the rapids are known as being impassable for all but the most intrepid whitewater paddlers.  
+:::
+
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                     |
-|:-------------------|:---------------------------------------------------|
+|:--------------------|:--------------------------------------------------|
 | 0.0                 | Start on the Grand Gap Loop (part of the John Muir Trail - they share a name at this point). Head counterclockwise on the loop trail; the other direction is a much longer way to the overlook. |
 | 0.85                | Grave site.                                                                                                                                                                                     |
 | 1.0                 | Descend gently toward the overlook.                                                                                                                                                             |

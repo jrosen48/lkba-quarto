@@ -21,10 +21,6 @@ This is one of our favorite trails in this book, and it is the first trail for t
 
 ![](maps/trail-01-map.jpeg)
 
-::: {.callout-note appearance="simple" icon="true"}
-The Kelly name is highly visible at Seven Islands, but a more recent owner of this land, the Clausens, prompted the formation of this state park when a planned entertainment development across the river concerned them that this precious area would be over-developed.
-:::
-
 ### Directions to the Trailhead
 
 Trailhead Address: Seven Islands State Birding Park, 2809 Kelly Ln, Kodak, TN 37764
@@ -33,10 +29,15 @@ Trailhead GPS Coordinates: 35.95366, -83.68701
 
 Park in the large gravel lot (note there is another parking area by a boat launch that is not the correct location for this hike!). We have never had trouble finding a spot even on the busiest of days.
 
+::: {.callout-note appearance="simple" icon="true"}
+#### Paw Paw  
+A native fruit found around Seven Islands. Tastes like a mix of an apple and a banana. Paw Paw flowers are pollinated by beetles and flies.  
+:::
+
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                    |
-|:--------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------|:--------------------------------------------------------|
 | 0.0                 | Barn with the blue "barn quilt" featuring four blue birds. You can walk through the barn to begin the hike on the paved Bobwhite Access trail. |
 | 0.05                | Bathroom on the left of the trail.                                                                                                             |
 | 0.1                 | Descend through grassy meadows with wildflowers in the spring and early fall.                                                                  |
@@ -50,6 +51,12 @@ Park in the large gravel lot (note there is another parking area by a boat launc
 | 2.3                 | Trailhead.                                                                                                                                     |
 
 ### Nearby
+
+::: {.callout-note appearance="simple" icon="true"}
+#### Eastern Bluebird  
+While many birds stop over at Seven Islands and areas like that on their migratory routes south (in the fall) and north (in the spring), the Eastern Bluebird is a year-round resident. Bluebirds are obligate cavity nesters - which is why they have experienced such a decline in their population as urban sprawl has increased. Refuges like Seven Islands give them lots of opportunities to find natural cavities to nest in!  
+- MaryRose Weatherton  
+:::
 
 -   **Take advantage of the other trails nearby!** Hike up the Hickory Ridge trail, another trail at Seven Islands State Birding Park, that is accessible from just behind the bathrooms near the parking lot. There are several other great hikes available, including hikes down the Kelly Lane Greenway (the other, wider, paved path near the barn that is gated to prevent cars from driving on it) and the Upland Inner and Outer Trail Loops.
 -   **Bring your canoe, kayak, or paddle board for even more adventures!** Access parking by Also, River Sports Outfitters rents kayaks and canoes here during the summer (see [https://www.riversportsoutfitters.com/](#0){.uri}).

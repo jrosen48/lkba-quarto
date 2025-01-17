@@ -8,16 +8,16 @@ This is one of the closest hikes to the city center of Knoxville, and it's strol
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**         |
-|-------------------------|---------------------|
-| Time Estimate          | 0.5 hours - 1 hour           |
-| Trail Distance (Miles) | 0.7                 |
-| Elevation Change       | Gentle          |
-| Pets                   | Allowed on leash         |
-| Parking Pass/Entrance Fee | Not Required         |
-| Restroom(s)            | No      |
-| Best Ages              |                     |
-| Strollers and Wheelchairs |                             |
+| **Characteristic**        | **Details**        |
+|---------------------------|--------------------|
+| Time Estimate             | 0.5 hours - 1 hour |
+| Trail Distance (Miles)    | 0.7                |
+| Elevation Change          | Gentle             |
+| Pets                      | Allowed on leash   |
+| Parking Pass/Entrance Fee | Not Required       |
+| Restroom(s)               | No                 |
+| Best Ages                 |                    |
+| Strollers and Wheelchairs |                    |
 
 ![](maps/trail-04-map.jpeg)
 
@@ -29,10 +29,15 @@ Trailhead GPS Coordinates: 35.93824, -83.9258
 
 The trail begins from the parking lot at the above address; look for the paved path near the back of the parking lot. You can't miss it!
 
+::: {.callout-note appearance="simple" icon="true"}
+#### Earthworks  
+Structures formed from shaping rocks and soil, often as part of forts around Knoxville constructed during the Civil War. Surprisingly long-standing. The earthworks here and at the nearby Fort Dickerson include ramparts – small hills or banks that served as defensive walls.  
+:::
+
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                        |
-|:--------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------|:---------------------------------------------------------|
 | 0                   | Start off on the trail with a gentle descent.                                                                                                                                      |
 | 0.1                 | Enter the wooded part of the hike and begin a gentle climb.                                                                                                                        |
 | 0.35                | Red chairs and the large open area. Head toward the mowed grassy section (followed by gravel). Alternatively, particularly if in a stroller, return on the paved pathway you took. |
@@ -41,5 +46,5 @@ The trail begins from the parking lot at the above address; look for the paved p
 
 ### Nearby
 
--   ****Stop by a fun food hall before or after!**** The nearby Kern's Food Hall (2201 Kerns Rising Way, Knoxville, TN 37920) has a good range of options and an outdoor play area for kids to romp around.
--   ****For more outdoor fun, hike the nearby River Bluff Wildlife area.**** The nearby River Bluff Wildlife Area is an interesting counterbalance to the ease of High Ground Park - ****it features a short but rustic hike to a pretty overlook of the city.**** Visit Knoxville's website (<https://www.visitknoxville.com/>) has more information and a nice map.
+-   \*\*\*\*Stop by a fun food hall before or after!\*\*\*\* The nearby Kern's Food Hall (2201 Kerns Rising Way, Knoxville, TN 37920) has a good range of options and an outdoor play area for kids to romp around.
+-   \*\*\*\*For more outdoor fun, hike the nearby River Bluff Wildlife area.\*\*\*\* The nearby River Bluff Wildlife Area is an interesting counterbalance to the ease of High Ground Park - \*\*\*\*it features a short but rustic hike to a pretty overlook of the city.\*\*\*\* Visit Knoxville's website (<https://www.visitknoxville.com/>) has more information and a nice map.

@@ -29,10 +29,16 @@ Trailhead GPS Coordinates: 35.75132, -83.10964
 
 Navigate to the Big Creek Picnic Area. Note that the above address uses a Google Maps "Plus code" in the absence of a street address for this picnic area; the plus code only works in Google Maps. The picnic area is at the end of a bumpy dirt road; it's large and easy to find. You may note the Big Creek Trailhead on the way (it was on the right, immediately before the parking lot). Park and then backtrack a little on the road you took to the parking area to find the start of this trail. Kids may like to play around the picnic area (and the pretty bridge crossing Big Creek) before or after the hike!
 
+::: {.callout-note appearance="simple" icon="true"}
+#### Blue Ridge Two-Lined Salamander  
+The Great Smoky Mountains has more than 30 species of salamanders – one of the types of species that contributes to and characterizes the incredible biodiversity of the Smokies. The Blue Ridge Two-Lined Salamander is among the most beautiful salamanders, with its yellow-to-orange coloring and stark black stripes.  
+- Amanda Garner  
+:::
+
 ### Trail Description
 
 | Distance from Start | Description                                                                                             |
-|:---------------|:-------------------------------------------------------|
+|:-----------------|:-----------------------------------------------------|
 | 0.0                 | Start on the Big Creek Trail. Gradually ascend.                                                         |
 | 0.1                 | Ascend grardually on a wide path.                                                                       |
 | 1.4                 | Midnight Hole Falls. Great swimming spot in the summer.                                                 |
