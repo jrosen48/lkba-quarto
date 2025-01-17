@@ -4,7 +4,7 @@
 
 The highest point in Knox County (but far from the highest in the book), this trail feels like it belongs in another section of the book. The elevation gain is substantial, and the trail is rockier and rougher than the others close to Knoxville. This one always challenges us! But, the flip side is that House Mountain offers a challenging hike to a rewarding overlook far nearer to Knoxville than those in the Cumberland Plateau or the Great Smoky Mountains National Park. The trail climbs up House Mountain from the west, reaching the West Overlook before heading down to complete the clockwise loop (you're free to hike it in the opposite direction). Good for older kids or families able to carry a little one a farther distance.
 
-![](img/trail-12-figure-01.jpg)
+![Photo credit to Hanhui Bao](img/trail-12-figure-01.jpg)
 
 ### Key Characteristics
 
@@ -30,14 +30,15 @@ Trailhead GPS Coordinates: 36.10483, -83.76276
 The trailhead is straightforward to locate and access. Park at the large parking area and look for the large covered picnic area. Look for the Connector Trail near the picnic area to begin the hike.
 
 ::: {.callout-note appearance="simple" icon="true"}
-#### Pine Trees (Family)  
-A group of conifers (trees with needles typically attached in bundles, and seeds in cones that are typically very rigid) that is distinct from Hemlocks, Spruce, and Fir.  
+#### Pine Trees (Family)
+
+A group of conifers (trees with needles typically attached in bundles, and seeds in cones that are typically very rigid) that is distinct from Hemlocks, Spruce, and Fir.
 :::
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                   |
-|:--------------------|:-------------------------------------------------|
+|:---------------|:-------------------------------------------------------|
 | 0.0                 | Start on the Connector Trail.                                                                                 |
 | 0.1                 | Turn left onto the West Overlook Trail. Begin to climb up the mountain.                                       |
 | 0.85                | Rocky prominence. The trail changes here to the Crest Trail. Trail flattens from here.                        |

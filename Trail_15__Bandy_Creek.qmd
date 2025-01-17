@@ -4,8 +4,6 @@
 
 A welcoming, gentle introduction to the Big South Fork. Best if you're staying at the campground -- or if you're hiking the nearby Angel Falls Trail or the Fall Branch Falls trails. Starts at the visitor center. This happens to be the flattest trail in the book, and it's a short trail, but it's almost entirely on a dirt path. This is a great hike for toddlers or little kids, and it is good for carried infants.
 
-![PLACEHOLDER - CHANGE](/img/trail-15-figure-01-placeholder-dont-use.png)
-
 ### Key Characteristics
 
 | **Characteristic**        | **Details**                     |
@@ -32,7 +30,7 @@ The trailhead address will navigate you to the nearby Visitors Center (worth a v
 ### Trail Description
 
 | Distance from Start | Description                                                                                              |
-|:---------------|:-------------------------------------------------------|
+|:-----------------|:-----------------------------------------------------|
 | 0.0                 | Start on the Bandy Loop Trail. Wind gradually toward the horse stables.                                  |
 | 0.15                | Pass the horse stables on the right. There's an easy connector trail to them nearer the end of the loop. |
 | 1.15                | Connector trail to the horse stables.                                                                    |

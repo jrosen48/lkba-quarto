@@ -4,7 +4,7 @@
 
 Unreal! This trail features rope ladders, wooden ladders, gigantic sandstone walls, a scenic overlook, a trail that traverses *up* a river, and boulders you crawl over and through. It's spectacular and challenging. A memorable trail that exemplifies what makes the Cumberland Plateau region such a worthy complement to the Great Smoky Mountains National Park. Younger children may be able to hike the first half (traveling counterclockwise from the trailhead); you can walk the road back to the trailhead. The second half of the trail contains more challenging (but very beautiful) sections. Still, it's hard --- probably the most difficult for most in this book.
 
-![](img/trail-19-figure-01.jpg)
+![![Photo credit to Sam Weisbrod](img/trail-19-figure-01.jpg)
 
 ### Key Characteristics
 
@@ -34,7 +34,7 @@ Park in one of the many spots at the trailhead. The trail begins slightly past t
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                                                                                                        |
-|:--------------------|:--------------------------------------------------|
+|:---------------------|:-------------------------------------------------|
 | 0.0                 | Start on the Honey Creek Loop Trail. Gently wind through the densely wooded forest.                                                                                                                                                                                                |
 | 0.2                 | Gently, then more steeply, descend through the woods.                                                                                                                                                                                                                              |
 | 0.9                 | Rope ladder.                                                                                                                                                                                                                                                                       |
@@ -50,7 +50,7 @@ Park in one of the many spots at the trailhead. The trail begins slightly past t
 | 3.3                 | Trail levels out, then climbs back to the start and the trailhead.                                                                                                                                                                                                                 |
 | 4.4                 | Trailhead.                                                                                                                                                                                                                                                                         |
 
-![](img/jo%20bsf%20cliff.jpg)
+![Photo credit to Katie and Joshua Rosenberg](img/jo bsf cliff.jpg)
 
 ### Nearby
 

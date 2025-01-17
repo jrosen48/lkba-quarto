@@ -4,7 +4,7 @@
 
 Another hike that is very close to Knoxville's city center, the Knox-Blount Greenway, is a fun, easier outing for little walkers, bikers, and for parents pushing little ones in strollers. Paved throughout, this trail offers a glimpse of the surprising beauty of the Tennessee River so close to the city. Our description features a route that heads to the north, toward the city, and then back to the trail from the research park further south, before returning to the start. Look for blue herons and other birds along the side of the river; you might see a Bald Eagle! While beautiful, there is limited shade here, so factor the weather in before setting out to this destination! This will be a fun hike for a gaggle of kids looking to toddle or run wild!
 
-![](img/trail-06-figure-01.jpg)
+![Photo credit to Katie and Joshua Rosenberg](img/trail-06-figure-01.jpg)
 
 ### Key Characteristics
 
@@ -32,7 +32,7 @@ Park in the lot at the above address. If helpful, the building next to the lot i
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                           |
-|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------|:---------------------------------------------------------|
 | 0.0                 | Walk down the terraced amphitheater.                                                                                                                                  |
 | 0.1                 | Begin to descend down a gradual hill.                                                                                                                                 |
 | 0.3                 | Reach the river and the Knox-Blount Greenway trail proper. Our route turns right, but you can explore in either direction!                                            |

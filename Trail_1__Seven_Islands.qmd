@@ -4,7 +4,7 @@
 
 This is one of our favorite trails in this book, and it is the first trail for that reason! This hike is a crowd pleaser for every family member of all ages thanks to a paved path that makes bringing babies in a stroller a breeze and easy acces to experience meadow, woodland, and a river! For the trail we highlight, a paved path descends through a meadow. Look for varied bird varieties and deer in all seasons! The trail crosses a bridge over the French Broad River and then a dirt trail make a loop around a beautiful island before returning back to the paved path. This hike is great for all ages and seasons, though it is sometimes hot in the summer due to limited shade on the paved part of the trail.
 
-![](img/trail-01-figure-01.jpg)
+![Photo credit to Katie and Joshua Rosenberg](img/trail-01-figure-01.jpg)
 
 ### Key Characteristics
 
@@ -30,14 +30,15 @@ Trailhead GPS Coordinates: 35.95366, -83.68701
 Park in the large gravel lot (note there is another parking area by a boat launch that is not the correct location for this hike!). We have never had trouble finding a spot even on the busiest of days.
 
 ::: {.callout-note appearance="simple" icon="true"}
-#### Paw Paw  
-A native fruit found around Seven Islands. Tastes like a mix of an apple and a banana. Paw Paw flowers are pollinated by beetles and flies.  
+#### Paw Paw
+
+A native fruit found around Seven Islands. Tastes like a mix of an apple and a banana. Paw Paw flowers are pollinated by beetles and flies.
 :::
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                    |
-|:-------------|:--------------------------------------------------------|
+|:----------------|:------------------------------------------------------|
 | 0.0                 | Barn with the blue "barn quilt" featuring four blue birds. You can walk through the barn to begin the hike on the paved Bobwhite Access trail. |
 | 0.05                | Bathroom on the left of the trail.                                                                                                             |
 | 0.1                 | Descend through grassy meadows with wildflowers in the spring and early fall.                                                                  |
@@ -53,9 +54,10 @@ A native fruit found around Seven Islands. Tastes like a mix of an apple and a b
 ### Nearby
 
 ::: {.callout-note appearance="simple" icon="true"}
-#### Eastern Bluebird  
-While many birds stop over at Seven Islands and areas like that on their migratory routes south (in the fall) and north (in the spring), the Eastern Bluebird is a year-round resident. Bluebirds are obligate cavity nesters - which is why they have experienced such a decline in their population as urban sprawl has increased. Refuges like Seven Islands give them lots of opportunities to find natural cavities to nest in!  
-- MaryRose Weatherton  
+#### Eastern Bluebird
+
+While many birds stop over at Seven Islands and areas like that on their migratory routes south (in the fall) and north (in the spring), the Eastern Bluebird is a year-round resident. Bluebirds are obligate cavity nesters - which is why they have experienced such a decline in their population as urban sprawl has increased. Refuges like Seven Islands give them lots of opportunities to find natural cavities to nest in!\
+- MaryRose Weatherton
 :::
 
 -   **Take advantage of the other trails nearby!** Hike up the Hickory Ridge trail, another trail at Seven Islands State Birding Park, that is accessible from just behind the bathrooms near the parking lot. There are several other great hikes available, including hikes down the Kelly Lane Greenway (the other, wider, paved path near the barn that is gated to prevent cars from driving on it) and the Upland Inner and Outer Trail Loops.
