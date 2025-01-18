@@ -24,8 +24,9 @@ book:
       chapters:
         - index.qmd
         - AAA__About This Book.qmd
-        - AAA - Finding_a_Hike.qmd
+        
         - AAA - Considerations_for_Your_First_Hike.qmd
+        - AAA - Finding_a_Hike.qmd
     - part: Sec - Knoxville.qmd
       chapters: 
         - Trail_1__Seven_Islands.qmd
@@ -64,9 +65,9 @@ book:
         - Trail_30__Alum_Cave_Bluffs.qmd
     - part: sec - doing more.qmd
       chapters:
+        - AAA - Top_5.qmd
         - ZZZ - Deepening_the_Experience.qmd
         - ZZZ - Recommended_Books__Resources__and_Organizations.qmd
-        - AAA - Top_5.qmd
     - part: "Bookends"
       chapters:   
         - ZZZ - About_the_Authors.qmd
