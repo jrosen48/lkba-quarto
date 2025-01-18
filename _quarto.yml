@@ -25,7 +25,6 @@ book:
         - index.qmd
         - AAA__About This Book.qmd
         - AAA - Finding_a_Hike.qmd
-        - AAA - Top_5.qmd
         - AAA - Considerations_for_Your_First_Hike.qmd
     - part: Sec - Knoxville.qmd
       chapters: 
@@ -66,8 +65,8 @@ book:
     - part: sec - doing more.qmd
       chapters:
         - ZZZ - Deepening_the_Experience.qmd
-        - ZZZ - Finding_Community.qmd
         - ZZZ - Recommended_Books__Resources__and_Organizations.qmd
+        - AAA - Top_5.qmd
     - part: "Bookends"
       chapters:   
         - ZZZ - About_the_Authors.qmd
