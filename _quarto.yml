@@ -22,9 +22,7 @@ book:
   chapters:
     - part: sec - introduction.qmd
       chapters:
-        - index.qmd
-        - AAA__About This Book.qmd
-        
+        - index.qmd        
         - AAA - Considerations_for_Your_First_Hike.qmd
         - AAA - Finding_a_Hike.qmd
     - part: Sec - Knoxville.qmd
