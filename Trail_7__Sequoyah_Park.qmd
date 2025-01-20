@@ -17,7 +17,7 @@ This is another gem among Knoxville city parks, nestled in the heart of the the 
 | Parking Pass/Entrance Fee | Not Required     |
 | Restroom(s)               | Yes              |
 | Best Ages                 |                  |
-| Strollers and Wheelchairs |                             |
+| Strollers and Wheelchairs |                  |
 
 ![](maps/trail-07-map.jpeg)
 
@@ -32,14 +32,14 @@ The above address takes you to the parking area next to restrooms that serve as 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                              |
-|:---------------|:-------------------------------------------------------|
+|:-----------------|:-----------------------------------------------------|
 | 0.0                 | Walk southwest (toward the large, open part of the park) along the river.                                                                |
 | 0.1                 | Kayak and canoe put in spot on the right.                                                                                                |
-| 0.25                | Enter a wooded section..                                                                                                                 |
+| 0.25                | Enter a wooded section.                                                                                                                  |
 | 0.4                 | Bench.                                                                                                                                   |
 | 0.65                | Distinctive, dome-shaded trees that kids can crawl into, between, and through.                                                           |
 | 0.9                 | Small rocky hill to walk over (you can walk around it on the greenway, but kids may enjoy scrambling up it).                             |
-| 1.1                 | Boat launch. Head up beside or through the parking lot to Sequoyak Greenway in the center of Cherokee Blvd. Turn left onto the greenway. |
+| 1.1                 | Boat launch. Head up beside or through the parking lot to Sequoyah Greenway in the center of Cherokee Blvd. Turn left onto the greenway. |
 | 1.2                 | Indian burial mound. Note the historical marker. Walk along past the homes on both sides of the greenway.                                |
 | 2.05                | Traihead.                                                                                                                                |
 

@@ -30,26 +30,27 @@ Trailhead GPS Coordinates: 36.00344, -83.93787
 The trailhead can be just a little tricky to find---partially because Google Maps has several trailheads with the same name! We once met friends at different Sharps Ridge Trailheads! Consider putting in the address (above) to find the trailhead, which is at the end of Hanover St. Park in one of the parking spots or the gravel area on the side of Ridge Ave.
 
 ::: {.callout-note appearance="simple" icon="true"}
-#### Lichen (Three Kinds)  
-There are three primary types of lichens: Foliose (leaf-like in appearance), Crustose (crusty looking), and Fruiticose (coral-like and bushy). They are abundant in the region and are great bioindicators of air quality!  
-- Amanda Garner  
+#### Lichen (Three Kinds)
+
+There are three primary types of lichens: Foliose (leaf-like in appearance), Crustose (crusty looking), and Fruiticose (coral-like and bushy). They are abundant in the region and are great bioindicators of air quality!\
+- Amanda Garner
 :::
 
 ### Trail Description
 
-| Distance from Start | Description                                                                                                                                                    |
-|:-------------------|:---------------------------------------------------|
-| 0.0                 | Start by walking through the Arbor, past the handy trail map of the Sharps Ridge area. You're technically on the very short Hanover Access trail.              |
-| 0.1                 | Turn right onto Lincoln Trail. Wind up through the deep woods and easy curves in the trail.                                                                    |
-| 0.8                 | Turn right onto Sharp Shin.                                                                                                                                    |
-| 0.9                 | Meet Sharps Ridge Memorial Park Drive, a road. Turn left to walk along the side of the road toward the overlook --- or, alternatively, head back to the start! |
-| 1.15                | Overlook. See if you can spy the Sunsphere, Neyland Stadium, and the Smokies in the distance. Turn around to head back the way you came.                       |
-| 1.4                 | Turn right, back onto Sharp Shin.                                                                                                                              |
-| 1.5                 | Turn left onto Lincoln Trail.                                                                                                                                  |
-| 2.2                 | Turn left onto the Hanover Access Trail.                                                                                                                       |
-| 2.3                 | Traihead.                                                                                                                                                      |
+| Distance from Start | Description                                                                                                                                         |
+|:--------------------|:--------------------------------------------------|
+| 0.0                 | Start by walking through the Arbor, past the trail map of the Sharps Ridge area. You're technically on the very short Hanover Access trail.         |
+| 0.1                 | Turn right onto Lincoln Trail. Wind up through the deep woods and easy curves in the trail.                                                         |
+| 0.8                 | Turn right onto Sharp Shin.                                                                                                                         |
+| 0.9                 | Meet Sharps Ridge Memorial Park Drive. Turn left to walk along the side of the road toward the overlook, or, alternatively, head back to the start! |
+| 1.15                | Overlook. See if you can spy the Sunsphere, Neyland Stadium, and the Smokies in the distance. Turn around to head back the way you came.            |
+| 1.4                 | Turn right, back onto Sharp Shin.                                                                                                                   |
+| 1.5                 | Turn left onto Lincoln Trail.                                                                                                                       |
+| 2.2                 | Turn left onto the Hanover Access Trail.                                                                                                            |
+| 2.3                 | Traihead.                                                                                                                                           |
 
-![Photo credit to Katie and Joshua Rosenberg](img/sharps trail.jpg)
+![Photo credit to Katie and Joshua Rosenberg](img/sharps%20trail.jpg)
 
 ### Nearby
 

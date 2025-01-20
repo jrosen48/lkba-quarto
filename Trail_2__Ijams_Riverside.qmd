@@ -8,15 +8,15 @@ It’s easy to take this destination for granted if you live in Knoxville – we
 
 ### Key Characteristics
 
-| **Characteristic**     | **Details**                 |
-|-------------------------|-----------------------------|
-| Time Estimate          | 45 minutes - 1.5 hours     |
-| Trail Distance (Miles) | 1.03                        |
-| Elevation Change       | Moderate                   |
-| Pets                   | Allowed on leash           |
-| Parking Pass/Entrance Fee | Required (pay on site)     |
-| Restroom(s)            | Yes                        |
-| Best Ages              |                             |
+| **Characteristic**        | **Details**            |
+|---------------------------|------------------------|
+| Time Estimate             | 45 minutes - 1.5 hours |
+| Trail Distance (Miles)    | 1.03                   |
+| Elevation Change          | Moderate               |
+| Pets                      | Allowed on leash       |
+| Parking Pass/Entrance Fee | Required (pay on site) |
+| Restroom(s)               | Yes                    |
+| Best Ages                 |                        |
 
 ![](maps/trail-02-map.jpeg)
 
@@ -29,16 +29,17 @@ Trailhead GPS Coordinates: 35.95612, -83.86725
 Use the above address to easily navigate to the parking area. Park in the large parking lot near the Visitor's Center.
 
 ::: {.callout-note appearance="simple" icon="true"}
-#### Blue Phlox  
-Blue Phlox is a native wildflower that blooms in early to mid-spring. These plants provide an important source of early-season nectar for pollinators, like the swallowtail butterfly and other native moths.  
-- MaryRose Weatherton  
+#### Blue Phlox
+
+Blue Phlox is a native wildflower that blooms in early to mid-spring. These plants provide an important source of early-season nectar for pollinators, like the swallowtail butterfly and other native moths.\
+- MaryRose Weatherton
 :::
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                    |
-|------------------|------------------------------------------------------|
-| 0.0                 | Start near the doors to the Visitor's Center.                                                                  |
+|-------------------|-----------------------------------------------------|
+| 0.0                 | Start near the doors to the Visitor's Center and access the trail via the wooden steps.                        |
 | 0.05                | Turn left to begin the North Cove Trail.                                                                       |
 | 0.2                 | Turn right onto the River Trail.                                                                               |
 | 0.4                 | Short wooden stairs down to the boardwalk section.                                                             |
@@ -50,6 +51,6 @@ Blue Phlox is a native wildflower that blooms in early to mid-spring. These plan
 
 ### Nearby
 
--   **Visiting Jo's Grove near the Visitor's Center.** This area which features a fun cabin and a wooded area for kids to play (this is a premiere hide-and-seek spot!**
+-   **Visiting Jo's Grove near the Visitor's Center.** This area which features a fun cabin and a wooded area for kids to play (this is a premiere hide-and-seek spot!\*\*
 -   **Grabbing a bite to eat on the south side of Knoxville!** Our favorites include South Coast Pizza (1103 Sevier Ave, Knoxville, TN 37920) and Angry Dumplings Tea (1119 Sevier Ave, Knoxville, TN 37920). Breweries nearby also abound, as well as Suttree Landing Park, which boasts a very fun playground.
 -   **Seeing more of what Ijams has to offer**. Check by checking out the Ijams Crag hike across the road at Mead' Quary!
