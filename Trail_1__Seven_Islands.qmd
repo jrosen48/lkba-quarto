@@ -38,7 +38,7 @@ A native fruit found around Seven Islands. Tastes like a mix of an apple and a b
 ### Trail Description
 
 | Distance from Start | Description                                                                        |
-|:-----------------|:-----------------------------------------------------|
+|:--------------------|:-----------------------------------------------------------------------------------|
 | 0.0                 | Access the Bobwhite Access Trail by walking around or through the barn.            |
 | 0.05                | Bathroom on the left of the trail.                                                 |
 | 0.1                 | Descend through grassy meadows with wildflowers in the spring and early fall.      |
