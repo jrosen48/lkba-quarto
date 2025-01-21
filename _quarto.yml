@@ -26,8 +26,8 @@ book:
         - AAA - Considerations_for_Your_First_Hike.qmd
         - AAA - Finding_a_Hike.qmd
     - part: sec - overview.qmd
-        - AAA - Top 5.qmd
-        - AAA - overview of the hikes.qmd
+        - AAA - top-5.qmd
+        - AAA - overview-of-the-hikes.qmd
     - part: Sec - Knoxville.qmd
       chapters: 
         - Trail_1__Seven_Islands.qmd
