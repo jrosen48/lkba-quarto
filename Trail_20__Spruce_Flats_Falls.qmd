@@ -19,7 +19,7 @@ An adventurous hike in the Smokies accessible to many families, this hike is als
 | Best Ages                 |                       |
 | Strollers and Wheelchairs |                       |
 
-(This map is being worked on stil) <!-- ![](maps/trail-20-map.jpeg) -->
+(This map is being worked on still) <!-- ![](maps/trail-20-map.jpeg) -->
 
 ### Directions to the Trailhead
 

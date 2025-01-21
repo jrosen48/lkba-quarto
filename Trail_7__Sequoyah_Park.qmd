@@ -32,7 +32,7 @@ The above address takes you to the parking area next to restrooms that serve as 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                              |
-|:-----------------|:-----------------------------------------------------|
+|:--------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
 | 0.0                 | Walk southwest (toward the large, open part of the park) along the river.                                                                |
 | 0.1                 | Kayak and canoe put in spot on the right.                                                                                                |
 | 0.25                | Enter a wooded section.                                                                                                                  |
