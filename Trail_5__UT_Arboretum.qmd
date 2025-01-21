@@ -2,7 +2,7 @@
 
 ### Overview
 
-This is a gem of a hikie that is off the radar for many in Knoxville, as it is tucked away in nearby Oak Ridge. Start your hike at a trailhead that offers many hiking options. We recommend walking up the paved path past botanical specimens, including uniuque conifers! Circle around park facilities past a pretty field and forests. Upon returning to the start, there are other trails to the different ecological zones represented in an area that is worth a visit; we like the trails near the marshy area with the clear creek, perfect for splashing in warm weather. Suitable for kids of all ages.
+This is a gem of a hike that is off the radar for many in Knoxville, as it is tucked away in nearby Oak Ridge. Start your hike at a trailhead that offers many hiking options. We recommend walking up the paved path past botanical specimens, including uniuque conifers! Circle around park facilities past a pretty field and forests. Upon returning to the start, there are other trails to the different ecological zones represented in an area that is worth a visit; we like the trails near the marshy area with the clear creek, perfect for splashing in warm weather. Suitable for kids of all ages.
 
 ![Photo credit to Katie and Joshua Rosenberg](img/trail-05-figure-01.jpg)
 
@@ -31,16 +31,16 @@ The trailhead is easy to find with the above address. Park in the large parking 
 
 ### Trail Description
 
-| Distance from Start | Description                                                                                                                                                           |
-|:-----------------------|:----------------------------------------------|
-| 0.0                 | Walk along the paved road.                                                                                                                                            |
-| 0.1                 | Start of the Oak-Hickory Trail on the right.                                                                                                                          |
-| 0.2                 | Start of the Heath Cove Trail on the left. This is a shortcut if you're looking for one!                                                                              |
-| 0.3                 | Wind around, still on the road.                                                                                                                                       |
-| 0.5                 | Shelter on the right.                                                                                                                                                 |
-| 0.6                 | Auditorium on the right.                                                                                                                                              |
-| 0.7                 | Leave the paved road for a short dirt path called Evans Way Trail. Alternatively, turn around and head back on the paved path (or continue along many nearby trails)! |
-| 0.9                 | Traihead.                                                                                                                                                             |
+| Distance from Start | Description                                                                                                                    |
+|:------------------------|:----------------------------------------------|
+| 0.0                 | Walk along the paved road.                                                                                                     |
+| 0.1                 | Start of the Oak-Hickory Trail on the right.                                                                                   |
+| 0.2                 | Start of the Heath Cove Trail on the left. This is a shortcut if you're looking for one!                                       |
+| 0.3                 | Wind around, still on the road.                                                                                                |
+| 0.5                 | Shelter on the right.                                                                                                          |
+| 0.6                 | Auditorium on the right.                                                                                                       |
+| 0.7                 | Leave the paved road for a short dirt path called Evans Way Trail. Alternatively, turn around and head back on the paved path. |
+| 0.9                 | Traihead.                                                                                                                      |
 
 ![](img/trail-05-figure-02.jpg)
 

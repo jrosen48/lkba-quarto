@@ -31,14 +31,14 @@ Park in the parking lot for Meads Quarry using the above address. The trail begi
 
 ### Trail Description
 
-| Distance from Start | Description                                                                                                              |
-|:--------------|:--------------------------------------------------------|
-| 0.0                 | Start on Imery's trail, heading away from the parking lot.                                                               |
-| 0.15                | Gradually, then more steeply. begin to ascend.                                                                           |
-| 0.30                | Trail levels out at an intersection between Imery's Trail, Rock Bridge Trail, and Gravel Road Trail.                     |
-| 0.5                 | Rocky and steep.                                                                                                         |
-| 0.75                | Reach the overlook to Ijams Quarry. Rest up, and then turn around to head back --- or continue farther along on Imery's! |
-| 1.50                | Traihead.                                                                                                                |
+| Distance from Start | Description                                                                                                           |
+|:--------------------|:----------------------------------------------------------------------------------------------------------------------|
+| 0.0                 | Start on Imery's trail, heading away from the parking lot.                                                            |
+| 0.15                | Gradually, then more steeply, begin to ascend.                                                                        |
+| 0.30                | Trail levels out at an intersection between Imery's Trail, Rock Bridge Trail, and Gravel Road Trail.                  |
+| 0.5                 | Rocky and steep.                                                                                                      |
+| 0.75                | Reach the overlook to Ijams Quarry. Rest up, and then turn around to head back, or continue farther along on Imery's! |
+| 1.50                | Traihead.                                                                                                             |
 
 ### Nearby
 

@@ -1,4 +1,4 @@
-## Trail 14: Obed Point
+## Trail 14: Point Trail at Obed Wild & Scenic River
 
 ### Overview
 
@@ -23,7 +23,7 @@ Just far enough to be off the radar of many in Knoxville, this trail has a bit o
 
 ### Directions to the Trailhead
 
-Trailhead Address: Lilly Bluff Trailhead, 1 Lilly Bluff Trail Head, Lancing, TN 37770 Trailhead GPS Coordinates: 36.10239, -84.72183
+Trailhead Address: Lilly Bluff Trailhead, 1 Lilly Bluff Trail Head, Lancing, TN 37770
 
 Trailhead GPS Coordinates: 36.10239, -84.72183
 
@@ -31,21 +31,27 @@ The above address should easily navigate you to the large parking area with a re
 
 ### Trail Description
 
-| Distance from Start | Description                                                                                                                                                                                               |
-|:-------------------|:---------------------------------------------------|
-| 0.0                 | Start on the Point Trail.                                                                                                                                                                                 |
-| 0.15                | Side trial to the Lilly Bluff Overlook for Clear Freek --- absolutely worth the short trip!                                                                                                               |
-| 0.4                 | Small bridge crossing.                                                                                                                                                                                    |
-| 0.45                | Large boulders and a rock wall --- the trail winds around the side and atop the back of the wall.                                                                                                         |
-| 0.5                 | Trail flattens and winds along the side of a ridge.                                                                                                                                                       |
-| 1                   | Trail bends to the right.                                                                                                                                                                                 |
-| 1.4                 | Trail bends to the left.                                                                                                                                                                                  |
-| 1.8                 | Overlook of the juncture of Clear Creek and Obed River. There isn't really one overlook, per se, but many great spots to view the rivers! After a good rest, turn around and head back to the trailjhead. |
-| 3.6                 | Trailhead.                                                                                                                                                                                                |
+| Distance from Start | Description                                                                                                                                                           |
+|:--------------------|:--------------------------------------------------|
+| 0.0                 | Start on the Point Trail.                                                                                                                                             |
+| 0.15                | Side trail to the Lilly Bluff Overlook for Clear Creek (we recommend!).                                                                                               |
+| 0.4                 | Small bridge crossing.                                                                                                                                                |
+| 0.45                | Large boulders and a rock wall. The trail winds around the side and atop the back of the wall.                                                                        |
+| 0.5                 | Trail flattens and winds along the side of a ridge.                                                                                                                   |
+| 1                   | Trail bends to the right.                                                                                                                                             |
+| 1.4                 | Trail bends to the left.                                                                                                                                              |
+| 1.8                 | Overlook of the juncture of Clear Creek and Obed River. There are many great spots to view the rivers! After a good rest, turn around and head back to the trailhead. |
+| 3.6                 | Trailhead.                                                                                                                                                            |
 
 ![Photo credit to Katie and Joshua Rosenberg](img/bigleaf%20magnolia.jpg)
 
+::: {.callout-note appearance="simple" icon="true"}
+#### Bigleaf Magnolia
+
+Has the largest simple leaf (a leaf with one piece) of any tree in North America. In the fall, the leaves look like pages of newspapers scattered on the ground! Common in the Cumberland Plateau (but not in the Smokies).
+:::
+
 ### Nearby
 
--   Hanging out at Lilly Pad Hopyard Brewery. Befitting the Obed Wild & Scenic Area, the Lilly Pad Hopyard Brewery (<https://www.lillypadhopyardbrewery.com>) is a surprising, fantastic, kid-friendly destination. Stop by for food and drinks---only on Saturday and Sunday from 12-6 pm.
--   Playing around the bouldering area. The Trailhead features a nearby shaded area full of boulders. While we've often used this spot as a peaceful place to finish kiddo naps, older kids love trying to climb the boulders.
+-   Hang out at Lilly Pad Hopyard Brewery, only open Saturdays and Sundays, 12-6 p.m. The Lilly Pad Hopyard Brewery (<https://www.lillypadhopyardbrewery.com>) is a surprising, fantastic, kid-friendly destination for food and drinks.
+-   Play around the bouldering area. The Trailhead features a nearby shaded area full of boulders. While we've often used this spot as a peaceful place to finish kiddo naps, older kids love trying to climb the boulders.

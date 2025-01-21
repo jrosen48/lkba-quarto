@@ -32,18 +32,20 @@ The address above navigates to the park's main entrance. Our hike starts at a la
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                               |
-|:-------------|:---------------------------------------------------------|
+|:----------------|:------------------------------------------------------|
 | 0.0                 | Cross Orchard Drive, heading clockwise on the paved greenway. Note the greenway on the left, which immediately heads toward the Huie Woodland Playground. |
 | 0.05                | Bench and overlook to the Smokies. Can you spy Clingman's Dome? Note that Hank Rappé playground is immediately below the greenway (to your right).        |
-| 0.15                | Steep descent!                                                                                                                                            |
+| 0.15                | Short, steep descent!                                                                                                                                     |
 | 0.4                 | Optional boardwalk section (recommended!). Check out the viewing platform overlooking the Tennessee River around 200 feet ahead on the left.              |
 | 0.5                 | Boardwalk and the primary greenway reconnect.                                                                                                             |
 | 0.9                 | Central Playground on the right.                                                                                                                          |
 | 1.2                 | Tower Playground on the right.                                                                                                                            |
 | 1.5                 | Ascent (followed by a little hill back down) begins.                                                                                                      |
 | 2.2                 | Traihead.                                                                                                                                                 |
-#### Appalachian Trail  
-Surprisingly, the crest of the Smokies (and the Appalachian Trail) are visible from this park. The Appalachian Trail is more than 2,100 miles long, beginning at Springer Mountain, Georgia, and ending at Mount Katahdin, in Maine. The longest section without a road crossing is in the Smokies – from Fontana Dam to Newfound Gap.  
+
+#### Appalachian Trail
+
+Surprisingly, the crest of the Smokies (and the Appalachian Trail) are visible from this park. The Appalachian Trail is more than 2,100 miles long, beginning at Springer Mountain, Georgia, and ending at Mount Katahdin, in Maine. The longest section without a road crossing is in the Smokies – from Fontana Dam to Newfound Gap.\
 :::
 
 ### Nearby

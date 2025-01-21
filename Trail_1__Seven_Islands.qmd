@@ -37,27 +37,26 @@ A native fruit found around Seven Islands. Tastes like a mix of an apple and a b
 
 ### Trail Description
 
-| Distance from Start | Description                                                                                                                                    |
-|:----------------|:------------------------------------------------------|
-| 0.0                 | Barn with the blue "barn quilt" featuring four blue birds. You can walk through the barn to begin the hike on the paved Bobwhite Access trail. |
-| 0.05                | Bathroom on the left of the trail.                                                                                                             |
-| 0.1                 | Descend through grassy meadows with wildflowers in the spring and early fall.                                                                  |
-| 0.3                 | Bench.                                                                                                                                         |
-| 0.6                 | Start of the Newmans Island Bridge.                                                                                                            |
-| 0.8                 | End of the bridge. Paved trail ends. Turn right onto the Island Loop Trail to hike around the island.                                          |
-| 0.85                | Picnic table beside a pretty part of the French Broad River.                                                                                   |
-| 1.05                | Stick house (kiddo favorite!).                                                                                                                 |
-| 1.5                 | Connect back to the bridge, heading back onto the Bobwhite Access Trail.                                                                       |
-| 2                   | Climb back up to the trailhead. This is the toughest part of the hike (but, it shouldn't be too steep, and the trailhead is near!).            |
-| 2.3                 | Trailhead.                                                                                                                                     |
+| Distance from Start | Description                                                                        |
+|:-----------------|:-----------------------------------------------------|
+| 0.0                 | Access the Bobwhite Access Trail by walking around or through the barn.            |
+| 0.05                | Bathroom on the left of the trail.                                                 |
+| 0.1                 | Descend through grassy meadows with wildflowers in the spring and early fall.      |
+| 0.3                 | Bench makes for a nice rest spot.                                                  |
+| 0.6                 | Start of the Newmans Island Bridge.                                                |
+| 0.8                 | Paved trail ends. Turn right onto the Island Loop Trail to hike around the island. |
+| 0.85                | Picnic table beside a pretty part of the French Broad River.                       |
+| 1.05                | Stick house (kiddo favorite!).                                                     |
+| 1.5                 | Connect back to the bridge, heading back onto the Bobwhite Access Trail.           |
+| 2                   | Climb back up the Bobwhite Access Trail to the trailhead.                          |
+| 2.3                 | Trailhead.                                                                         |
 
 ### Nearby
 
 ::: {.callout-note appearance="simple" icon="true"}
 #### Eastern Bluebird
 
-While many birds stop over at Seven Islands and areas like that on their migratory routes south (in the fall) and north (in the spring), the Eastern Bluebird is a year-round resident. Bluebirds are obligate cavity nesters - which is why they have experienced such a decline in their population as urban sprawl has increased. Refuges like Seven Islands give them lots of opportunities to find natural cavities to nest in!\
-- MaryRose Weatherton
+While many birds stop over at Seven Islands and areas like that on their migratory routes south (in the fall) and north (in the spring), the Eastern Bluebird is a year-round resident. Bluebirds are obligate cavity nesters - which is why they have experienced such a decline in their population as urban sprawl has increased. Refuges like Seven Islands give them lots of opportunities to find natural cavities to nest in! -MaryRose Weatherton
 :::
 
 -   **Take advantage of the other trails nearby!** Hike up the Hickory Ridge trail, another trail at Seven Islands State Birding Park, that is accessible from just behind the bathrooms near the parking lot. There are several other great hikes available, including hikes down the Kelly Lane Greenway (the other, wider, paved path near the barn that is gated to prevent cars from driving on it) and the Upland Inner and Outer Trail Loops.
