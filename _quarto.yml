@@ -12,8 +12,6 @@ format:
     theme: cosmo1
     css: style.css
     toc: false
-  docx: default
-  pdf: default
     
 book:
   title: "Little Kids, Big Adventures: A Guide to Family Hikes Around Knoxville"
@@ -25,6 +23,9 @@ book:
         - index.qmd        
         - AAA - Considerations_for_Your_First_Hike.qmd
         - AAA - Finding_a_Hike.qmd
+    - part: sec - overview.qmd
+        - AAA - Top 5.qmd
+        - AAA - overview of the hikes.qmd
     - part: Sec - Knoxville.qmd
       chapters: 
         - Trail_1__Seven_Islands.qmd
@@ -63,9 +64,9 @@ book:
         - Trail_30__Alum_Cave_Bluffs.qmd
     - part: sec - doing more.qmd
       chapters:
-        - AAA - Top_5.qmd
         - ZZZ - Deepening_the_Experience.qmd
         - ZZZ - Recommended_Books__Resources__and_Organizations.qmd
+        - zzz - join and give back.qmd
     - part: "Bookends"
       chapters:   
         - ZZZ - About_the_Authors.qmd

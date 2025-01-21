@@ -1,0 +1,5 @@
+## Overview of the Hikes
+
+Here is a table with all 30 hikes.
+
+!insert table with hikes
