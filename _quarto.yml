@@ -12,6 +12,8 @@ format:
     theme: cosmo1
     css: style.css
     toc: false
+  docx: default
+  pdf: default
     
 book:
   title: "Little Kids, Big Adventures: A Guide to Family Hikes Around Knoxville"
