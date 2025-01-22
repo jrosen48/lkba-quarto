@@ -6,6 +6,7 @@ copyright:  "© 2025 Katie Rosenberg and Joshua Rosenberg. All rights reserved."
 number-depth: 1
 number-sections: false
 callout-appearance: simple
+keep-tex: true
 
 format:
   html:
@@ -27,8 +28,8 @@ book:
         - AAA - Finding_a_Hike.qmd
     - part: sec - overview.qmd
       chapters:
-        - AAA - top-5.qmd
         - AAA - overview-of-the-hikes.qmd
+        - AAA - top-5.qmd
     - part: Sec - Knoxville.qmd
       chapters: 
         - Trail_1__Seven_Islands.qmd

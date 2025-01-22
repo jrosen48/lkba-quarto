@@ -1,3 +1,36 @@
 ## Overview
 
 This section provides an overview of the hikes in the book.
+
+| **Trail Number** | **Trail Name**             | Distance from Knoxville | Hike Distance | Elevation Change | Best Age |
+|------------|-------------------|---------|---------|---------------|---------|
+| Trail 1          | Seven Islands              |                         |               |                  |          |
+| Trail 2          | Ijams Riverside            |                         |               |                  |          |
+| Trail 3          | Lakeshore Park             |                         |               |                  |          |
+| Trail 4          | High Ground Park           |                         |               |                  |          |
+| Trail 5          | UT Arboretum               |                         |               |                  |          |
+| Trail 6          | Knox-Blount Greenway       |                         |               |                  |          |
+| Trail 7          | Sequoyah Park              |                         |               |                  |          |
+| Trail 8          | Ijams Crag                 |                         |               |                  |          |
+| Trail 9          | William Hastie             |                         |               |                  |          |
+| Trail 10         | Sharp’s Ridge              |                         |               |                  |          |
+| Trail 11         | Norris Dam                 |                         |               |                  |          |
+| Trail 12         | House Mountain             |                         |               |                  |          |
+| Trail 13         | Emory Falls at Frozen Head |                         |               |                  |          |
+| Trail 14         | The Obed Point Trail       |                         |               |                  |          |
+| Trail 15         | Bandy Creek Campground     |                         |               |                  |          |
+| Trail 16         | Fall Branch Falls          |                         |               |                  |          |
+| Trail 17         | Twin Arches                |                         |               |                  |          |
+| Trail 18         | Angel Falls Overlook       |                         |               |                  |          |
+| Trail 19         | Honey Creek                |                         |               |                  |          |
+| Trail 20         | Spruce Flats Falls         |                         |               |                  |          |
+| Trail 21         | Little River               |                         |               |                  |          |
+| Trail 22         | Mouse Creek                |                         |               |                  |          |
+| Trail 23         | Whiteoak Sink              |                         |               |                  |          |
+| Trail 24         | Middle Prong               |                         |               |                  |          |
+| Trail 25         | Abrams Creek               |                         |               |                  |          |
+| Trail 26         | Look Rock                  |                         |               |                  |          |
+| Trail 27         | Chestnut Top               |                         |               |                  |          |
+| Trail 28         | Abrams Falls               |                         |               |                  |          |
+| Trail 29         | Andrews Bald               |                         |               |                  |          |
+| Trail 30         | Alum Cave Bluffs           |                         |               |                  |          |
