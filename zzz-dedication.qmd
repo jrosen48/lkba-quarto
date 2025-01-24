@@ -1,8 +1,6 @@
 ---
-title: "ZZZ - dedication"
+title: "Dedication"
 editor: visual
 ---
-
-## Dedication
 
 To Jonah and Ayla, and to many more fishy poos, bear showers, and rock hops.
