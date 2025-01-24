@@ -1,4 +1,4 @@
-## Trail 15: Bandy Creek Trail at Scott State Forest
+## Trail 15: Bandy Creek Campground
 
 ### Overview
 
@@ -7,7 +7,7 @@ A welcoming, gentle introduction to the Big South Fork. This hike pairs best wit
 ### Key Characteristics
 
 | **Characteristic**        | **Details**                                                                                                                                            |
-|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------|---------------------------------------------------------|
 | Time Estimate             | 45 minutes - 1 hour, 15 minutes %Just thought – might want to check if you do time like this, or if you abbreviate 1.25. Just want to keep it uniform% |
 | Trail Distance (Miles)    | 1.3                                                                                                                                                    |
 | Elevation Change          | Flat                                                                                                                                                   |
@@ -30,7 +30,7 @@ The trailhead address will navigate you to the nearby Visitors Center (worth a v
 ### Trail Description
 
 | Distance from Start | Description                                                                                            |
-|:------------------|:----------------------------------------------------|
+|:-------------------|:---------------------------------------------------|
 | 0.0                 | Start on the Bandy Loop Trail. Wind gradually toward the horse stables.                                |
 | 0.15                | Pass the horse stables on the right. There's an easy connector trail to them near the end of the loop. |
 | 1.15                | Connector trail to the horse stables.                                                                  |

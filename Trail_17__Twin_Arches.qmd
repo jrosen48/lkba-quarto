@@ -1,4 +1,4 @@
-## Trail 17: Twin Arches Trail at the Big South Fork National River and Recreation Area
+## Trail 17: Twin Arches
 
 ### Overview
 
@@ -32,7 +32,7 @@ The above address should easily navigate you to the large parking area with a re
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                          |
-|:---------------------|:-------------------------------------------------|
+|:---------------------|:------------------------------------------------|
 | 0.0                 | Start on the Twin Arches trail.                                                                                                      |
 | 0.25                | Intersection. Head right to complete the loop in a counterclockwise section.                                                         |
 | 0.3                 | Stairs.                                                                                                                              |

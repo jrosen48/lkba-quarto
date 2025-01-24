@@ -1,4 +1,4 @@
-## Trail 18: Angel Falls Trail at Big South Fork National River and Recreation Area
+## Trail 18: Angel Falls Overlook
 
 ### Overview
 
@@ -38,7 +38,7 @@ Angel Falls is more a rapids than a waterfall, but there’s a history to its na
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                            |
-|:---------------------|:------------------------------------------------|
+|:----------------------|:------------------------------------------------|
 | 0.0                 | Start on the Grand Gap Loop (part of the John Muir Trail - these hikes share a name at this point). Head counterclockwise on the loop trail; the other direction is a much longer way to the overlook. |
 | 0.85                | Grave site.                                                                                                                                                                                            |
 | 1.0                 | Descend gently toward the overlook.                                                                                                                                                                    |
