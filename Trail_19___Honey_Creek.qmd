@@ -33,22 +33,22 @@ Park in one of the many spots at the trailhead. The trail begins slightly past t
 
 ### Trail Description
 
-| Distance from Start | Description                                                                                                                                                                                             |
-|:---------------------|:------------------------------------------------|
-| 0.0                 | Start on the Honey Creek Loop Trail. Gently wind through the densely wooded forest.                                                                                                                     |
-| 0.2                 | Gently, then more steeply, descend through the woods.                                                                                                                                                   |
-| 0.9                 | Rope ladder.                                                                                                                                                                                            |
-| 1.05                | Enter the section with high cliff walls along the left of the trail.                                                                                                                                    |
-| 1.35                | Trail splits to the left to head to the overlook. Ladders.                                                                                                                                              |
-| 1.45                | Overlook. After stopping at the overlook, head back down to resume the trail by turning left at the trail juncture. Or, optionally, walk the road back 0.8 miles to the parking area and trailhead.     |
-| 1.75                | Trail turns up into Honey Creek. Look for the green symbol with two hikers as a guide to follow the trail; in places, you'll walk through the creek and through crevices and cracks in giant boulders!  |
-| 2.25                | Head up and away from the creek.                                                                                                                                                                        |
-| 2.75                | Wind through and around huge boulders and rocks. Continue to look for the green trail symbols.                                                                                                          |
-| 3.0                 | Ice Castle Falls, a beautiful waterfall.                                                                                                                                                                |
-| 3.1                 | Gentle climb through a rocky, exposed section with different vegetation.                                                                                                                                |
-| 3.25                | Short rope ladder.                                                                                                                                                                                      |
-| 3.3                 | Trail levels out, then climbs back to the start and the trailhead.                                                                                                                                      |
-| 4.4                 | Trailhead.                                                                                                                                                                                              |
+| Distance from Start | Description                                                                                                                                                                                            |
+|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0.0                 | Start on the Honey Creek Loop Trail. Gently wind through the densely wooded forest.                                                                                                                    |
+| 0.2                 | Gently, then more steeply, descend through the woods.                                                                                                                                                  |
+| 0.9                 | Rope ladder.                                                                                                                                                                                           |
+| 1.05                | Enter the section with high cliff walls along the left of the trail.                                                                                                                                   |
+| 1.35                | Trail splits to the left to head to the overlook. Ladders.                                                                                                                                             |
+| 1.45                | Overlook. After stopping at the overlook, head back down to resume the trail by turning left at the trail juncture. Or, optionally, walk the road back 0.8 miles to the parking area and trailhead.    |
+| 1.75                | Trail turns up into Honey Creek. Look for the green symbol with two hikers as a guide to follow the trail; in places, you'll walk through the creek and through crevices and cracks in giant boulders! |
+| 2.25                | Head up and away from the creek.                                                                                                                                                                       |
+| 2.75                | Wind through and around huge boulders and rocks. Continue to look for the green trail symbols.                                                                                                         |
+| 3.0                 | Ice Castle Falls, a beautiful waterfall.                                                                                                                                                               |
+| 3.1                 | Gentle climb through a rocky, exposed section with different vegetation.                                                                                                                               |
+| 3.25                | Short rope ladder.                                                                                                                                                                                     |
+| 3.3                 | Trail levels out, then climbs back to the start and the trailhead.                                                                                                                                     |
+| 4.4                 | Trailhead.                                                                                                                                                                                             |
 
 ![Photo credit to Katie and Joshua Rosenberg](img/jo%20bsf%20cliff.jpg)
 

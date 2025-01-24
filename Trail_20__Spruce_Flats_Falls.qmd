@@ -19,7 +19,7 @@ An adventurous hike in the Smokies accessible to many families, this hike is als
 | Best Ages                 |                       |
 | Strollers and Wheelchairs |                       |
 
-(This map is being worked on still) <!-- ![](maps/trail-20-map.jpeg) -->
+![](maps/trail-20-map.jpeg)
 
 ### Directions to the Trailhead
 
@@ -32,7 +32,7 @@ The address and coordinates are for the Great Smoky Mountains Institute, as this
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                              |
-|:-------------|:---------------------------------------------------------|
+|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.0                 | Though the main trail you take to the falls is the Buckeye Trail, you will start the hike on the Lumber Ridge Trail. Ample signage is available to help avoid confusion. |
 | 0.1                 | Turn right onto the Buckeye Trail.                                                                                                                                       |
 | 0.15                | Trail levels out before a steep climb.                                                                                                                                   |

@@ -9,7 +9,7 @@ Writing about this trail makes us smile. In many ways, it's the perfect kid hike
 ### Key Characteristics
 
 | **Characteristic**        | **Details**                                                                                                                                       |
-|---------------|--------------------------------------------------------|
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | Time Estimate             | 2 hours - 3.5 hours                                                                                                                               |
 | Trail Distance (Miles)    | 2.4                                                                                                                                               |
 | Elevation Change          | Moderate                                                                                                                                          |
@@ -38,7 +38,7 @@ A closed prison near Frozen Head State Park is full of lore due to its remote lo
 ### Trail Description
 
 | Distance from Start | Description                                                                                                          |
-|:---------------------|:-------------------------------------------------|
+|:--------------------|:---------------------------------------------------------------------------------------------------------------------|
 | 0.0                 | Start by walking across the bridge at the trailhead.                                                                 |
 | 0.55                | DeBord Falls. Walk down the (steep!) stairs on the right to view the waterfall from below. Optional turnaround spot. |
 | 0.9                 | Trail switchbacks.                                                                                                   |

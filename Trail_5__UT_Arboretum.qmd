@@ -2,11 +2,11 @@
 
 ### Overview
 
-This is a gem of a hike that is off the radar for many in Knoxville, as it is tucked away in nearby Oak Ridge. Start your hike at a trailhead that offers many hiking options. We recommend walking up the paved path past botanical specimens, including uniuque conifers! Circle around park facilities past a pretty field and forests. Upon returning to the start, there are other trails to the different ecological zones represented in an area that is worth a visit; we like the trails near the marshy area with the clear creek, perfect for splashing in warm weather. Suitable for kids of all ages.
+This is a gem of a hike that is off the radar for many in Knoxville, as it is tucked away in nearby Oak Ridge. Start your hike at a trailhead that offers many hiking options. We recommend walking up the paved path past botanical specimens, including "unique conifers"! Circle around park facilities past a pretty field and forests. Upon returning to the start, there are other trails to the different ecological zones represented in an area that is worth a visit; we like the trails near the marshy area with the clear creek, perfect for splashing in warm weather. Suitable for kids of all ages.
 
 ![Photo credit to Katie and Joshua Rosenberg](img/trail-05-figure-01.jpg)
 
-### Key Characteristics %ADD STROLLER ACCESS%
+### Key Characteristics
 
 | **Characteristic**        | **Details**        |
 |---------------------------|--------------------|
@@ -32,7 +32,7 @@ The trailhead is easy to find with the above address. Park in the large parking 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                    |
-|:------------------------|:----------------------------------------------|
+|:------------------------|:---------------------------------------------|
 | 0.0                 | Walk along the paved road.                                                                                                     |
 | 0.1                 | Start of the Oak-Hickory Trail on the right.                                                                                   |
 | 0.2                 | Start of the Heath Cove Trail on the left. This is a shortcut if you're looking for one!                                       |

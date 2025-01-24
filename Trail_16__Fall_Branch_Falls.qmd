@@ -32,7 +32,7 @@ From the Visitors Center, walk across Bandy Loop Road toward the campground. Fin
 ### Trail Description
 
 | Distance from Start | Description                                                                               |
-|:--------------------|:--------------------------------------------------|
+|:--------------------|:------------------------------------------------------------------------------------------|
 | 0.0                 | Start on the Litten-Slaven Farm Loop Trail.                                               |
 | 0.2                 | Begin to gradually descend into the Fall Branch creekbed.                                 |
 | 0.5                 | Trail levels out.                                                                         |

@@ -73,6 +73,7 @@ book:
         - zzz - join and give back.qmd
     - part: "Bookends"
       chapters:   
+        - zzz-dedication.qmd
         - ZZZ - About_the_Authors.qmd
         - ZZZ - Acknowledgments.qmd
         - ZZZ - Appendices.qmd
