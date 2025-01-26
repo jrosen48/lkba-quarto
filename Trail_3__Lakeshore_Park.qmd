@@ -4,7 +4,7 @@
 
 A gem in Knoxville's city park system, this hike, entirely on a paved path, circles the perimeter of the park, featuring high points, views of the Smokies, and a boardwalk along the river. It also boasts four excellent play areas along the way! Well known, but not overrated, this is a great spot for a hike that could fit into a busy weekend, or even a weeknight, and is great for young ones of all ages, truly offering something for everyone.
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-03-figure-01.jpg)
+![Photo credit to Katie and Joshua Rosenberg](img/lakeshore-new.jpeg)
 
 ### Key Characteristics
 
@@ -32,7 +32,7 @@ The address above navigates to the park's main entrance. Our hike starts at a la
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                               |
-|:----------------|:------------------------------------------------------|
+|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.0                 | Cross Orchard Drive, heading clockwise on the paved greenway. Note the greenway on the left, which immediately heads toward the Huie Woodland Playground. |
 | 0.05                | Bench and overlook to the Smokies. Can you spy Clingman's Dome? Note that Hank Rappé playground is immediately below the greenway (to your right).        |
 | 0.15                | Short, steep descent!                                                                                                                                     |

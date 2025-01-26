@@ -1,4 +1,4 @@
-## Trail 11: Norris Dam State Park
+## Trail 11: Norris Dam
 
 ### Overview
 
@@ -32,7 +32,7 @@ There are several possible trailheads. We chose to start this hike from a put in
 ### Trail Description
 
 | Distance from Start | Description                                                                     |
-|:-----------------|:-----------------------------------------------------|
+|:--------------------|:--------------------------------------------------------------------------------|
 | 0.0                 | Cross a short bridge over Clear Creek.                                          |
 | 0.05                | Turn right (though, it is a loop and you may choose to go the other other way). |
 | 0.3                 | Cross a short bridge.                                                           |
