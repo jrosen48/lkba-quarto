@@ -16,8 +16,8 @@ Another hike that is very close to Knoxville's city center, the Knox-Blount Gree
 | Pets                      | Allowed on leash       |
 | Parking Pass/Entrance Fee | Not Required           |
 | Restroom(s)               | No                     |
-| Best Ages                 |                        |
-| Strollers and Wheelchairs |                        |
+| Best Ages                 | Toddlers and Little Kids                       |
+| Strollers and Wheelchairs | Accessible                    |
 
 ![](maps/trail-06-map.jpeg)
 

@@ -16,8 +16,8 @@ This is another gem among Knoxville city parks, nestled in the heart of the the 
 | Pets                      | Allowed on leash |
 | Parking Pass/Entrance Fee | Not Required     |
 | Restroom(s)               | Yes              |
-| Best Ages                 |                  |
-| Strollers and Wheelchairs |                  |
+| Best Ages                 | Toddlers and Little Kids                 |
+| Strollers and Wheelchairs | Not accessible                 |
 
 ![](maps/trail-07-map.jpeg)
 

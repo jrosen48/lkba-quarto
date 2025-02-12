@@ -16,8 +16,8 @@ This hike is a great introduction to the Great Smoky Mountains National Park by 
 | Pets                      | Not Allowed       |
 | Parking Pass/Entrance Fee | Required          |
 | Restroom(s)               | No                |
-| Best Ages                 |                   |
-| Strollers and Wheelchairs |                   |
+| Best Ages                 | Little kids, Big kids, and Pre-teens and older                  |
+| Strollers and Wheelchairs | Not accessible                  |
 
 ![](maps/trail-21-map.jpeg)
 

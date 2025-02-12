@@ -16,8 +16,8 @@ An adventurous hike in the Smokies accessible to many families, this hike is als
 | Pets                      | Not Allowed           |
 | Parking Pass/Entrance Fee | Required              |
 | Restroom(s)               | Yes                   |
-| Best Ages                 |                       |
-| Strollers and Wheelchairs |                       |
+| Best Ages                 | Big kids and Pre-teens and older                      |
+| Strollers and Wheelchairs | Not accessible                      |
 
 ![](maps/trail-20-map.jpeg)
 

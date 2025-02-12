@@ -16,8 +16,8 @@ This is one of our favorite trails in this book, and it is the first trail for t
 | Pets                        | Allowed on leash |
 | Parking Pass/Entrance Fee   | Not Required     |
 | Restroom(s)                 | Yes              |
-| Best Ages                   |                  |
-| Strollers and Wheelchairs   |                  |
+| Best Ages                   | Toddlers, Little kids, and Big kids                 |
+| Strollers and Wheelchairs   | Partially accessible (path is paved until the island portion)                 |
 
 ![](maps/trail-01-map.jpeg)
 

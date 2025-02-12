@@ -16,8 +16,8 @@ This trail is a nice introduction to the area of Ijams that is centered around M
 | Pets                      | Allowed on leash       |
 | Parking Pass/Entrance Fee | Not Required           |
 | Restroom(s)               | Yes                    |
-| Best Ages                 |                        |
-| Strollers and Wheelchairs |                        |
+| Best Ages                 | Little Kids and Big Kids                       |
+| Strollers and Wheelchairs | Not accessible                       |
 
 ![](maps/trail-08-map.jpeg)
 

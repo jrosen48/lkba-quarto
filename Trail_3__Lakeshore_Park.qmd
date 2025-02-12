@@ -16,8 +16,8 @@ A gem in Knoxville's city park system, this hike, entirely on a paved path, circ
 | Pets                      | Allowed on leash      |
 | Parking Pass/Entrance Fee | Not Required          |
 | Restroom(s)               | Yes                   |
-| Best Ages                 |                       |
-| Strollers and Wheelchairs |                       |
+| Best Ages                 | Toddlers, Little Kids, and Big Kids                      |
+| Strollers and Wheelchairs | Not accessible                    |
 
 ![](maps/trail-03-map.jpeg)
 

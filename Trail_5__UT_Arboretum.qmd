@@ -16,8 +16,8 @@ This is a gem of a hike that is off the radar for many in Knoxville, as it is tu
 | Pets                      | Not Allowed        |
 | Parking Pass/Entrance Fee | Not Required       |
 | Restroom(s)               | No                 |
-| Best Ages                 |                    |
-| Strollers and Wheelchairs |                    |
+| Best Ages                 | Toddlers and Little Kids                   |
+| Strollers and Wheelchairs | Accessible                    |
 
 ![](maps/trail-05-map.jpeg)
 

@@ -16,8 +16,8 @@ This is one of the closest hikes to the city center of Knoxville, and it's strol
 | Pets                      | Allowed on leash   |
 | Parking Pass/Entrance Fee | Not Required       |
 | Restroom(s)               | No                 |
-| Best Ages                 |                    |
-| Strollers and Wheelchairs |                    |
+| Best Ages                 | Toddlers and Little kids                   |
+| Strollers and Wheelchairs | Accessible                    |
 
 ![](maps/trail-04-map.jpeg)
 
