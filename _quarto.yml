@@ -19,7 +19,7 @@ format:
 book:
   title: "Little Kids, Big Adventures: A Guide to Family Hikes Around Knoxville"
   author: "Katie Rosenberg and Joshua Rosenberg"
-  date: "1/14/2025"
+  date: "February, 2025"
   chapters:
     - part: sec - introduction.qmd
       chapters:
