@@ -8,7 +8,7 @@ editor:
 
 ### You don't need fancy gear!
 
-There's a little secret in the hiking world. You don't need a lot to get started. Indeed, may not need anything _new_ at all.
+There's a little secret in the hiking world. You don't need a lot to get started. Indeed, you may not need anything _new_ at all.
 
 Our view is that you don’t need anything special to enjoy your first hike.
 With the right trail and a few basics, you’ll be ready for an adventure.
@@ -33,7 +33,7 @@ Sometimes this might mean playing in a creek for half of your planned hiking tim
 
 ### Be choosy about the when and where
 
-One of the benefits of living close to great hiking opportunities is that we can be a little choosy about when and where we hike. While we are card carrying members of the puddle splashing club, we also appreciate that our littles may have a better time when it is not 50 &deg;F and rainy. Does it look like it is going to rain all day, border on being too cold, or be oppressively hot? You can choose another day to hike; we have enough good weather that we can avoid the less-than-ideal days. 
+One of the benefits of living close to great hiking opportunities is that we can be a little choosy about when and where we hike. While we are card carrying members of the puddle splashing club, we also appreciate that our littles may have a better time when it is not 50&deg;F and rainy. Does it look like it is going to rain all day, border on being too cold, or be oppressively hot? You can choose another day to hike; we have enough good weather that we can avoid the less-than-ideal days. 
 
 ![Photo credit to Katie and Joshua Rosenberg](img/trees-with-light.jpeg)
 
@@ -61,7 +61,7 @@ When taking on a lengthier hike or traveling farther from home, the following ca
 -   Shoes with some traction (though what are strictly called hiking shoes are not needed)
 -   A first aid kit
 
-The appendix has some recommendations for a basic first-aid kit as well as recommendations for some additional items you may optionally wish to bring*
+The appendix has some recommendations for a basic first-aid kit as well as recommendations for some optional items you may wish to bring.
 
 ### Embrace serendipity
 
