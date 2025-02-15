@@ -28,10 +28,10 @@ book:
         - AAA - Considerations_for_Your_First_Hike.qmd
     - part: "Choosing a Hike"
       chapters:
-        - AAA - overview-of-the-hikes.qmd
-        - AAA - what each includes.qmd
         - AAA - Finding_a_Hike.qmd
         - AAA - top-5.qmd
+        - AAA - what each includes.qmd
+        - AAA - overview-of-the-hikes.qmd
     - part: Sec - Knoxville.qmd
       chapters: 
         - Trail_1__Seven_Islands.qmd
