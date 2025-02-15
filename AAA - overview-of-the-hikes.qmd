@@ -1,9 +1,7 @@
 ## Overview of the Hikes
 
-Here is a table with all 30 hikes.
-
 | Trail \# | **Trail Name**                 | **Time**                | **Distance (Mi.)** | **Elevation** | **Pets**         | **Parking Pass**       | **Restrooms**  | **Best Ages**                                  | **Accessibility**                                             |
-|----------|:-------------------------------|:------------------------|:-------------------|:--------------|:-----------------|:-----------------------|:---------------|:-----------------------------------------------|:--------------------------------------------------------------|
+|------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|
 | 1        | **Seven Islands**              | 1.5 - 3 hours           | 2.3                | Gentle        | Allowed on leash | Not Required           | Yes            | Toddlers, Little kids, and Big kids            | Partially accessible (path is paved until the island portion) |
 | 2        | **Ijams Riverside**            | 45 minutes - 1.5 hours  | 1.03               | Moderate      | Allowed on leash | Required (pay on site) | Yes            | Toddlers and Little Kids                       | Not accessible                                                |
 | 3        | **Lakeshore Park**             | 1.5 hours - 2.5 hours   | 2.2                | Gentle        | Allowed on leash | Not Required           | Yes            | Toddlers, Little Kids, and Big Kids            | Not accessible                                                |

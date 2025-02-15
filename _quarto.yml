@@ -18,17 +18,19 @@ format:
     
 book:
   title: "Little Kids, Big Adventures: A Guide to Family Hikes Around Knoxville"
+  subtitle: "The Tennessee Valley, Cumberland Plateau, and Great Smoky Mountains National Park"
   author: "Katie Rosenberg and Joshua Rosenberg"
   date: "February, 2025"
   chapters:
-    - part: sec - introduction.qmd
+    - part: "Introduction"
       chapters:
-        - index.qmd        
+        - index.qmd
         - AAA - Considerations_for_Your_First_Hike.qmd
-        - AAA - Finding_a_Hike.qmd
-    - part: sec - overview.qmd
+    - part: "Choosing a Hike"
       chapters:
         - AAA - overview-of-the-hikes.qmd
+        - AAA - what each includes.qmd
+        - AAA - Finding_a_Hike.qmd
         - AAA - top-5.qmd
     - part: Sec - Knoxville.qmd
       chapters: 
