@@ -2,36 +2,35 @@
 
 Here is a table with all 30 hikes.
 
-
-| **Trail Number** | **Trail Name**             | Distance from Knoxville | Hike Distance | Elevation Change | Best Age |
-|------------|------------|------------|------------|------------|------------|
-| Trail 1          | Seven Islands              |                         |               |                  |          |
-| Trail 2          | Ijams Riverside            |                         |               |                  |          |
-| Trail 3          | Lakeshore Park             |                         |               |                  |          |
-| Trail 4          | High Ground Park           |                         |               |                  |          |
-| Trail 5          | UT Arboretum               |                         |               |                  |          |
-| Trail 6          | Knox-Blount Greenway       |                         |               |                  |          |
-| Trail 7          | Sequoyah Park              |                         |               |                  |          |
-| Trail 8          | Ijams Crag                 |                         |               |                  |          |
-| Trail 9          | William Hastie             |                         |               |                  |          |
-| Trail 10         | Sharp’s Ridge              |                         |               |                  |          |
-| Trail 11         | Norris Dam                 |                         |               |                  |          |
-| Trail 12         | House Mountain             |                         |               |                  |          |
-| Trail 13         | Emory Falls at Frozen Head |                         |               |                  |          |
-| Trail 14         | The Obed Point Trail       |                         |               |                  |          |
-| Trail 15         | Bandy Creek Campground     |                         |               |                  |          |
-| Trail 16         | Fall Branch Falls          |                         |               |                  |          |
-| Trail 17         | Twin Arches                |                         |               |                  |          |
-| Trail 18         | Angel Falls Overlook       |                         |               |                  |          |
-| Trail 19         | Honey Creek                |                         |               |                  |          |
-| Trail 20         | Spruce Flats Falls         |                         |               |                  |          |
-| Trail 21         | Little River               |                         |               |                  |          |
-| Trail 22         | Mouse Creek                |                         |               |                  |          |
-| Trail 23         | Whiteoak Sink              |                         |               |                  |          |
-| Trail 24         | Middle Prong               |                         |               |                  |          |
-| Trail 25         | Abrams Creek               |                         |               |                  |          |
-| Trail 26         | Look Rock                  |                         |               |                  |          |
-| Trail 27         | Chestnut Top               |                         |               |                  |          |
-| Trail 28         | Abrams Falls               |                         |               |                  |          |
-| Trail 29         | Andrews Bald               |                         |               |                  |          |
-| Trail 30         | Alum Cave Bluffs           |                         |               |                  |          |
+| Trail \# | **Trail Name**                 | **Time**                | **Distance (Mi.)** | **Elevation** | **Pets**         | **Parking Pass**       | **Restrooms**  | **Best Ages**                                  | **Accessibility**                                             |
+|----------|:-------------------------------|:------------------------|:-------------------|:--------------|:-----------------|:-----------------------|:---------------|:-----------------------------------------------|:--------------------------------------------------------------|
+| 1        | **Seven Islands**              | 1.5 - 3 hours           | 2.3                | Gentle        | Allowed on leash | Not Required           | Yes            | Toddlers, Little kids, and Big kids            | Partially accessible (path is paved until the island portion) |
+| 2        | **Ijams Riverside**            | 45 minutes - 1.5 hours  | 1.03               | Moderate      | Allowed on leash | Required (pay on site) | Yes            | Toddlers and Little Kids                       | Not accessible                                                |
+| 3        | **Lakeshore Park**             | 1.5 hours - 2.5 hours   | 2.2                | Gentle        | Allowed on leash | Not Required           | Yes            | Toddlers, Little Kids, and Big Kids            | Not accessible                                                |
+| 4        | **High Ground Park**           | 0.5 hours - 1 hour      | 0.7                | Gentle        | Allowed on leash | Not Required           | No             | Toddlers and Little kids                       | Accessible                                                    |
+| 5        | **UT Arboretum**               | 0.5 hours - 1 hour      | 0.9                | Gentle        | Not Allowed      | Not Required           | No             | Toddlers and Little Kids                       | Accessible                                                    |
+| 6        | **Knox-Blount Greenway**       | 45 minutes - 1.5 hours  | 2.3                | Gentle        | Allowed on leash | Not Required           | No             | Toddlers and Little Kids                       | Accessible                                                    |
+| 7        | **Sequoyah Park**              | 1 hour - 2 hours        | 2.1                | Flat          | Allowed on leash | Not Required           | Yes            | Toddlers and Little Kids                       | Not accessible                                                |
+| 8        | **Ijams Crag**                 | 45 minutes - 1.5 hours  | 1.5                | Moderate      | Allowed on leash | Not Required           | Yes            | Little Kids and Big Kids                       | Not accessible                                                |
+| 9        | **William Hastie**             | 0.5 hours - 1 hour      | 1.3                | Flat          | Allowed on leash | Not Required           | No             | Toddler and little kids                        | Partially accessible (graded gravel path)                     |
+| 10       | **Sharp's Ridge**              | 1.5 hours - 2.5 hours   | 2.3                | Moderate      | Allowed on leash | Not Required           | No             | Little kids                                    | Not accessible                                                |
+| 11       | **Norris Dam**                 | 1.5 hours - 2.5 hours   | 2.3                | Gentle        | Allowed on leash | Not Required           | No             | Little kids and Big kids                       | Partially accessible (graded gravel path)                     |
+| 12       | **House Mountain**             | 2.5 hours - 4.5 hours   | 2.5                | Steep         | Allowed on leash | Not Required           | No             | Pre-teens and older                            | Not accessible                                                |
+| 13       | **Emory Falls at Frozen Head** | 2 hours - 3.5 hours     | 2.4                | Moderate      | Allowed on leash | Not Required           | No             | Little kids                                    | Not accessible                                                |
+| 14       | **The Obed Point Trail**       | 2.5 hours - 4.5 hours   | 3.6                | Gentle        | Allowed on leash | Not Required           | Yes            | Little kids and Big kids                       | Not accessible                                                |
+| 15       | **Bandy Creek Campground**     | 45 minutes - 1.25 hours | 1.3                | Flat          | Allowed on leash | Not Required           | Yes            | Toddlers and Little kids                       | Not accessible                                                |
+| 16       | **Fall Branch Falls**          | 2.5 hours - 4.5 hours   | 3.7                | Moderate      | Allowed on leash | Not Required           | Yes            | Big kids and Pre-teens and older               | Not accessible                                                |
+| 17       | **Twin Arches**                | 1.5 hour - 2.5 hours    | 1.2                | Moderate      | Allowed on leash | Not Required           | Yes            | Little kids and Big kids                       | Not accessible                                                |
+| 18       | **Angel Falls Overlook**       | 1.5 hours - 2.5 hours   | 2.8                | Gentle        | Allowed on leash | Not Required           | No             | Little Kids and Big Kids                       | Not Accessible                                                |
+| 19       | **Honey Creek**                | 4 hours - 7 hours       | 4.4                | Steep         | Not Allowed      | Required               | No             | Big kids and Pre-teens and older               | Not accessible                                                |
+| 20       | **Spruce Flats Falls**         | 1.5 hours - 2.5 hours   | 1.6                | Moderate      | Not Allowed      | Required               | Yes            | Big kids and Pre-teens and older               | Not accessible                                                |
+| 21       | **Little River**               | 3 hours - 5 hours       | 5.5                | Moderate      | Not Allowed      | Required               | No             | Little kids, Big kids, and Pre-teens and older | Not accessible                                                |
+| 22       | **Mouse Creek**                | 2 hours - 4 hours       | 4.0                | Moderate      | Not Allowed      | Required               | Yes (seasonal) | Little kids and Big kids                       | Not accessible                                                |
+| 23       | **Whiteoak Sink**              | 3 hours - 5 hours       | 4.6                | Moderate      | Not Allowed      | Required               | No             | Little kids and Big kids                       | Not accessible                                                |
+| 24       | **Middle Prong**               | 4 hours - 6 hours       | 7.6                | Moderate      | Not Allowed      | Required               | No             | All Ages                                       | Not accessible                                                |
+| 25       | **Abrams Creek**               | 4 hours - 6 hours       | 5.8                | Moderate      | Not Allowed      | Required               | Yes (seasonal) | All ages                                       | Not accessible                                                |
+| 26       | **Look Rock**                  | 30 minutes - 1 hour     | 0.6                | Moderate      | Not Allowed      | Required               | No             | Toddlers and Little Kids                       | Partially accessible (paved but very steep)                   |
+| 27       | **Chestnut Top**               | 1.5 hours - 2.5 hours   | 2.6                | Steep         | Not Allowed      | Required               | No             | Big kids                                       | Not accessible                                                |
+| 28       | **Abrams Falls**               | 3 hours - 2.5 hours     | 5.0                | Steep         | Not Allowed      | Required               | Yes            | Big kids and Pre-teens and older               | Not accessible                                                |
+| 29       | **Andrews Bald**               | 2 hours - 3.5 hours     | 3.6                | Moderate      | Not Allowed      | Required               | Yes (seasonal) | Big kids and Pre-teens and older               | Not accessible                                                |
+| 30       | **Alum Cave Bluffs**           | 3 hours - 5 hours       | 4.5                | Very Steep    | Not Allowed      | Required               | Yes (seasonal) | Big kids and Pre-teens and older               | Not accessible                                                |

@@ -30,6 +30,7 @@ Trailhead GPS Coordinates: 35.93824, -83.9258
 The trail begins from the parking lot at the above address; look for the paved path near the back of the parking lot. You can't miss it!
 
 ::: {.callout-note appearance="simple" icon="true"}
+
 #### Earthworks
 
 Structures formed from shaping rocks and soil, often as part of forts around Knoxville constructed during the Civil War. Surprisingly long-standing. The earthworks here and at the nearby Fort Dickerson include ramparts – small hills or banks that served as defensive walls.
@@ -47,5 +48,5 @@ Structures formed from shaping rocks and soil, often as part of forts around Kno
 
 ### Nearby
 
--   \*\*\*\*Stop by a fun food hall before or after!\*\*\*\* The nearby Kern's Food Hall (2201 Kerns Rising Way, Knoxville, TN 37920) has a good range of options and an outdoor play area for kids to romp around.
--   \*\*\*\*For more outdoor fun, hike the nearby River Bluff Wildlife area.\*\*\*\* The nearby River Bluff Wildlife Area is an interesting counterbalance to the ease of High Ground Park - \*\*\*\*it features a short but rustic hike to a pretty overlook of the city.\*\*\*\* Visit Knoxville's website (<https://www.visitknoxville.com/>) has more information and a nice map.
+-   **Stop by a fun food hall before or after!** The nearby Kern's Food Hall (2201 Kerns Rising Way, Knoxville, TN 37920) has a good range of options and an outdoor play area for kids to romp around.
+-   **For more outdoor fun, hike the nearby River Bluff Wildlife area.** The nearby River Bluff Wildlife Area is an interesting counterbalance to the ease of High Ground Park. it features a short but rustic hike to a pretty overlook of the city.\*\*\*\* Visit Knoxville's website (<https://www.visitknoxville.com/>) has more information and a nice map.

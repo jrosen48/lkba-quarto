@@ -29,6 +29,13 @@ Trailhead GPS Coordinates: 35.94191, -83.95270
 
 Park in the lot at the above address. If helpful, the building next to the lot is the IAM Electron Microscopy Facility. The start of the trail is at the top of a terraced amphitheater—conveniently, one that's easy to walk down.
 
+::: {.callout-note appearance="simple" icon="true"}
+
+#### Bald Eagle
+
+Common along local rivers, including the river beside this hike---the Tennessee River. You may even spot a nesting pair on nearby Looney Island.
+:::
+
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                           |

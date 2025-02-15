@@ -27,6 +27,14 @@ Trailhead Address: Sequoyah Park Restrooms, W2HG+M9, Knoxville, TN 37919
 
 Trailhead GPS Coordinates: 35.92932, -83.97398
 
+::: {.callout-note appearance="simple" icon="true"}
+
+#### Elm Tree
+
+An umbrella-crowned “Champion” Elm, protected with a wire enclosure near the start of the trail.	
+
+:::
+
 The above address takes you to the parking area next to restrooms that serve as a landmark for this sprawling park. Please note that the address uses a "Plus" code that only works with Google Maps because the restrooms and trailhead don't have an assigned address. %EXPLAIN PLUS CODE%
 
 ### Trail Description
@@ -40,8 +48,17 @@ The above address takes you to the parking area next to restrooms that serve as 
 | 0.65                | Distinctive, dome-shaded trees that kids can crawl into, between, and through.                                                           |
 | 0.9                 | Small rocky hill to walk over (you can walk around it on the greenway, but kids may enjoy scrambling up it).                             |
 | 1.1                 | Boat launch. Head up beside or through the parking lot to Sequoyah Greenway in the center of Cherokee Blvd. Turn left onto the greenway. |
-| 1.2                 | Indian burial mound. Note the historical marker. Walk along past the homes on both sides of the greenway.                                |
+| 1.2                 | Native American mound. Note the historical marker. Walk along past the homes on both sides of the greenway.                                |
 | 2.05                | Traihead.                                                                                                                                |
+
+::: {.callout-note appearance="simple" icon="true"}
+
+#### Native American Mounds
+
+These earthen mounds are found in many places along the Mississippi River and its tributaries—like the Tennessee River. Nobody is completely sure why they were built, but some believe they served as gathering spots or markers to return to time and again. The mound here may date back as early as the 1400s, likely created by one of the Native Nations with ancestral ties to the Knoxville region.
+
+:::
+
 
 ![Photo credit to Katie and Joshua Rosenberg](img/trail-07-figure-02.jpg)
 

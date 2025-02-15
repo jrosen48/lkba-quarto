@@ -27,6 +27,14 @@ Trailhead Address: Twin Arches Trailhead, G7V5+Q7 Jamestown, Tennessee
 
 Trailhead GPS Coordinates: 36.48797, -84.69744
 
+
+::: {.callout-note appearance="simple" icon="true"}
+
+#### Eastern Copperhead
+
+
+:::
+
 The above address should easily navigate you to the large parking area with a restroom. Note that the above address uses a Google Maps "Plus code", as the trailhead does not have a street address. This will only work in Google Maps. Park, and look for the sign for the Twin Arches trail near the back of the parking lot.
 
 ### Trail Description
