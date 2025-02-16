@@ -29,9 +29,9 @@ book:
     - part: "Choosing a Hike"
       chapters:
         - AAA - Finding_a_Hike.qmd
-        - AAA - top-5.qmd
         - AAA - what each includes.qmd
         - AAA - overview-of-the-hikes.qmd
+        - AAA - top-5.qmd
     - part: Sec - Knoxville.qmd
       chapters: 
         - Trail_1__Seven_Islands.qmd
@@ -68,7 +68,7 @@ book:
         - Trail_28__Abrams_Falls.qmd
         - Trail_29__Andrews_Bald.qmd
         - Trail_30__Alum_Cave_Bluffs.qmd
-    - part: sec - doing more.qmd
+    - part: "Doing More//"
       chapters:
         - ZZZ - Deepening_the_Experience.qmd
         - ZZZ - Recommended_Books__Resources__and_Organizations.qmd
