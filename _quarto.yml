@@ -25,9 +25,9 @@ book:
     - part: "Introduction"
       chapters:
         - index.qmd
-        - AAA - Considerations_for_Your_First_Hike.qmd
-    - part: "Choosing a Hike"
+    - part: "Getting Started and Choosing a Hike"
       chapters:
+        - AAA - Considerations_for_Your_First_Hike.qmd
         - AAA - Finding_a_Hike.qmd
         - AAA - what each includes.qmd
         - AAA - overview-of-the-hikes.qmd
@@ -68,7 +68,7 @@ book:
         - Trail_28__Abrams_Falls.qmd
         - Trail_29__Andrews_Bald.qmd
         - Trail_30__Alum_Cave_Bluffs.qmd
-    - part: "Doing More//"
+    - part: "Doing More"
       chapters:
         - ZZZ - Deepening_the_Experience.qmd
         - ZZZ - Recommended_Books__Resources__and_Organizations.qmd
