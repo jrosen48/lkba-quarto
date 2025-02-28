@@ -22,13 +22,18 @@ book:
   author: "Katie Rosenberg and Joshua Rosenberg"
   date: "February, 2025"
   chapters:
-    - part: "Introduction"
-      chapters:
+    - part: "Front Matter"
+      chapters:   
+        - zzz-dedication.qmd
+        - ZZZ - Acknowledgments.qmd
         - index.qmd
-    - part: "Getting Started and Choosing a Hike"
+    - part: "Getting Ready to Hike"
       chapters:
+        - a-story-about-a-hike.qmd
         - AAA - Considerations_for_Your_First_Hike.qmd
         - AAA - Finding_a_Hike.qmd
+    - part: "How to Use This Book"
+      chapters:
         - AAA - what each includes.qmd
         - AAA - overview-of-the-hikes.qmd
         - AAA - top-5.qmd
@@ -73,11 +78,9 @@ book:
         - ZZZ - Deepening_the_Experience.qmd
         - ZZZ - Recommended_Books__Resources__and_Organizations.qmd
         - zzz - join and give back.qmd
-    - part: "Bookends"
+    - part: "End Matter"
       chapters:   
-        - zzz-dedication.qmd
         - ZZZ - About_the_Authors.qmd
-        - ZZZ - Acknowledgments.qmd
         - ZZZ - Appendices.qmd
 
 bibliography: references.bib
