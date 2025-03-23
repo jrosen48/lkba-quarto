@@ -35,7 +35,7 @@ Trailhead GPS Coordinates: 35.92932, -83.97398
  
 :::
 
-The above address takes you to the parking area next to restrooms that serve as a landmark for this sprawling park. Please note that the address uses a "Plus" code that only works with Google Maps because the restrooms and trailhead don't have an assigned address. %EXPLAIN PLUS CODE%
+The above address takes you to the parking area next to restrooms that serve as a landmark for this sprawling park. Please note that the address uses a "Plus" code that only works with Google Maps. A Google Maps Plus code is a short, alphanumeric code that pinpoints an exact location anywhere in the world without needing a street address.
 
 ### Trail Description
 

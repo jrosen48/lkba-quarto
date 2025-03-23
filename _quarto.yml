@@ -27,7 +27,7 @@ book:
         - zzz-dedication.qmd
         - ZZZ - Acknowledgments.qmd
         - index.qmd
-    - part: "Getting Ready to Hike"
+    - part: "Getting Ready for Your First Hike"
       chapters:
         - a-story-about-a-hike.qmd
         - AAA - Considerations_for_Your_First_Hike.qmd

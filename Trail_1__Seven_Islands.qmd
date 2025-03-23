@@ -4,12 +4,12 @@
 
 This is one of our favorite trails in this book, and it is the first trail for that reason! This hike is a crowd pleaser for every family member of all ages thanks to a paved path that makes bringing babies in a stroller a breeze and easy acces to experience meadow, woodland, and a river! For the trail we highlight, a paved path descends through a meadow. Look for varied bird varieties and deer in all seasons! The trail crosses a bridge over the French Broad River and then a dirt trail make a loop around a beautiful island before returning back to the paved path. This hike is great for all ages and seasons, though it is sometimes hot in the summer due to limited shade on the paved part of the trail.
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-01-figure-01.jpg)
+![Photo credit to Katie and Joshua Rosenberg](img/seven%20islands%20entrance.jpg)
 
 ### Key Characteristics
 
 | **Characteristic**          | **Details**                                                   |
-|-----------------------------|---------------------------------------------------------------|
+|------------------------|------------------------------------------------|
 | Time Estimate - Hiking Fast | 1.5 - 3 hours                                                 |
 | Trail Distance (Miles)      | 2.3                                                           |
 | Elevation Change            | Gentle                                                        |
@@ -38,7 +38,7 @@ A native fruit found around Seven Islands. Tastes like a mix of an apple and a b
 ### Trail Description
 
 | Distance from Start | Description                                                                        |
-|:--------------------|:-----------------------------------------------------------------------------------|
+|:------------------|:----------------------------------------------------|
 | 0.0                 | Access the Bobwhite Access Trail by walking around or through the barn.            |
 | 0.05                | Bathroom on the left of the trail.                                                 |
 | 0.1                 | Descend through grassy meadows with wildflowers in the spring and early fall.      |
@@ -50,6 +50,8 @@ A native fruit found around Seven Islands. Tastes like a mix of an apple and a b
 | 1.5                 | Connect back to the bridge, heading back onto the Bobwhite Access Trail.           |
 | 2                   | Climb back up the Bobwhite Access Trail to the trailhead.                          |
 | 2.3                 | Trailhead.                                                                         |
+
+![Photo credit to Katie and Joshua Rosenberg](img/katie-kids-river.jpg)
 
 ### Nearby
 
