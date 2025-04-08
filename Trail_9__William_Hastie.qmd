@@ -8,16 +8,16 @@ You'll be surrounded by trees galore at William Hastie! The start features a beg
 
 ### Key Characteristics
 
-| **Characteristic**        | **Details**        |
-|---------------------------|--------------------|
-| Time Estimate             | 0.5 hours - 1 hour |
-| Trail Distance (Miles)    | 1.3                |
-| Elevation Change          | Flat               |
-| Pets                      | Allowed on leash   |
-| Parking Pass/Entrance Fee | Not Required       |
-| Restroom(s)               | No                 |
+| **Characteristic**        | **Details**                               |
+|---------------------------|-------------------------------------------|
+| Time Estimate             | 0.5 hours - 1 hour                        |
+| Trail Distance (Miles)    | 1.3                                       |
+| Elevation Change          | Flat                                      |
+| Pets                      | Allowed on leash                          |
+| Parking Pass/Entrance Fee | Not Required                              |
+| Restroom(s)               | No                                        |
 | Best Ages                 | Toddlera nd little kids                   |
-| Strollers and Wheelchairs | Partially accessible (graded gravel path)                   |
+| Strollers and Wheelchairs | Partially accessible (graded gravel path) |
 
 ![](maps/trail-09-map.jpeg)
 
@@ -27,15 +27,11 @@ Trailhead Address: William Hastie Natural Area, 1302 Margaret Rd, Knoxville, TN 
 
 Trailhead GPS Coordinates: 35.93464, -83.87455
 
-
 ::: {.callout-note appearance="simple" icon="true"}
-
 #### Eastern Box Turtle
 
-Think of the Eastern Box Turtle as a tiny explorer. These reptiles (animals whose body temperature that changes with its surroundings) are not _necessarily_ found only near water. Instead, they move slowly across the forest floor searching for berries, mushrooms, and insects, making them easy to observe from a respectful distance. They're smaller in size than other turtles, with shells around 6" or fewer in length; the Snapping Turtle has a far larger shell.
-
+Think of the Eastern Box Turtle as a tiny explorer. These reptiles (animals whose body temperature that changes with its surroundings) are not *necessarily* found only near water. Instead, they move slowly across the forest floor searching for berries, mushrooms, and insects, making them easy to observe from a respectful distance. They're smaller in size than other turtles, with shells around 6" or fewer in length; the Snapping Turtle has a far larger shell.
 :::
-
 
 The above address will direct you to a large, rarely-busy parking lot and a nice trailhead with a picnic area. Several trails start from this trailhead. Look for a sign for the Margaret Road Trail.
 
@@ -51,5 +47,5 @@ The above address will direct you to a large, rarely-busy parking lot and a nice
 
 ### Nearby
 
--   **Bring bike and enjoy the kids' loop.** The "green" mountain biking trail, Springarn, is a great spot for kids to begin to learn to ride on trails. It's only 0.6 miles and is a nice complement to this hike.
+-   **Bring a bike and enjoy the kids' loop.** The "green" mountain biking trail near the start (it's called "Springarn") is a great spot for kids to begin to learn to ride on trails. It's only 0.6 miles and is a nice complement to this hike.
 -   **Explore some of the many other trails while you're there.** William Hastie Natural Area features many other trails of varying difficulty. Consider taking Mitchie's Way from near the parking area—and then looping back to Margaret Road and the start on the trail of your choice.
