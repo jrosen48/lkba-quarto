@@ -39,7 +39,7 @@ This is one of the busiest parking areas and trailheads in the park. Particularl
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                           |
-|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:------------------|:----------------------------------------------------|
 | 0.0                 | Start on the Alum Cave Trail. Almost immediately cross a bridge over the West Prong of the Little Pigeon River.                                                       |
 | 0.1                 | Continue on the trail, now along Alum Cave Creek. The trail gradually climbs up a wide, scenic pathway, occasionally crossing                                         |
 | 0.6                 | Fun spots to splash in the creek abound around this section. Pick one and cool off in warmer weather!                                                                 |
@@ -63,4 +63,4 @@ Similar to Fraser Fir, but larger (taller and wider) and found at lower elevatio
 -   **Visit Sevierville, Pigeon Forge, and Gatlinburg.** Sevierville, Pigeon Forge, and Gatlinburg loosely form a corridor from I-40 to the entrance to the Great Smoky Mountains National Park. Sevierville and (especially) Pigeon Forge feature tourist attractions, restaurants, and a very wide variety of shops; Gatlinburg is touristy but has a more small-town character. As tourist destinations, all three can be busy, but they can be fun places to stop with happy but tired kiddos, and restaurants and shopping are plentiful.
 -   **Hike on to LeConte for a grand adventure!** You may continue farther along on the Alum Cave Trail to Mount LeConte, a peak with only around 40 feet less height than Kuwohi, but only accessible via (lengthy) hikes. The round trip hike from the Alum Cave Trail Trailhead to Mount LeConte is around 11 very challenging miles. There is a lodge at which you can reserve a rustic room called LeConte Lodge (LeConte Lodge · Gatlinburg, TN 37738), but it can be difficult to secure a reservation. The LeConte Lodge includes a store where day hikers can purchase snacks, coveted t-shirts, and even more coveted no-bake cookies.
 
-![Photo credit to Katie and Joshua Rosenber](img/leconte-sunset.jpeg)
+![Photo credit to Katie and Joshua Rosenberg.](img/leconte-sunset.jpeg)
