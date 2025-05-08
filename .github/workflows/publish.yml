@@ -1,29 +1,16 @@
-# .github/workflows/publish.yml
-name: Quarto Publish
+Run quarto-dev/quarto-actions/publish@v2
+Run git config --global user.email "quarto-github-actions-publish@example.com"
+ERROR: Book chapter 'AAA - top-5.qmd' not found
 
-on:
-  workflow_dispatch:       # manual trigger if you ever need it
-  push:
-    branches:
-      - master             # run on every push to master
-
-permissions:
-  contents: write          # allow pushing to gh-pages
-
-jobs:
-  build-deploy:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-
-      - name: Render and publish site
-        uses: quarto-dev/quarto-actions/publish@v2
-        with:
-          target: gh-pages    # ← push the built site to gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+Stack trace:
+    at throwInputNotFound (file:///opt/quarto/bin/quarto.js:100761:19)
+    at findInputs (file:///opt/quarto/bin/quarto.js:100792:17)
+    at eventLoopTick (ext:core/01_core.js:175:7)
+    at async findInputs (file:///opt/quarto/bin/quarto.js:100771:17)
+    at async findChapters (file:///opt/quarto/bin/quarto.js:100804:13)
+    at async bookRenderItems (file:///opt/quarto/bin/quarto.js:100807:5)
+    at async Object.bookProjectConfig [as config] (file:///opt/quarto/bin/quarto.js:100712:25)
+    at async projectContext (file:///opt/quarto/bin/quarto.js:82390:38)
+    at async createPublishOptions (file:///opt/quarto/bin/quarto.js:119015:21)
+    at async publishAction (file:///opt/quarto/bin/quarto.js:118936:28)
+Error: Process completed with exit code 1.
