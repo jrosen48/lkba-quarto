@@ -8,16 +8,16 @@ This hike is unreal! This trail features rope ladders, wooden ladders, gigantic 
 
 ### Key Characteristics
 
-| **Characteristic**        | **Details**       |
-|---------------------------|-------------------|
-| Time Estimate             | 4 hours - 7 hours |
-| Trail Distance (Miles)    | 4.4               |
-| Elevation Change          | Steep             |
-| Pets                      | Not Allowed       |
-| Parking Pass/Entrance Fee | Required          |
-| Restroom(s)               | No                |
-| Best Ages                 | Big kids and Pre-teens and older                  |
-| Strollers and Wheelchairs | Not accessible                  |
+| **Characteristic**        | **Details**                      |
+|---------------------------|----------------------------------|
+| Time Estimate             | 4 hours - 7 hours                |
+| Trail Distance (Miles)    | 4.4                              |
+| Elevation Change          | Steep                            |
+| Pets                      | Not Allowed                      |
+| Parking Pass/Entrance Fee | Required                         |
+| Restroom(s)               | No                               |
+| Best Ages                 | Big kids and Pre-teens and older |
+| Strollers and Wheelchairs | Not accessible                   |
 
 ![](maps/trail-19-map.jpeg)
 
@@ -27,14 +27,10 @@ Trailhead Address: Honey Creek Trailhead and Parking Area, C8CX+G7 Allardt, Tenn
 
 Trailhead GPS Coordinates: 36.42123, -84.65180
 
-
 ::: {.callout-note appearance="simple" icon="true"}
-
 #### Rosebay Rhododendron
 
-These plants are commonly seen on slopes near streams, which helps stabilize the soil. Looks similar to Mountain Laurel; has larger leaves. Pretty, but all parts of this plant are toxic to humans and pets! 
--MaryRose Weatherton
-
+These plants are commonly seen on slopes near streams, which helps stabilize the soil. Looks similar to Mountain Laurel; has larger leaves. Pretty, but all parts of this plant are toxic to humans and pets! -MaryRose Weatherton
 :::
 
 Navigate to the Honey Creek Trailhead. Note that there is also a Honey Creek Overlook, which is the incorrect start for this hike. The above address uses a Google Maps "Plus" code in lieu of a street address for this trailhead; it only works in Google Maps.

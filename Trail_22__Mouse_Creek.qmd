@@ -39,7 +39,7 @@ The Great Smoky Mountains has more than 30 species of salamanders – one of the
 ### Trail Description
 
 | Distance from Start | Description                                                                                             |
-|:-------------------|:---------------------------------------------------|
+|:--------------------|:--------------------------------------------------|
 | 0.0                 | Start on the Big Creek Trail. Gradually ascend.                                                         |
 | 0.1                 | Ascend gradually on a wide path.                                                                        |
 | 1.4                 | Midnight Hole Falls. Great swimming spot in the summer.                                                 |

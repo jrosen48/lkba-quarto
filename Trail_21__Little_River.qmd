@@ -9,7 +9,7 @@ This hike is a great introduction to the Great Smoky Mountains National Park by 
 ### Key Characteristics
 
 | **Characteristic**        | **Details**                                    |
-|------------------------------------------|------------------------------|
+|---------------------------|------------------------------------------------|
 | Time Estimate             | 3 hours - 5 hours                              |
 | Trail Distance (Miles)    | 5.5                                            |
 | Elevation Change          | Moderate                                       |
@@ -38,7 +38,7 @@ A tree that “feels” like the Smokies - likes shaded groves. Characterized by
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                               |
-|:-----------------|:-----------------------------------------------------|
+|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.0                 | Pass around the gate (it's closed only to vehicles) to begin on the Little River Trail.                                                                   |
 | 0.1                 | Pass the Spence Cabin, a historic cabin that is available to rent for a daytime event!                                                                    |
 | 0.45                | Trail begins to ascend.                                                                                                                                   |

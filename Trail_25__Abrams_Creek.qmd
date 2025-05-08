@@ -38,7 +38,7 @@ It never seems to become crowded at Abrams Creek, but parking can be a bit confu
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                               |
-|:-----------------|:-----------------------------------------------------|
+|:--------------------|:------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.0                 | Start at the trailhead parking area. Walk along the road beside Abrams Creek.                                                             |
 | 0.4                 | Arrive at the campground. A great spot to rest and hang out by the creek.                                                                 |
 | 1.0                 | Cross Kingfisher Creek for the first time. Watch for rocks and branches to aid in crossing.                                               |

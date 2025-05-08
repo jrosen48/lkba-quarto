@@ -32,7 +32,7 @@ The above address takes you to a large parking lot with a scenic overlook. Park,
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                |
-|:---------------------|:-------------------------------------------------|
+|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.0                 | Start at the Murry Gap Overlook.                                                                                                           |
 | 0.15                | Cross the road to the Look Rock Trail.                                                                                                     |
 | 0.35                | Intersection. Turn left to continue on the Look Rock Trail.                                                                                |

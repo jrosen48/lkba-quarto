@@ -38,7 +38,7 @@ This address is for the Townsend Wye, a prominent intersection between Townsend,
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                       |
-|:-------------------|:---------------------------------------------------|
+|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0.0                 | Start on the Chestnut Top Trail. Ascend steeply.                                                                                                                                  |
 | 0.6                 | Trail levels out. Townsend visible from the trail.                                                                                                                                |
 | 0.70                | Rocky outcropping. Great place for a break and for kids to scramble up and around the rocks. Look for Mountain Laurel a little bit up the trail that flowers around May and June. |
