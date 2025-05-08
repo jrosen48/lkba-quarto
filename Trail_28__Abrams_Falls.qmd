@@ -36,7 +36,7 @@ Navigate to this parking area at the end of a short gravel road connected to the
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                                                                                                   |
-|:---------------|:-------------------------------------------------------|
+|:-----------------|:-----------------------------------------------------|
 | 0.0                 | Start on the Abrams Fall Trail, crossing a bridge over the scenic Abrams Creek soon after you start.                                                                                                                                                                          |
 | 0.1                 | Wind along the path through a pine forest.                                                                                                                                                                                                                                    |
 | 1.1                 | Rocky prominence that serves as a scenic overlook.                                                                                                                                                                                                                            |
@@ -50,4 +50,4 @@ Navigate to this parking area at the end of a short gravel road connected to the
 -   **Stop at historic cabins and scenic lookouts.** Though it can be busy with traffic, especially during peak visitation periods (summer and fall weekends, in particular), a drive through Cades Cove is punctuated with numerous opportunities to stop at historic cabins and scenic lookouts. Plus, much of the year, you and others will stop to see wildlife such as deer, turkey, and often bears!
 -   **Bike the Cades Cove Loop.** Biking the Cades Cove Loop on car-free Wednesdays during the summer and into the early fall is a classic Smokies activity. We know it's a lot for kids to bike (or be carried out on a bike) and to hike, so this may be best as a separate day trip.
 
-![Photo credit to Katie and Joshua Rosenberg](img/jonah-horse.jpeg)
+![Photo credit to Katie and Joshua Rosenberg.](img/jonah-horse.jpeg)
