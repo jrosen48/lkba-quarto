@@ -4,6 +4,11 @@ project:
   resources:
     - CNAME
   
+  exclude:
+    - "*.docx"
+    - "*.pdf"
+    - "drafts/"        # (if you have a folder of large docs)
+
 copyright:  "© 2025 Katie Rosenberg and Joshua Rosenberg. All rights reserved."
 number-depth: 1
 number-sections: false
