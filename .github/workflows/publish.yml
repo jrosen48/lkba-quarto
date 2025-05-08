@@ -7,7 +7,7 @@ on:
       - master               # only run on pushes to master
 
 permissions:
-  contents: write            # allow pushing to gh-pages
+  contents: write            # allow pushing to docs (or gh-pages)
 
 jobs:
   build-deploy:
@@ -17,17 +17,12 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Debug: list repository contents
-        run: |
-          echo "Working directory: $(pwd)"
-          ls -R .
-
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render and publish site
         uses: quarto-dev/quarto-actions/publish@v2
         with:
-          target: docs
+          target: docs          # or gh-pages, depending on your Pages setup
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
