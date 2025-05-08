@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: docs
+  resources:
+    - CNAME
   
 copyright:  "© 2025 Katie Rosenberg and Joshua Rosenberg. All rights reserved."
 number-depth: 1

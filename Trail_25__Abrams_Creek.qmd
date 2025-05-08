@@ -2,7 +2,7 @@
 
 ### Overview
 
-Abrams Creek is a great place to start hiking in the Smokies if you live in or around Knoxville. It's accessible, offers a wide variety of features to please all members of the family, and has the added bonus of being beautiful! The enduring memory from this trail is of kids splashing endlessly in the shallow creeks. This was the first place we traveled as a family in the Smokies, and we returned again and again because we always enjoyed our time together there. There are many ways to shorten the hike, and we often hike around a mile in and then turn around. It can be warmer here in the summer months, but the river offers many opportunities to swim and splash around, making it a great destination for the summer as well. This hike is relatively challenging and better suited to hiking in its entirety with older children, but the beauty of this hike is its versatility: you can turn-around at many points along the trail and still have a great hike!
+Abrams Creek is a great place to start hiking in the Smokies if you live in or around Knoxville. In fact, it is the first Smokies hike our family did when our oldest was only about four months old! It's accessible, offers a wide variety of features to please all members of the family, and has the added bonus of being beautiful! The enduring memory from this trail is of kids splashing endlessly in the shallow creeks. There are many ways to shorten the hike, and we often hike around a mile in and then turn around. It can be warmer here in the summer months, but the river offers many opportunities to swim and splash around, making it a great destination for the summer as well. This hike is relatively challenging beyond the first backcountry campsite, and better suited to hiking in its entirety with older children. The beauty of this hike is its versatility: you can turn around at many points along the trail and still have a great hike!
 
 ![Photo credit to Sam Weisbrod](img/trail-25-figure-01.jpg)
 
@@ -10,14 +10,14 @@ Abrams Creek is a great place to start hiking in the Smokies if you live in or a
 
 | **Characteristic**        | **Details**       |
 |---------------------------|-------------------|
-| Time Estimate             | 4 hours - 6 hours |
+| Time Estimate             | 2 hours - 5 hours |
 | Trail Distance (Miles)    | 5.8               |
 | Elevation Change          | Moderate          |
 | Pets                      | Not Allowed       |
 | Parking Pass/Entrance Fee | Required          |
 | Restroom(s)               | Yes (seasonal)    |
-| Best Ages                 | All ages                  |
-| Strollers and Wheelchairs | Not accessible                  |
+| Best Ages                 | All ages          |
+| Strollers and Wheelchairs | Not accessible    |
 
 ![](maps/trail-25-map.jpeg)
 
@@ -28,20 +28,17 @@ Trailhead Address: Abrams Creek Campground, J368+MR Tallassee, Tennessee
 Trailhead GPS Coordinates: 35.61095, -83.93356
 
 ::: {.callout-note appearance="simple" icon="true"}
-
 #### The Cherokee
 
-The people of the Cherokee Nation were indigenous to a vast area to the south, east, and west of the Smokies; the Smokies were more a place for gathering and hunting than residing. The Eastern Band of the Cherokee remains an autonomous Nation just south of the Smokies.
-
+The people of the Cherokee Nation were indigenous to a vast area to the south, east, and west of the Smokies. The Smokies were more a place for gathering and hunting than residing. The Eastern Band of the Cherokee remains an autonomous Nation just south of the Smokies.
 :::
 
-
-It never seems to become crowded at Abrams Creek, but parking can be a bit confusing. This is because the campground is further along the same road the trailhead is on. Also, there are two areas to park for the trailhead. We usually park by the gate to the campground, but you can also park near the large sign with maps of this area of the national park.
+It never seems to become crowded at Abrams Creek, but parking can be a bit confusing. This is because the first campground is further along the same road the trailhead is on. Also, there are two areas to park for the trailhead. We usually park by the gate to the campground, but you can also park near the large sign with maps of this area of the national park.
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                               |
-|:----------------|:------------------------------------------------------|
+|:-----------------|:-----------------------------------------------------|
 | 0.0                 | Start at the trailhead parking area. Walk along the road beside Abrams Creek.                                                             |
 | 0.4                 | Arrive at the campground. A great spot to rest and hang out by the creek.                                                                 |
 | 1.0                 | Cross Kingfisher Creek for the first time. Watch for rocks and branches to aid in crossing.                                               |
@@ -58,5 +55,5 @@ It never seems to become crowded at Abrams Creek, but parking can be a bit confu
 
 ### Nearby
 
--   **Visiting the Look Rock Overlook.** Check the Look Rock Overlook hike for a short, nearby hike to a pretty overlook.
+-   **Visit the Look Rock Overlook.** Check the Look Rock Overlook hike for a short, nearby hike to a pretty overlook.
 -   **Camping at Abrams Creek Campground.** This is a lovely creekside campground that you pass on this hike. Consider a stay in the summer, when jumping in the cool, not-too-deep creek can be a respite from the heat---or in the fall when this area pops with fall colors.

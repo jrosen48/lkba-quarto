@@ -2,22 +2,22 @@
 
 ### Overview
 
-An adventurous hike in the Smokies accessible to many families, this hike is also a great introduction to the national park, particularly when visiting from around Knoxville (it's fairly close). It's on the Great Smoky Mountains Institute site at Tremont, a national leader in outdoors and environmental education. It is the first hike in this section for a good reason. The proximity to Townsend is a bonus. Best for little kids and big kids. We have hiked this trail with a two-month-old baby in wrap carrier! Just take your time and watch your footing. This, at times, challenging hike is well worth it!
+An adventurous hike in the Smokies accessible to many families, this hike is also a great introduction to the national park, particularly when visiting from around Knoxville (it's fairly close). It's on the Great Smoky Mountains Institute site at Tremont, a national leader in outdoors and environmental education. It is the first hike in this section for a good reason. The proximity to Townsend is a bonus. Best for little kids and big kids. We have hiked this trail with a two-month-old baby in wrap carrier! Just take your time and watch your footing. This (challenging, at time) hike is well worth it!
 
 ![Photo credit to Katie and Joshua Rosenberg](img/trail-20-figure-01.jpg)
 
 ### Key Characteristics
 
-| **Characteristic**        | **Details**           |
-|---------------------------|-----------------------|
-| Time Estimate             | 1.5 hours - 2.5 hours |
-| Trail Distance (Miles)    | 1.6                   |
-| Elevation Change          | Moderate              |
-| Pets                      | Not Allowed           |
-| Parking Pass/Entrance Fee | Required              |
-| Restroom(s)               | Yes                   |
-| Best Ages                 | Big kids and Pre-teens and older                      |
-| Strollers and Wheelchairs | Not accessible                      |
+| **Characteristic**        | **Details**                      |
+|---------------------------|----------------------------------|
+| Time Estimate             | 1.5 hours - 2.5 hours            |
+| Trail Distance (Miles)    | 1.6                              |
+| Elevation Change          | Moderate                         |
+| Pets                      | Not Allowed                      |
+| Parking Pass/Entrance Fee | Required                         |
+| Restroom(s)               | Yes                              |
+| Best Ages                 | Big kids and Pre-teens and older |
+| Strollers and Wheelchairs | Not accessible                   |
 
 ![](maps/trail-20-map.jpeg)
 
@@ -32,7 +32,7 @@ The address and coordinates are for the Great Smoky Mountains Institute, as this
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                              |
-|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------|:---------------------------------------------------------|
 | 0.0                 | Though the main trail you take to the falls is the Buckeye Trail, you will start the hike on the Lumber Ridge Trail. Ample signage is available to help avoid confusion. |
 | 0.1                 | Turn right onto the Buckeye Trail.                                                                                                                                       |
 | 0.15                | Trail levels out before a steep climb.                                                                                                                                   |

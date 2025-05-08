@@ -2,7 +2,7 @@
 
 ### Overview
 
-Steep but quiet and rewarding, Chestnut Top is a fun choice for a shorter hike in the Great Smoky Mountains National Park. This hike is one of the closest to Knoxville. Furthermore, it is close to the amenities of Townsend --- a far quieter town than Pigeon Forge and Gatlinburg. The trail starts with a steep climb until it reaches a rocky point that is a great stopping point; we always grab a snack here, and kiddos like to hike on or around the rocks. The trail continues along the trail past pretty mountain laurel, typically in bloom around mid-May through early June, stopping at a fun but somewhat arbitrary point - a hollow tree! Continue farther if you like, or head back to the start and the Townsend Wye, a great picnic and water play spot. Best for kids who are comfortable with a steady climb---little kids may need a boost.
+Steep but quiet and rewarding, Chestnut Top is a fun choice for a shorter hike in the Great Smoky Mountains National Park. This hike is one of the closest to Knoxville. Furthermore, it is close to the amenities of Townsend, a far quieter town than Pigeon Forge and Gatlinburg. The trail starts with a steep climb until it reaches a rocky point that is a great stopping point; we always grab a snack here, and kiddos like to hike on or around the rocks. The trail continues along the trail past pretty mountain laurel, typically in bloom around mid-May through early June, stopping at a fun but somewhat arbitrary point: a hollow tree! Continue further if you like, or head back to the start and the Townsend Wye, a great picnic and water play spot. Best for kids who are comfortable with a steady climb, and little kids may need a boost.
 
 ![Photo credit to Katie and Joshua Rosenberg](img/trail-27-figure-01.jpg){width="600"}
 
@@ -16,8 +16,8 @@ Steep but quiet and rewarding, Chestnut Top is a fun choice for a shorter hike i
 | Pets                      | Not Allowed           |
 | Parking Pass/Entrance Fee | Required              |
 | Restroom(s)               | No                    |
-| Best Ages                 | Big kids                      |
-| Strollers and Wheelchairs | Not accessible                      |
+| Best Ages                 | Big kids              |
+| Strollers and Wheelchairs | Not accessible        |
 
 ![](maps/trail-27-map.jpeg)
 
@@ -28,19 +28,17 @@ Trailhead Address: Townsend Wye, Laurel Creek Rd & Little River Rd, Townsend, TN
 Trailhead GPS Coordinates: 35.66027, -83.70839
 
 ::: {.callout-note appearance="simple" icon="true"}
-
 #### Mountain Laurel
 
-A large bush in the same family as Rhododendron and Blueberries - Heath plants. Beautiful flowers around early June. Can be distinguished from Rhododendron by its location: typically on ridges away from water.
-
+A large bush in the same family as Rhododendron and Blueberries: heath plants. Beautiful flowers around early June, these plants can be distinguished from Rhododendron by its location, typically on ridges away from water.
 :::
 
-This address is for the Townsend Wye, a prominent intersection between Townsend, the road to Gatlinburg (Little River Gorge Rd.), and the road to Cades Cove (Laurel Creek Road) and one of the best-known summer swimming spots in the Smokies. Park in the large parking area on the left of the Townsend Entrance Rd. on which you entered if coming from Knoxville and Townsend. The trail begins across the Townsend Entrance Rd. --- look for a sign across the road for the Chestnut Top Trail.
+This address is for the Townsend Wye, a prominent intersection between Townsend, the road to Gatlinburg (Little River Gorge Rd.), and the road to Cades Cove (Laurel Creek Road) and one of the best-known summer swimming spots in the Smokies. Park in the large parking area on the left of the Townsend Entrance Rd. on which you entered if coming from Knoxville and Townsend. The trail begins across the Townsend Entrance Road. Look for a sign across the road for the Chestnut Top Trail.
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                       |
-|:-----------------|:-----------------------------------------------------|
+|:------------------|:----------------------------------------------------|
 | 0.0                 | Start on the Chestnut Top Trail. Ascend steeply.                                                                                                                                  |
 | 0.6                 | Trail levels out. Townsend visible from the trail.                                                                                                                                |
 | 0.70                | Rocky outcropping. Great place for a break and for kids to scramble up and around the rocks. Look for Mountain Laurel a little bit up the trail that flowers around May and June. |
@@ -49,5 +47,5 @@ This address is for the Townsend Wye, a prominent intersection between Townsend,
 
 ### Nearby
 
--   **Visiting Townsend.** Townsend rightly contrasts itself with busy Pigeon Forge and Gatlinburg---it remains quiet but full of places to stop. We love the kid-friendly Peaceful Side Social (7967 E Lamar Alexander Pkwy, Townsend, TN 37882) and the next-door Peaceful Side Creamery.
--   **Swimming at the Townsend Wye.** This is a classic summertime Smokies activity. From the large parking area near the trailhead, swim in the Little River beside the Townsend Wye---the three-way intersection of Townsend Entrance Road (toward Townsend), Laurel Creek Road (to Cades Cove), and Little River Gorge Road (toward Gatlinburg).
+-   **Visit Townsend.** Townsend rightly contrasts itself with busy Pigeon Forge and Gatlinburg; it remains quiet but full of places to stop. We love the kid-friendly Peaceful Side Social (7967 E Lamar Alexander Pkwy, Townsend, TN 37882) and the next-door Peaceful Side Creamery.
+-   **Swim at the Townsend Wye.** This is a classic summertime Smokies activity. From the large parking area near the trailhead, swim in the Little River beside the Townsend Wye, the three-way intersection of Townsend Entrance Road (toward Townsend), Laurel Creek Road (to Cades Cove), and Little River Gorge Road (toward Gatlinburg).
