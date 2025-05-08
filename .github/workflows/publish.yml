@@ -1,20 +1,26 @@
 name: Quarto Publish
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:         # manual trigger
   push:
-    branches: [master]
+    branches:
+      - master               # only run on pushes to master
 
 permissions:
-  contents: write
+  contents: write            # allow pushing to gh-pages
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repo
+      - name: Check out repository
         uses: actions/checkout@v4
+
+      - name: Debug: list repository contents
+        run: |
+          echo "Working directory: $(pwd)"
+          ls -R .
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -22,6 +28,6 @@ jobs:
       - name: Render and publish site
         uses: quarto-dev/quarto-actions/publish@v2
         with:
-          target: gh-pages
+          target: docs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
