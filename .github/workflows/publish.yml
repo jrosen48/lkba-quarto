@@ -1,13 +1,14 @@
+# .github/workflows/publish.yml
 name: Quarto Publish
 
 on:
-  workflow_dispatch:         # manual trigger
+  workflow_dispatch:       # manual trigger if you ever need it
   push:
     branches:
-      - master               # only run on pushes to master
+      - master             # run on every push to master
 
 permissions:
-  contents: write            # allow pushing to docs (or gh-pages)
+  contents: write          # allow pushing to gh-pages
 
 jobs:
   build-deploy:
@@ -23,6 +24,6 @@ jobs:
       - name: Render and publish site
         uses: quarto-dev/quarto-actions/publish@v2
         with:
-          target: docs          # or gh-pages, depending on your Pages setup
+          target: gh-pages    # ← push the built site to gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
