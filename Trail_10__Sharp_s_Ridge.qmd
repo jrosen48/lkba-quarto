@@ -16,8 +16,8 @@ This hike is just north of downtown, making it a great stop before grabbing a bi
 | Pets                      | Allowed on leash      |
 | Parking Pass/Entrance Fee | Not Required          |
 | Restroom(s)               | No                    |
-| Best Ages                 | Little kids                     |
-| Strollers and Wheelchairs | Not accessible                      |
+| Best Ages                 | Little kids           |
+| Strollers and Wheelchairs | Not accessible        |
 
 ![](maps/trail-10-map.jpeg)
 
@@ -32,13 +32,17 @@ The trailhead can be just a little tricky to find---partially because Google Map
 ::: {.callout-note appearance="simple" icon="true"}
 #### Lichen
 
-There are three primary types of lichens: Foliose (leaf-like in appearance), Crustose (crusty looking), and Fruiticose (coral-like and bushy). They are abundant in the region and are great bioindicators of air quality! -Amanda Garner
+There are three primary types of lichens: Foliose (leaf-like in appearance), Crustose (crusty looking), and Fruiticose (coral-like and bushy). They are abundant in the region and are great bioindicators of air quality!
+
+-Amanda Garner
+
+![](illustrations/lichenwithlabels.png){fig-align="center" width="400"}
 :::
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                         |
-|:--------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
+|:----------------|:------------------------------------------------------|
 | 0.0                 | Start by walking through the Arbor, past the trail map of the Sharps Ridge area. You're technically on the very short Hanover Access trail.         |
 | 0.1                 | Turn right onto Lincoln Trail. Wind up through the deep woods and easy curves in the trail.                                                         |
 | 0.8                 | Turn right onto Sharp Shin.                                                                                                                         |
@@ -49,7 +53,7 @@ There are three primary types of lichens: Foliose (leaf-like in appearance), Cru
 | 2.2                 | Turn left onto the Hanover Access Trail.                                                                                                            |
 | 2.3                 | Traihead.                                                                                                                                           |
 
-![Photo credit to Katie and Joshua Rosenberg](img/sharps%20trail.jpg)
+![Photo credit to Katie and Joshua Rosenberg](img/sharps-trail.jpg)
 
 ### Nearby
 

@@ -8,16 +8,16 @@ This short hike leads to one of the most surprising geologic features in Tenness
 
 ### Key Characteristics
 
-| **Characteristic**        | **Details**          |
-|---------------------------|----------------------|
-| Time Estimate             | 1.5 hour - 2.5 hours |
-| Trail Distance (Miles)    | 1.2                  |
-| Elevation Change          | Moderate             |
-| Pets                      | Allowed on leash     |
-| Parking Pass/Entrance Fee | Not Required         |
-| Restroom(s)               | Yes                  |
-| Best Ages                 | Little kids and Big kids                     |
-| Strollers and Wheelchairs | Not accessible                     |
+| **Characteristic**        | **Details**              |
+|---------------------------|--------------------------|
+| Time Estimate             | 1.5 hour - 2.5 hours     |
+| Trail Distance (Miles)    | 1.2                      |
+| Elevation Change          | Moderate                 |
+| Pets                      | Allowed on leash         |
+| Parking Pass/Entrance Fee | Not Required             |
+| Restroom(s)               | Yes                      |
+| Best Ages                 | Little kids and Big kids |
+| Strollers and Wheelchairs | Not accessible           |
 
 ![](maps/trail-17-map.jpeg)
 
@@ -30,7 +30,7 @@ Trailhead GPS Coordinates: 36.48797, -84.69744
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                          |
-|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
+|:--------------|:--------------------------------------------------------|
 | 0.0                 | Start on the Twin Arches trail.                                                                                                      |
 | 0.25                | Intersection. Head right to complete the loop in a counterclockwise section.                                                         |
 | 0.3                 | Stairs.                                                                                                                              |
@@ -42,5 +42,5 @@ Trailhead GPS Coordinates: 36.48797, -84.69744
 
 ### Nearby
 
--   **Camp or rent a cabin at Pickett State Park.** Pickett State Park (%ADDRESS OR WEBSITE%), a nice campground that also has both historic and modern cabins to rent, is close to this trail. It also features a great lake for kayaking, canoeing, or paddle boarding.
+-   **Camp or rent a cabin at Pickett State Park.** Pickett State Park (4605 Pickett Park Hwy, Jamestown, TN 38556), a nice campground that also has both historic and modern cabins to rent, is close to this trail. It also features a great lake for kayaking, canoeing, or paddle boarding.
 -   **View the night sky.** Pickett State Park has a Silver-tier designation as an International Dark Sky Park. Even if you're not strictly in the State Park, this is a great place to view stars and planets in the night sky.

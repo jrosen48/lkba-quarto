@@ -6,6 +6,12 @@ An adventurous hike in the Smokies accessible to many families, this hike is als
 
 ![Photo credit to Katie and Joshua Rosenberg](img/trail-20-figure-01.jpg)
 
+::: callout-warning
+
+**Important: Spruce Flat Falls requires special consideration.** Spruce Flat Falls is an unofficial trail maintained by the Great Smoky Mountains Institute at Tremont, not the National Park Service. Heavy use has created erosion problems along the route. Respect this private educational facility by hiking only in small groups, staying on the designated path, and following our access directions carefully. Remember—you're a guest on Institute property.
+
+:::
+
 ### Key Characteristics
 
 | **Characteristic**        | **Details**                      |
@@ -19,7 +25,7 @@ An adventurous hike in the Smokies accessible to many families, this hike is als
 | Best Ages                 | Big kids and Pre-teens and older |
 | Strollers and Wheelchairs | Not accessible                   |
 
-![](maps/trail-20-map.jpeg)
+![](maps/Spruce_Flats_Falls_v8.pdf)
 
 ### Directions to the Trailhead
 
@@ -27,12 +33,12 @@ Trailhead Address: 9275 Tremont Rd, Townsend, TN 37882
 
 Trailhead GPS Coordinates: 35.64000, -83.68905
 
-The address and coordinates are for the Great Smoky Mountains Institute, as this is the easiest-to-locate destination. When nearly there (less than a quarter of a mile from the destination), you'll cross a bridge to enter the Institute. You'll see a lot of parking around, as well as a gift shop. Though the trailhead and Google Maps will navigate you a little further, the parking you see here is the best place to park. From this parking lot, walk up the road a little toward the Spruce Flats Falls Trailhead to start the hike.
+The address and coordinates are for the Great Smoky Mountains Institute, as this is the easiest-to-locate destination. When nearly there (less than a quarter of a mile from the destination), you'll cross a bridge to enter the Institute. You'll parking on the left near the gift shop; though the trailhead and Google Maps will navigate you a little further, the parking you see here is the best place to park. From a trail at the back of the parking lot, start on the Lumber Ridge Trail to begin this hike.
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                              |
-|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------|:---------------------------------------------------------|
 | 0.0                 | Though the main trail you take to the falls is the Buckeye Trail, you will start the hike on the Lumber Ridge Trail. Ample signage is available to help avoid confusion. |
 | 0.1                 | Turn right onto the Buckeye Trail.                                                                                                                                       |
 | 0.15                | Trail levels out before a steep climb.                                                                                                                                   |

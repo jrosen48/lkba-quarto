@@ -8,16 +8,16 @@ This is one of the closest hikes to the city center of Knoxville, and it's strol
 
 ### Key Characteristics
 
-| **Characteristic**        | **Details**        |
-|---------------------------|--------------------|
-| Time Estimate             | 0.5 hours - 1 hour |
-| Trail Distance (Miles)    | 0.7                |
-| Elevation Change          | Gentle             |
-| Pets                      | Allowed on leash   |
-| Parking Pass/Entrance Fee | Not Required       |
-| Restroom(s)               | No                 |
-| Best Ages                 | Toddlers and Little kids                   |
-| Strollers and Wheelchairs | Accessible                    |
+| **Characteristic**        | **Details**              |
+|---------------------------|--------------------------|
+| Time Estimate             | 0.5 hours - 1 hour       |
+| Trail Distance (Miles)    | 0.7                      |
+| Elevation Change          | Gentle                   |
+| Pets                      | Allowed on leash         |
+| Parking Pass/Entrance Fee | Not Required             |
+| Restroom(s)               | No                       |
+| Best Ages                 | Toddlers and Little kids |
+| Strollers and Wheelchairs | Accessible               |
 
 ![](maps/trail-04-map.jpeg)
 
@@ -30,7 +30,6 @@ Trailhead GPS Coordinates: 35.93824, -83.9258
 The trail begins from the parking lot at the above address; look for the paved path near the back of the parking lot. You can't miss it!
 
 ::: {.callout-note appearance="simple" icon="true"}
-
 #### Earthworks
 
 Structures formed from shaping rocks and soil, often as part of forts around Knoxville constructed during the Civil War. Surprisingly long-standing. The earthworks here and at the nearby Fort Dickerson include ramparts – small hills or banks that served as defensive walls.
@@ -39,7 +38,7 @@ Structures formed from shaping rocks and soil, often as part of forts around Kno
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                   |
-|:----------------|:------------------------------------------------------|
+|:--------------------|:------------------------------------------------------------------------------------------------------------------------------|
 | 0                   | Start off on the trail with a gentle descent.                                                                                 |
 | 0.1                 | Enter the wooded part of the hike and begin a gentle climb.                                                                   |
 | 0.35                | Red chairs and the large open area. Head toward the mowed grassy section.                                                     |

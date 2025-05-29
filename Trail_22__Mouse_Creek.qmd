@@ -32,14 +32,17 @@ Navigate to the Big Creek Picnic Area. Note that the above address uses a Google
 ::: {.callout-note appearance="simple" icon="true"}
 #### Blue Ridge Two-Lined Salamander
 
-The Great Smoky Mountains has more than 30 species of salamanders – one of the types of species that contributes to and characterizes the incredible biodiversity of the Smokies. The Blue Ridge Two-Lined Salamander is among the most beautiful salamanders, with its yellow-to-orange coloring and stark black stripes.\
-- Amanda Garner
+The Great Smoky Mountains has more than 30 species of salamanders – one of the types of species that contributes to and characterizes the incredible biodiversity of the Smokies. The Blue Ridge Two-Lined Salamander is among the most beautiful salamanders, with its yellow-to-orange coloring and stark black stripes.
+
+-   Amanda Garner
+
+![](illustrations/BR2linedsalamader.png){width="299"}
 :::
 
 ### Trail Description
 
 | Distance from Start | Description                                                                                             |
-|:--------------------|:--------------------------------------------------|
+|:--------------------|:--------------------------------------------------------------------------------------------------------|
 | 0.0                 | Start on the Big Creek Trail. Gradually ascend.                                                         |
 | 0.1                 | Ascend gradually on a wide path.                                                                        |
 | 1.4                 | Midnight Hole Falls. Great swimming spot in the summer.                                                 |

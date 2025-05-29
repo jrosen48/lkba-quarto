@@ -6,6 +6,13 @@ This is *the* wildflower hike in the Smokies. It's a joy in mid-late April, depe
 
 ![Photo credit to Katie and Joshua Rosenberg](img/trail-23-figure-01.jpg)
 
+::: callout-warning
+
+**Important: White Oak Sink requires special consideration**. This unofficial trail doesn't appear on park maps and leads through a rare, sensitive ecosystem now showing damage from overuse. If you choose to visit, go only with a small group, stay strictly on the worn path, and leave all plants untouched. Consider whether this fragile area truly needs another footprint—sometimes the most responsible choice is to skip a trail entirely.
+
+:::
+
+
 ### Key Characteristics
 
 | **Characteristic**        | **Details**              |
@@ -39,7 +46,7 @@ Native perennial plants with distinctive three-petal flowers that bloom in the s
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                                                                                                                                                            |
-|:--------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:-----------|:-----------------------------------------------------------|
 | 0.0                 | Start on the Schoolhouse Gap Trail. Trail very gradually ascends.                                                                                                                                                                                                                                                                      |
 | 0.4                 | Trail climbs more steeply (but manageably!).                                                                                                                                                                                                                                                                                           |
 | 1.1                 | Intersection with the trail to Whiteoak Sink. Note that Whiteoak Sink is not an official trail on the official trail map for the Great Smoky Mountains National Park; thus, the trail is not as well marked as most others. Turn left from the Schoolhouse Gap trail onto the trail to Whiteoak Sink. Descend for around .25 miles.    |
@@ -50,7 +57,7 @@ Native perennial plants with distinctive three-petal flowers that bloom in the s
 | 2.35                | Reach the large bat cave ahead of the end of the trail. Still tread carefully (and do not attempt to enter the caves for your safety and to not endanger the bats). Optionally, turn right or left to explore more of this special area. Then, turn around to return along the trail you took into Whiteoak Sink. Return to the start. |
 | 4.6                 | Trailhead.                                                                                                                                                                                                                                                                                                                             |
 
-![Photo credit to Katie and Joshua Rosenberg](img/sign%20for%20whiteoak.jpeg)
+![Photo credit to Katie and Joshua Rosenberg](img/sign-for-whiteoak.jpeg)
 
 ### Nearby
 

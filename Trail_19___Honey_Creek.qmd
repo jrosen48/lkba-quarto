@@ -40,7 +40,7 @@ Park in one of the many spots at the trailhead. The trail begins slightly past t
 ### Trail Description
 
 | Distance from Start | Description                                                                                                                                                                                            |
-|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:---------------|:-------------------------------------------------------|
 | 0.0                 | Start on the Honey Creek Loop Trail. Gently wind through the densely wooded forest.                                                                                                                    |
 | 0.2                 | Gently, then more steeply, descend through the woods.                                                                                                                                                  |
 | 0.9                 | Rope ladder.                                                                                                                                                                                           |
@@ -56,7 +56,7 @@ Park in one of the many spots at the trailhead. The trail begins slightly past t
 | 3.3                 | Trail levels out, then climbs back to the start and the trailhead.                                                                                                                                     |
 | 4.4                 | Trailhead.                                                                                                                                                                                             |
 
-![Photo credit to Katie and Joshua Rosenberg](img/jo%20bsf%20cliff.jpg)
+![Photo credit to Katie and Joshua Rosenberg](img/jo-bsf-cliff.jpg)
 
 ### Nearby
 
