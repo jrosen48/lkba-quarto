@@ -1,7 +1,9 @@
 ## Preface
 
 ::: callout-warning
-Please note - this book is in-progress and many sections are not yet drafted or are in draft form! It is set to be published by [UT Press](https://utpress.org/) with an expected publication date in early 2026.
+Please note - this book will be published by [UT Press](https://utpress.org/) with an expected publication date in early 2026. 
+
+This is a **web version with some sample chapters**. Stay tuned for updates on when the book is published and where you can purchase it!
 :::
 
 When we moved to Knoxville in 2018, we arrived as a young family eager to explore but unsure where to begin. Initial, short trips turned into longer, more regular trips that made us start to feel at home.
