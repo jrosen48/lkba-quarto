@@ -6,6 +6,14 @@ editor:
 
 ## Getting Ready for Your First Hike
 
+
+**Figures included in this chapter:**
+
+- ruth-hill.jpg
+- kids-looking-down.jpeg
+- snacks.jpeg
+
+
 ### You don't need fancy gear!
 
 There's a little secret in the hiking world.
@@ -26,7 +34,7 @@ This applies to beginners and to the most experienced hikers; a common saying sh
 If this applies to long-distance hikers, we think it doubly applies to families hiking with littles!
 Hike your own hike.
 
-![Photo Credit to Sam Weisbrod](img/ruth-hill.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: ruth-hill.jpg -->
 
 ### Let kids take the lead
 
@@ -34,7 +42,7 @@ To help your kids develop a love for hiking and the outdoors, let them take the 
 Let them develop their own interests and explore their own curiosities when you go on a hike.
 Sometimes this might mean playing in a creek for half of your planned hiking time.
 
-![Photo credit to Katie and Joshua Rosenberg](img/kids-looking-down.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: kids-looking-down.jpeg -->
 
 ### Be choosy about the when and where
 
@@ -53,7 +61,7 @@ At a minimum, the following items are essential for hikes when the weather is go
 
 Older kids may like to carry some of these---especially the snacks!
 
-![Photo credit to Katie and Joshua Rosenberg](img/snacks.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: snacks.jpeg -->
 
 When taking on a lengthier hike or traveling farther from home, we like asking ourselves the following questions:
 

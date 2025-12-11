@@ -1,10 +1,19 @@
 ## Trail 22: Mouse Creek
 
+
+**Figures included in this chapter:**
+
+- trail-22-figure-01.jpg
+- trail-22-map.jpeg
+- BR2linedsalamader.png
+- trail-22-figure-02.jpg
+
+
 ### Overview
 
 Surprisingly close to Knoxville, given how remote and wild this trailhead and trail feels, Mouse Creek in the Big Creek area of the Smokies is quite a bit less well-known than many of the other trails in the Great Smoky Mountains National Park featured in this book. The creek that this trail follows looks otherworldly - clear and almost turquoise in color. This hike starts at a trailhead at the Big Creek Picnic Area, located beside the Big Creek Campground. The trail starts off a little steep, but the trail is wide and smooth; like the Middle Prong trail, this trail used to be a railroad bed. The trail follows above the creek and then returns closer to it, with Mouse Creek Falls as the turn-around. A good day-trip adventure for kids and families; the smooth grade makes this an achievable hike for little hikers.
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-22-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-22-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +28,7 @@ Surprisingly close to Knoxville, given how remote and wild this trailhead and tr
 | Best Ages                 | Little kids and big kids |
 | Strollers and Wheelchairs | Not accessible           |
 
-![](maps/trail-22-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-22-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -36,7 +45,7 @@ The Great Smoky Mountains has more than 30 species of salamanders – one of the
 
 -   Amanda Garner
 
-![](illustrations/BR2linedsalamader.png){width="299"}
+<!-- IMAGE REMOVED FOR PUBLISHER: BR2linedsalamader.png -->
 :::
 
 ### Trail Description
@@ -49,7 +58,7 @@ The Great Smoky Mountains has more than 30 species of salamanders – one of the
 | 2.0                 | Mouse Creek Falls. Turn-around spot. Head back to the start. Optionally, continue farther on the trail. |
 | 4.0                 | Trailhead.                                                                                              |
 
-![Photo credit to Dean Pennala](img/trail-22-figure-02.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-22-figure-02.jpg -->
 
 ### Nearby
 

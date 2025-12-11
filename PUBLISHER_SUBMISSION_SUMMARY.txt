@@ -1,0 +1,114 @@
+================================================================================
+PUBLISHER SUBMISSION - READY FOR DELIVERY
+================================================================================
+
+Project: Little Kids, Big Adventures: A Guide to Family Hikes Around Knoxville
+Date Prepared: December 11, 2024
+
+================================================================================
+DELIVERABLES SUMMARY
+================================================================================
+
+1. MANUSCRIPT CHAPTERS (docx_chapters/)
+   - 47 Word documents (.docx format)
+   - Sequential numbering (01-47) matching book order
+   - Total size: 2.4MB
+   - Each chapter includes "Figures included in this chapter" section
+   - Image placeholders (HTML comments) where figures belong
+   - NO embedded images (provided separately)
+
+2. IMAGES (publisher_images/)
+   - 99 image files organized in 3 folders:
+     * img/ - 64 photos (184MB)
+     * maps/ - 31 trail maps (8.3MB)
+     * illustrations/ - 5 educational illustrations (44MB)
+   - Total size: 236MB
+   - All images referenced in manuscripts
+
+3. IMAGE MANIFEST (publisher_images/image_manifest.txt)
+   - Complete listing of all images
+   - Shows which chapter(s) use each image
+   - Cross-reference tool for layout/production
+
+================================================================================
+CHAPTER DETAILS
+================================================================================
+
+Front Matter (Chapters 01-03):
+  01_zzz-dedication.docx
+  02_ZZZ - Acknowledgments.docx
+  03_index.docx (Preface)
+
+Getting Ready (Chapters 04-06):
+  04_a-story-about-a-hike.docx
+  05_AAA - Considerations_for_Your_First_Hike.docx
+  06_AAA - Finding_a_Hike.docx
+
+How to Use This Book (Chapters 07-09):
+  07_AAA - what each includes.docx
+  08_AAA - overview-of-the-hikes.docx
+  09_AAA - top-5.docx
+
+Knoxville Trails (Chapters 10-22):
+  10_Sec - Knoxville.docx (section divider)
+  11-22: Individual trail chapters (Trails 1-12)
+
+Cumberland Plateau Trails (Chapters 23-30):
+  23_Sec - The_Cumberland_Plateau.docx (section divider)
+  24-30: Individual trail chapters (Trails 13-19)
+
+Great Smoky Mountains Trails (Chapters 31-42):
+  31_Sec - The_Great_Smoky_Mountains_National_Park.docx (section divider)
+  32-42: Individual trail chapters (Trails 20-30)
+
+Back Matter (Chapters 43-47):
+  43_ZZZ - Deepening_the_Experience.docx
+  44_ZZZ - Recommended_Books__Resources__and_Organizations.docx
+  45_zzz - join and give back.docx
+  46_ZZZ - About_the_Authors.docx
+  47_ZZZ - Appendices.docx
+
+================================================================================
+IMAGE ORGANIZATION
+================================================================================
+
+Maps (31 files):
+  - Regional overview maps (3): knoxville-region, plateau-region, smokies-region
+  - Individual trail maps (28): trail-01-map through trail-30-map
+  - Format: JPEG
+
+Photographs (64 files):
+  - Trail photos, landscape shots, family hiking photos
+  - Various contributors (credited in original .qmd files)
+  - Format: JPG/JPEG
+
+Illustrations (5 files):
+  - Educational callout images:
+    * BR2linedsalamader.png
+    * elm.png
+    * lichenwithlabels.png
+    * pawpaw.jpg
+    * turtle.png
+
+================================================================================
+TECHNICAL NOTES
+================================================================================
+
+- All chapters are standalone Word documents (not part of project structure)
+- Image references use exact filenames for production matching
+- HTML comments mark image placement: <!-- IMAGE REMOVED FOR PUBLISHER: filename.jpg -->
+- Files generated from Quarto markdown source
+- Copyright: © 2025 Katie Rosenberg and Joshua Rosenberg
+
+================================================================================
+SUBMISSION CHECKLIST
+================================================================================
+
+✓ 47 Word document chapters in sequential order
+✓ 99 images organized by type (maps, photos, illustrations)
+✓ Image manifest for cross-referencing
+✓ Figure lists at top of each chapter
+✓ No embedded images in Word documents
+✓ All files use consistent naming convention
+
+================================================================================

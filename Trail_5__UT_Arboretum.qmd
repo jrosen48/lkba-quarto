@@ -1,10 +1,18 @@
 ## Trail 5: UT Arboretum
 
+
+**Figures included in this chapter:**
+
+- trail-05-figure-01.jpg
+- trail-05-map.jpeg
+- trail-05-figure-02.jpg
+
+
 ### Overview
 
 This is a gem of a hike that is off the radar for many in Knoxville, as it is tucked away in nearby Oak Ridge. Start your hike at a trailhead that offers many hiking options. We recommend walking up the paved path past botanical specimens, including "unique conifers"! Circle around park facilities past a pretty field and forests. Upon returning to the start, there are other trails to the different ecological zones represented in an area that is worth a visit; we like the trails near the marshy area with the clear creek, perfect for splashing in warm weather. Suitable for kids of all ages.
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-05-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-05-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +27,7 @@ This is a gem of a hike that is off the radar for many in Knoxville, as it is tu
 | Best Ages                 | Toddlers and Little Kids                   |
 | Strollers and Wheelchairs | Accessible                    |
 
-![](maps/trail-05-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-05-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -41,7 +49,7 @@ Trailhead GPS Coordinates: 35.99392, -84.21988
 | 0.7                 | Leave the paved road for a short dirt path called Evans Way Trail. Alternatively, turn around and head back on the paved path. |
 | 0.9                 | Traihead.                                                                                                                      |
 
-![](img/trail-05-figure-02.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-05-figure-02.jpg -->
 
 ### Nearby
 

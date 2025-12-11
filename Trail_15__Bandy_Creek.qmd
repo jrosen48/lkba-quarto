@@ -1,10 +1,17 @@
 ## Trail 15: Bandy Creek Campground
 
+
+**Figures included in this chapter:**
+
+- jo-bandy.jpg
+- trail-15-map.jpeg
+
+
 ### Overview
 
 A welcoming, gentle introduction to the Big South Fork. This hike pairs best with a stay at the campground or if you're hiking the nearby Angel Falls Trail or the Fall Branch Falls trails. This happens to be the flattest trail in the book. While short, it's almost entirely on a dirt path, making it a great hike for toddlers or little kids – or parents carrying babies in a carrier.
 
-![Photo credit to Katie and Joshua Rosenberg](img/jo-bandy.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: jo-bandy.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +26,7 @@ A welcoming, gentle introduction to the Big South Fork. This hike pairs best wit
 | Best Ages                 | Toddlers and Little kids                                                                                                                               |
 | Strollers and Wheelchairs | Not accessible                                                                                                                                         |
 
-![](maps/trail-15-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-15-map.jpeg -->
 
 ### Directions to the Trailhead
 

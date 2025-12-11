@@ -1,10 +1,18 @@
 ## Trail 11: Norris Dam
 
+
+**Figures included in this chapter:**
+
+- trail-11-figure-01.jpg
+- trail-11-map.jpeg
+- norris-dam.jpg
+
+
 ### Overview
 
 If you're looking for a trail that youngest walkers can succeed it, head north of Knoxville about 30 minutes and check out the Songbird trail at Norris Dam State Park. Further, it's on a graded gravel path. Like the Knox-Blount Greenway along the Tennessee River. You may be surprised by the variety and quantity of wildlife you see along the scenic Clinch River, which this hike invites you to enjoy as you stroll. This is a relaxing trail for a family outing that might end with a drive over Norris Dam or a stop for a bite and a drink at the nearby Clinch River Brewery. On warmer days, you'll enjoy cooler temps at this riverside trail due to its location in the valley near water. For toddlers who are no longer happy in a stroller or backpack carrier, this hike would be a fun and rewarding challenge!
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-11-figure-01.jpg){width="600"}
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-11-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +27,7 @@ If you're looking for a trail that youngest walkers can succeed it, head north o
 | Best Ages                 | Little kids and Big kids                  |
 | Strollers and Wheelchairs | Partially accessible (graded gravel path) |
 
-![](maps/trail-11-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-11-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -51,4 +59,4 @@ There are several possible trailheads. We chose to start this hike from a put in
 -   **Grab a bite and a drink Clinch River Brewery.** Clinch River Brewing (2045 Norris Fwy, Norris, TN 37828) is not within the boundaries of the Norris Dam State Park---but it's very close to the trailhead and is a fun place to stop for lunch or dinner before or after a hike.
 -   **Check out the Norris Dam, which has been in operation since the mid-1930s.** Stop at the TVA Norris Dam Visitor Center on the same side of the Clinch River as this hike—or drive across and back over the dam for an impressive, even otherworldly experience!
 
-![Photo credit to Katie and Joshua Rosenberg](img/norris-dam.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: norris-dam.jpg -->

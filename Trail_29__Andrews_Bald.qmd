@@ -1,10 +1,18 @@
 ## Trail 29: Andrews Bald
 
+
+**Figures included in this chapter:**
+
+- trail-29-figure-01.jpg
+- trail-29-map.jpeg
+- trail-29-figure-02.jpg
+
+
 ### Overview
 
 Andrews Bald is the under-rated twin to Kuwohi (formerly known as Clingman's Dome). Kuwohi is the highest point in the Great Smoky Mountains National Park, the highest point in Tennessee, and among the highest in the Eastern United States. Why Andrews Bald instead of Kuwohi? The path to Kuwohi is often exceptionally crowded. It is still worth a visit, but Andrews Bald is as exceptional or moreso in some ways: instead of reaching a crowded overlook, Andrews Bald is a grassy bald overlooking layers of mountains. Pair it with a trip to Kuwohi or a stop at Newfound Gap, perhaps catching sunset after an afternoon Andrew's Bald hike. One memorable experience for us: we saw a bear on this trail, our first as a family. The hike has some rocky elements, and it can be lengthy, so we recommend this hike for older children.
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-29-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-29-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +27,7 @@ Andrews Bald is the under-rated twin to Kuwohi (formerly known as Clingman's Dom
 | Best Ages                 | Big kids and Pre-teens and older |
 | Strollers and Wheelchairs | Not accessible                   |
 
-![](maps/trail-29-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-29-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -51,7 +59,7 @@ You'll feel like you're in a different state or country when you spot these tree
 | 3.4                 | Intersection with the Kuwohi Bypass Trail. Turn right.                                                                                          |
 | 3.6                 | Trailhead.                                                                                                                                      |
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-29-figure-02.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-29-figure-02.jpg -->
 
 ### Nearby
 

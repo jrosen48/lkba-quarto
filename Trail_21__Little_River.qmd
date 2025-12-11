@@ -1,10 +1,18 @@
 ## Trail 21: Little River
 
+
+**Figures included in this chapter:**
+
+- trail-21-figure-01.jpg
+- trail-21-map.jpeg
+- butterflies.jpg
+
+
 ### Overview
 
 This hike is a great introduction to the Great Smoky Mountains National Park by featuring a bit of many of the elements that make the Smokies special: a trail along a beautiful, clear river; a waterfall; abundant plant and aquatic wildlife; deep forest; and a peek into Smokies history when you step into the cabins in the Elkmont Historic District. The hike starts at the Little River trailhead, following the Little River along its namesake river. Turn around near the small waterfall or continue the loop back to the trailhead. Great for kids of all ages, because there is not any one spot you must reach on the trail. Simply hike as far as you like and then head back to picnic or check out the historic cabins!
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-21-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-21-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +27,7 @@ This hike is a great introduction to the Great Smoky Mountains National Park by 
 | Best Ages                 | Little kids, Big kids, and Pre-teens and older |
 | Strollers and Wheelchairs | Not accessible                                 |
 
-![](maps/trail-21-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-21-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -49,7 +57,7 @@ A tree that “feels” like the Smokies - likes shaded groves. Characterized by
 | 5.3                 | Reach Jakes Creek Road. Turn right to return to the trailhead.                                                                                            |
 | 5.5                 | Trailhead.                                                                                                                                                |
 
-![Photo credit to Katie and Joshua Rosenberg.](img/butterflies.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: butterflies.jpg -->
 
 ### Nearby
 

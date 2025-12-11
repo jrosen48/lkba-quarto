@@ -1,10 +1,19 @@
 ## Trail 7: Sequoyah Park
 
+
+**Figures included in this chapter:**
+
+- trail-07-figure-01.jpg
+- trail-07-map.jpeg
+- elm.png
+- trail-07-figure-02.jpg
+
+
 ### Overview
 
 This is another gem among Knoxville city parks, nestled in the heart of the the city in a neighborhood. The trail starts at a large parking area near the restroom building and walks towards the river. It follows the river past open fields, trees, and bushes which playfully beckon for kids not to explore! The trail cuts up toward the greenway and hikes past Indian burial mounds and the historic homes along the path before returning to the start. In mild weather, it is a fantastic spot to hang up a hammock, fish, have a picnic, or toss a frisbee or a football. This outing is ideal for kids of all walking ages, and alternate ways to access the greenway make it easy to create a shorter loop.
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-07-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-07-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +28,7 @@ This is another gem among Knoxville city parks, nestled in the heart of the the 
 | Best Ages                 | Toddlers and Little Kids |
 | Strollers and Wheelchairs | Not accessible           |
 
-![](maps/trail-07-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-07-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -32,7 +41,7 @@ Trailhead GPS Coordinates: 35.92932, -83.97398
 
 Trees characterized by an umbrella-shaped crown. The tree near the start of this hike (surrounded by a wire enclosure to prevent cars from being parked nearby) is known as a “Champion” of its kind – the largest Elm in Knoxville.
 
-![](illustrations/elm.png){width="299"}
+<!-- IMAGE REMOVED FOR PUBLISHER: elm.png -->
 :::
 
 The above address takes you to the parking area next to restrooms that serve as a landmark for this sprawling park. Please note that the address uses a "Plus" code that only works with Google Maps. A Google Maps Plus code is a short, alphanumeric code that pinpoints an exact location anywhere in the world without needing a street address.
@@ -57,7 +66,7 @@ The above address takes you to the parking area next to restrooms that serve as 
 These earthen mounds are found in many places along the Mississippi River and its tributaries—like the Tennessee River. Nobody is completely sure why they were built, but some believe they served as gathering spots or markers to return to time and again. The mound here may date back as early as the 1400s, likely created by one of the Native Nations with ancestral ties to the Knoxville region.
 :::
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-07-figure-02.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-07-figure-02.jpg -->
 
 ### Nearby
 

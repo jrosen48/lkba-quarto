@@ -1,10 +1,17 @@
 ## Trail 20: Spruce Flats Falls
 
+
+**Figures included in this chapter:**
+
+- trail-20-figure-01.jpg
+- spruce-flats-kids.jpg
+
+
 ### Overview
 
 An adventurous hike in the Smokies accessible to many families, this hike is also a great introduction to the national park, particularly when visiting from around Knoxville (it's fairly close). It's on the Great Smoky Mountains Institute site at Tremont, a national leader in outdoors and environmental education. It is the first hike in this section for a good reason. The proximity to Townsend is a bonus. Best for little kids and big kids. We have hiked this trail with a two-month-old baby in wrap carrier! Just take your time and watch your footing. This (challenging, at time) hike is well worth it!
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-20-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-20-figure-01.jpg -->
 
 ::: callout-warning
 
@@ -47,7 +54,7 @@ The address and coordinates are for the Great Smoky Mountains Institute, as this
 | 0.8                 | Spruce Flat Falls. A great snack or picnic spot. After a nice break, turn around the way you came.                                                                       |
 | 1.6                 | Trailhead.                                                                                                                                                               |
 
-![Photo credit to Faith Wood](img/spruce-flats-kids.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: spruce-flats-kids.jpg -->
 
 ### Nearby
 

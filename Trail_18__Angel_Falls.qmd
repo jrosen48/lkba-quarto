@@ -1,10 +1,18 @@
 ## Trail 18: Angel Falls Overlook
 
+
+**Figures included in this chapter:**
+
+- trail-18-figure-01.jpg
+- trail-18-map.jpeg
+- angel-rocks.jpg
+
+
 ### Overview
 
 Like a few of the other trails in or near the Cumberland Plateau, this is a spectacular hike that is sadly often overlooked. While this memorable trail is a little tricky to get to for a day hike, the view is awesome, rivaling the summits of the Smokies, with a different kind of vantage of the beautiful Big South Fork River. This trail is relatively flat and short, making it appropriate for families with young children. Consider camping at the nearby Bandy Creek campground, and consider this hike a day's excursion from there.
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-18-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-18-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +27,7 @@ Like a few of the other trails in or near the Cumberland Plateau, this is a spec
 | Best Ages                 | Little Kids and Big Kids                      |
 | Strollers and Wheelchairs | Not Accessible                      |
 
-![](maps/trail-18-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-18-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -45,7 +53,7 @@ Angel Falls is more a rapids than a waterfall, but there’s a history to its na
 | 1.4                 | Overlook. Rest and picnic at the large rocky overlook atop the Big South Fork and Angel Falls. Then, turn around to return to the start.                                                               |
 | 2.8                 | Trailhead.                                                                                                                                                                                             |
 
-![Photo credit to Katie and Joshua Rosenberg](img/angel-rocks.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: angel-rocks.jpg -->
 
 ### Nearby
 

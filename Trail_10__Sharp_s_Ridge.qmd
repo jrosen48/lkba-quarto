@@ -1,10 +1,19 @@
 ## Trail 10: Sharp's Ridge
 
+
+**Figures included in this chapter:**
+
+- trail-10-figure-01.jpg
+- trail-10-map.jpeg
+- lichenwithlabels.png
+- sharps-trail.jpg
+
+
 ### Overview
 
 This hike is just north of downtown, making it a great stop before grabbing a bite to eat at a nearby restaurant or heading downtown. Wind up from the trailhead on a smooth path through the pretty forest. When we think of this trail, we think of little ones toddling or running ahead around the bends in the trail, just far enough to be out of sight for a little bit until we catch up! Once you connect to the road, consider walking up to an overlook with lovely view of the Smokies. Best for older kids or younger kids who are carried in a carrier or backpack.
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-10-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-10-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +28,7 @@ This hike is just north of downtown, making it a great stop before grabbing a bi
 | Best Ages                 | Little kids           |
 | Strollers and Wheelchairs | Not accessible        |
 
-![](maps/trail-10-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-10-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -36,7 +45,7 @@ There are three primary types of lichens: Foliose (leaf-like in appearance), Cru
 
 -Amanda Garner
 
-![](illustrations/lichenwithlabels.png){fig-align="center" width="400"}
+<!-- IMAGE REMOVED FOR PUBLISHER: lichenwithlabels.png -->
 :::
 
 ### Trail Description
@@ -53,7 +62,7 @@ There are three primary types of lichens: Foliose (leaf-like in appearance), Cru
 | 2.2                 | Turn left onto the Hanover Access Trail.                                                                                                            |
 | 2.3                 | Traihead.                                                                                                                                           |
 
-![Photo credit to Katie and Joshua Rosenberg](img/sharps-trail.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: sharps-trail.jpg -->
 
 ### Nearby
 

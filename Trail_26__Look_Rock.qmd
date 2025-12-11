@@ -1,10 +1,17 @@
 ## Trail 26: Look Rock
 
+
+**Figures included in this chapter:**
+
+- trail-26-figure-01.jpg
+- trail-26-map.jpeg
+
+
 ### Overview
 
 This is a short but rewarding overlook hike that is just a moderate drive from Knoxville. The entire hike is paved, but the trail is steep. Start at a parking area with a very scenic overlook. The trail starts out steep but then levels out. At the top is a tower that affords views of the Smokies as well as the Tennessee Valley and Knoxville. Clear days are more often found in the winter, spring, and fall (after the humidity drops). Consider coupling with a drive along the Foothills Parkway, or take visitors here after you pick them up from the airport in nearby Maryville, as we have with our parents! This is a fun family hike with littles that serve as a nice and usually not crowded introduction to the Smokies.
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-26-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-26-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +26,7 @@ This is a short but rewarding overlook hike that is just a moderate drive from K
 | Best Ages                 | Toddlers and Little Kids                    |
 | Strollers and Wheelchairs | Partially accessible (paved but very steep) |
 
-![](maps/trail-26-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-26-map.jpeg -->
 
 ### Directions to the Trailhead
 

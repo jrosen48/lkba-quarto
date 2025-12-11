@@ -1,10 +1,18 @@
 ## Trail 24: Middle Prong
 
+
+**Figures included in this chapter:**
+
+- trail-24-figure-01.jpg
+- trail-24-map.jpeg
+- jo-middle-prong.jpg
+
+
 ### Overview
 
 This hike is great for families looking to have an authentic hiking experience deep in the Smokies, while still being only a little over an hour's drive from Knoxville. A benefit of this hike is the early payoff on this scenic trail. It's only 0.6 miles to the waterfall, but along a stream that affords many chances to hop in and splash. The turn-around spot is an overlook to a waterfall, Lynn Camp Prong, though the trail continues after the cascades up to another waterfall, Indian Flats Falls. Given the ample shade and easy access to the stream, this is a great hike for the summer, but it is enjoyable in all seasons. Good for kids of all ages because you can turn around at any point.
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-24-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-24-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +27,7 @@ This hike is great for families looking to have an authentic hiking experience d
 | Best Ages                 | All Ages                                    |
 | Strollers and Wheelchairs | Not accessible                              |
 
-![](maps/trail-24-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-24-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -48,7 +56,7 @@ This native species of trout in Smokies streams is speckled and small and found 
 | 5.25                | Intersection with the Panther Creek Trail on the right.                                                                                                                                                                                                                                        |
 | 7.6                 | Trailhead                                                                                                                                                                                                                                                                                      |
 
-![Photo credit to Katie and Joshua Rosenberg](img/jo-middle-prong.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: jo-middle-prong.jpg -->
 
 ### Nearby
 

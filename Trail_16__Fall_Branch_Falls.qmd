@@ -1,10 +1,17 @@
 ## Trail 16: Fall Branch Falls
 
+
+**Figures included in this chapter:**
+
+- trail-16-figure-01.jpg
+- trail-16-map.jpeg
+
+
 ### Overview
 
 This hike is a perfect counterbalance to the wonderful but far more familiar Great Smoky Mountains National Park. This hike, like the Big South Fork, is quieter and subtler than the Smokies. It features unique rock cliffs that are perfect for kids to take in and explore. The visitor center, horse stables (not to mention hundreds of miles of nearby trails), complement the hike. Because you can turn around at any point, this hike is great for kids of nearly any age. However, be aware of the ladders along the hike that can be a little tricky for the youngest kids to navigate!
 
-![Photo credit to VioletSkyAdventures](img/trail-16-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-16-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +26,7 @@ This hike is a perfect counterbalance to the wonderful but far more familiar Gre
 | Best Ages                 | Big kids and Pre-teens and older                      |
 | Strollers and Wheelchairs | Not accessible                      |
 
-![](maps/trail-16-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-16-map.jpeg -->
 
 ### Directions to the Trailhead
 

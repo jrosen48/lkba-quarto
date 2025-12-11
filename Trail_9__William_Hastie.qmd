@@ -1,10 +1,18 @@
 ## Trail 9: William Hastie
 
+
+**Figures included in this chapter:**
+
+- trail-09-figure-01.jpg
+- trail-09-map.jpeg
+- turtle.png
+
+
 ### Overview
 
 You'll be surrounded by trees galore at William Hastie! The start features a beginner's mountain bike loop on a smooth path. Though short, this hike takes you by many spur trails; consider this a gentle introduction to a trail system close to but more rustic than Ijams. Good for all toddling and walking kids and their families.
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-09-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-09-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +27,7 @@ You'll be surrounded by trees galore at William Hastie! The start features a beg
 | Best Ages                 | Toddlera nd little kids                   |
 | Strollers and Wheelchairs | Partially accessible (graded gravel path) |
 
-![](maps/trail-09-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-09-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -32,7 +40,7 @@ Trailhead GPS Coordinates: 35.93464, -83.87455
 
 Think of the Eastern Box Turtle as a tiny explorer. These reptiles (animals whose body temperature that changes with its surroundings) are not *necessarily* found only near water. Instead, they move slowly across the forest floor searching for berries, mushrooms, and insects, making them easy to observe from a respectful distance. They're smaller in size than other turtles, with shells around 6" or fewer in length; the Snapping Turtle has a far larger shell.
 
-![](illustrations/turtle.png){width="299"}
+<!-- IMAGE REMOVED FOR PUBLISHER: turtle.png -->
 :::
 
 The above address will direct you to a large, rarely-busy parking lot and a nice trailhead with a picnic area. Several trails start from this trailhead. Look for a sign for the Margaret Road Trail.

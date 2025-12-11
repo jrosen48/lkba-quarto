@@ -1,10 +1,18 @@
 ## Trail 13: Emory Falls at Frozen Head
 
+
+**Figures included in this chapter:**
+
+- trail-13-figure-01.jpg
+- trail-13-map.jpeg
+- cliffs-emory.jpg
+
+
 ### Overview
 
 Writing about this trail makes us smile. In many ways, it's the perfect kid hike! It starts at a beautiful trailhead along a pretty creek in the deep woods. It gradually climbs before stopping at one of two scenic waterfall, DeBord Falls, and is a perfectly acceptable place to turn around with younger kids (we have many times!). It continues further to Emory Falls before returning on a gradual slope back to the trailhead. Stop at the playground you passed on the way to the trailhead beside the same creek; the water is usually shallow enough to be perfect for splashing and rock hopping. Please note, the trail is rocky, and your kids will likely need reminders to slow down!
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-13-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-13-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +27,7 @@ Writing about this trail makes us smile. In many ways, it's the perfect kid hike
 | Best Ages                 | Little kids                                                                                                                                       |
 | Strollers and Wheelchairs | Not accessible                                                                                                                                    |
 
-![](maps/trail-13-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-13-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -46,7 +54,7 @@ A closed prison near Frozen Head State Park is full of lore due to its remote lo
 | 1.2                 | After viewing the waterfall, head back to the start!                                                                 |
 | 2.4                 | Trailhead.                                                                                                           |
 
-![Photo credit to Katie and Joshua Rosenberg](img/cliffs-emory.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: cliffs-emory.jpg -->
 
 ### Nearby
 

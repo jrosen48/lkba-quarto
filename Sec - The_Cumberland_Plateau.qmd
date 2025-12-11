@@ -1,5 +1,11 @@
 ## The Cumberland Plateau
 
+
+**Figures included in this chapter:**
+
+- plateau-region.jpg
+
+
 This region is the hidden gem near Knoxville. It's a plateau, with valleys carved out by rivers through the softer sandstone rock that is common in this area. There are also parts that are quite mountainous, particularly near Frozen Head State Park.
 
 The defining characteristic of the Cumberland Plateau is its geology: incredible rock features and rock houses. You'll see rock formations small and (strikingly) large on all of your hikes in the plateau. Some will amaze you that they (and you) are in East Tennessee.
@@ -8,4 +14,4 @@ Something not very widely-recognized is that one of the most well-known hikers i
 
 These seven hikes hikes are some of the most special to us in this book; a little off-the-radar and even underappreciated, part of our motivation for writing this book was to draw attention to them.
 
-![](maps/plateau-region.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: plateau-region.jpg -->

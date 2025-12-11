@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./create-chapters.sh:*)",
+      "Bash(quarto --version:*)",
+      "Bash(quarto render:*)",
+      "Bash(brew list:*)",
+      "Bash(brew install:*)",
+      "Bash(ls:*)",
+      "Bash(cat docx_chapters/*.docx)",
+      "Bash(chmod:*)",
+      "Bash(python3:*)",
+      "Bash(du:*)",
+      "Bash(unzip:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

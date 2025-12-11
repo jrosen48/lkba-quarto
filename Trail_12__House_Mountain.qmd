@@ -1,10 +1,18 @@
 ## Trail 12: House Mountain
 
+
+**Figures included in this chapter:**
+
+- trail-12-figure-01.jpg
+- trail-12-map.jpeg
+- trail-12-figure-02.jpg
+
+
 ### Overview
 
 This hike is not for the faint of heart! Perhaps this comes as a surprise given its proximity to Knoxville, but this hike features significant elevation change, rocky and uneven terrain, and even sections where it is unclear where precisely the trail goes. If you have littles that need to be carried, we recommend waiting to tackle this hike (Katie carried our oldest in a baby carrier up this hike when he was a baby and will honestly tell you she doesn't have fond memories of this hike). This one always challenges us, but the flip side is that House Mountain offers a hike that is very rewarding and challenging hike closer to home than you would expect. The trail climbs up House Mountain from the west, reaching the West Overlook before heading down to complete the loop.
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-12-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-12-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +27,7 @@ This hike is not for the faint of heart! Perhaps this comes as a surprise given 
 | Best Ages                 | Pre-teens and older                      |
 | Strollers and Wheelchairs | Not accessible                      |
 
-![](maps/trail-12-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-12-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -36,7 +44,7 @@ A family of conifers recognizable by their needles, which usually grow in bundle
 
 :::
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-12-figure-02.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-12-figure-02.jpg -->
 
 ### Trail Description
 

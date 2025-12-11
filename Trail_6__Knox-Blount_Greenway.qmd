@@ -1,10 +1,17 @@
 ## Trail 6: Knox-Blount Greenway
 
+
+**Figures included in this chapter:**
+
+- trail-06-figure-01.jpg
+- trail-06-map.jpeg
+
+
 ### Overview
 
 Another hike that is very close to Knoxville's city center, the Knox-Blount Greenway, is a fun, easier outing for little walkers, bikers, and for parents pushing little ones in strollers. Paved throughout, this trail offers a glimpse of the surprising beauty of the Tennessee River so close to the city. Our description features a route that heads to the north, toward the city, and then back to the trail from the research park further south, before returning to the start. Look for blue herons and other birds along the side of the river; you might see a Bald Eagle! While beautiful, there is limited shade here, so factor the weather in before setting out to this destination! This will be a fun hike for a gaggle of kids looking to toddle or run wild!
 
-![Photo credit to Katie and Joshua Rosenberg](img/trail-06-figure-01.jpg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-06-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -19,7 +26,7 @@ Another hike that is very close to Knoxville's city center, the Knox-Blount Gree
 | Best Ages                 | Toddlers and Little Kids                       |
 | Strollers and Wheelchairs | Accessible                    |
 
-![](maps/trail-06-map.jpeg)
+<!-- IMAGE REMOVED FOR PUBLISHER: trail-06-map.jpeg -->
 
 ### Directions to the Trailhead
 
