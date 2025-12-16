@@ -11,7 +11,8 @@
       "Bash(chmod:*)",
       "Bash(python3:*)",
       "Bash(du:*)",
-      "Bash(unzip:*)"
+      "Bash(unzip:*)",
+      "Bash(./rename-trail-images.sh)"
     ],
     "deny": [],
     "ask": []

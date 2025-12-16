@@ -18,14 +18,14 @@ A gem in Knoxville's city park system, this hike, entirely on a paved path, circ
 
 | **Characteristic**        | **Details**                         |
 |---------------------------|-------------------------------------|
-| Time Estimate             | 1.5 hours - 2.5 hours               |
+| Time from Knoxville | 10-15 mins               |
 | Trail Distance (Miles)    | 2.2                                 |
 | Elevation Change          | Gentle                              |
 | Pets                      | Allowed on leash                    |
 | Parking Pass/Entrance Fee | Not Required                        |
 | Restroom(s)               | Yes                                 |
 | Best Ages                 | Toddlers, Little Kids, and Big Kids |
-| Strollers and Wheelchairs | Not accessible                      |
+| Accessibility             | Not accessible                      |
 
 <!-- IMAGE REMOVED FOR PUBLISHER: trail-03-map.jpeg -->
 

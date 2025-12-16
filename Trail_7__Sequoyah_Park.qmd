@@ -19,14 +19,14 @@ This is another gem among Knoxville city parks, nestled in the heart of the the 
 
 | **Characteristic**        | **Details**              |
 |---------------------------|--------------------------|
-| Time Estimate             | 1 hour - 2 hours         |
+| Time from Knoxville | 10-15 mins               |
 | Trail Distance (Miles)    | 2.1                      |
 | Elevation Change          | Flat                     |
 | Pets                      | Allowed on leash         |
 | Parking Pass/Entrance Fee | Not Required             |
 | Restroom(s)               | Yes                      |
 | Best Ages                 | Toddlers and Little Kids |
-| Strollers and Wheelchairs | Not accessible           |
+| Accessibility             | Not accessible           |
 
 <!-- IMAGE REMOVED FOR PUBLISHER: trail-07-map.jpeg -->
 
@@ -44,7 +44,7 @@ Trees characterized by an umbrella-shaped crown. The tree near the start of this
 <!-- IMAGE REMOVED FOR PUBLISHER: elm.png -->
 :::
 
-The above address takes you to the parking area next to restrooms that serve as a landmark for this sprawling park. Please note that the address uses a "Plus" code that only works with Google Maps. A Google Maps Plus code is a short, alphanumeric code that pinpoints an exact location anywhere in the world without needing a street address.
+The above address takes you to the parking area next to restrooms that serve as a landmark for this sprawling park. Please note that the address uses a Google Maps Plus code, as this location does not have a street address.
 
 ### Trail Description
 
@@ -57,14 +57,8 @@ The above address takes you to the parking area next to restrooms that serve as 
 | 0.65                | Distinctive, dome-shaded trees that kids can crawl into, between, and through.                                                           |
 | 0.9                 | Small rocky hill to walk over (you can walk around it on the greenway, but kids may enjoy scrambling up it).                             |
 | 1.1                 | Boat launch. Head up beside or through the parking lot to Sequoyah Greenway in the center of Cherokee Blvd. Turn left onto the greenway. |
-| 1.2                 | Native American mound. Note the historical marker. Walk along past the homes on both sides of the greenway.                              |
+| 1.2                 | Site of Native American mound. Note the historical marker. Walk along past the homes on both sides of the greenway.                              |
 | 2.05                | Traihead.                                                                                                                                |
-
-::: {.callout-note appearance="simple" icon="true"}
-#### Native American Mounds
-
-These earthen mounds are found in many places along the Mississippi River and its tributaries—like the Tennessee River. Nobody is completely sure why they were built, but some believe they served as gathering spots or markers to return to time and again. The mound here may date back as early as the 1400s, likely created by one of the Native Nations with ancestral ties to the Knoxville region.
-:::
 
 <!-- IMAGE REMOVED FOR PUBLISHER: trail-07-figure-02.jpg -->
 
