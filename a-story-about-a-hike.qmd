@@ -3,12 +3,14 @@
 
 **Figures included in this chapter:**
 
-- ruth-levi.jpg
-- kids-run.jpg
+- jo boat.jpeg
+- ayla mae run edited.JPG
 - ayla-flowers.jpg
 
 
 Picture this: A sunny day in nature with your family. Your kids happily climb up and over rocks, stopping only to splash in creeks. At the end, you have a picnic on the grass on a perfect, mild but warm day without a bug to be found.
+
+<!-- IMAGE: jo boat.jpeg -->
 
 *Record Scratch*
 
@@ -18,13 +20,11 @@ If you're like us, you might be ready to throw in the towel before you even leav
 
 However, we've also grown as a family who hikes, honed the process, and adjusted our expectations. And sometimes the weather is just right, we and the kiddos are having a great time, and, every once in a while, there really isn't a bug in sight.
 
-<!-- IMAGE REMOVED FOR PUBLISHER: ruth-levi.jpg -->
+<!-- IMAGE: ayla mae run edited.JPG -->
 
 ### We wrote this to help our friends (and you!)
 
 After moving to Knoxville as a very young famiy in 2018, our first trip to Ijams introduced us to Knoxville's incredible outdoor spaces. Katie discovered Seven Islands, and it was awesome---and close to home. A camping trip at Frozen Head opened our eyes. Later, visiting the Smokies sealed the deal: hiking helped us to feel connected to and later to love where we live.
-
-<!-- IMAGE REMOVED FOR PUBLISHER: kids-run.jpg -->
 
 We don't think we're very special in this respect (and in most others!): One of the many joys of writing this book was discovering that we'd hiked all 30 of the trails in it.
 
@@ -44,6 +44,6 @@ This book is for families and others caring for children who are looking for an 
 
 Because this book is for those new to hiking and those with some mud on their shoes, we've included a wide range of hikes, from those shorter than a mile on paved trails to epic expeditions into the Smokies. Additionally, we've noted trails that are stroller-friendly or accessible for families with additional needs.
 
-<!-- IMAGE REMOVED FOR PUBLISHER: ayla-flowers.jpg -->
+<!-- IMAGE: ayla-flowers.jpg -->
 
 Read on for things to consider for your first hike (you don't need much!) and some recommendations for choosing a hike.

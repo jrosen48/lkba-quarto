@@ -4,7 +4,7 @@
 
 **Figures included in this chapter:**
 
-- knoxville-region.jpg
+- maps/Knoxville_Region_v6.jpg
 
 
 Knoxville and the Tennessee Valley contain fewer high points than the Cumberland Plateau and the Great Smoky Mountains, but it should not be discounted as a destination for hiking.
@@ -15,4 +15,4 @@ Other locations are also not only close, but worthy of a trip. Ijams on the sout
 
 Other places that we highlight among the 12 trails in this secton are very worth your time, offering an outdoors respite in addition to the ability to easily be integrated into busy schedules and other commitments. If you are looking for a first family hike, those in this section may make a great selection.
 
-<!-- IMAGE REMOVED FOR PUBLISHER: knoxville-region.jpg -->
+<!-- IMAGE: maps/Knoxville_Region_v6.jpg -->

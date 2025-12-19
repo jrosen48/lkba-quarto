@@ -8,3 +8,7 @@
 Little-Kids,-Big-Adventures--A-Guide-to-Family-Hikes-Around-Knoxville.tex
 
 **/*.quarto_ipynb
+
+# Generated output directories for publisher delivery
+publisher_images/
+docx_chapters/

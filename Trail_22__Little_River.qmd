@@ -1,18 +1,16 @@
 ## Trail 22: Little River
 
-
 **Figures included in this chapter:**
 
-- trail-22-figure-01.jpg
+- trail-22-figure-02.jpg
 - trail-22-map.jpeg
-- butterflies.jpg
-
+- little river rocks kids.jpeg
 
 ### Overview
 
 This hike is a great introduction to the Great Smoky Mountains National Park by featuring a bit of many of the elements that make the Smokies special: a trail along a beautiful, clear river; a waterfall; abundant plant and aquatic wildlife; deep forest; and a peek into Smokies history when you step into the cabins in the Elkmont Historic District. The hike starts at the Little River trailhead, following the Little River along its namesake river. Turn around near the small waterfall or continue the loop back to the trailhead. Great for kids of all ages, because there is not any one spot you must reach on the trail. Simply hike as far as you like and then head back to picnic or check out the historic cabins!
 
-<!-- IMAGE REMOVED FOR PUBLISHER: trail-22-figure-01.jpg -->
+<!-- IMAGE: trail-22-figure-02.jpg -->
 
 ### Key Characteristics
 
@@ -27,7 +25,7 @@ This hike is a great introduction to the Great Smoky Mountains National Park by 
 | Best Ages                 | Little kids, Big kids, and Pre-teens and older |
 | Accessibility             | Not accessible                                 |
 
-<!-- IMAGE REMOVED FOR PUBLISHER: trail-22-map.jpeg -->
+<!-- IMAGE: trail-22-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -36,12 +34,6 @@ Trailhead Address: Elkmont Campground, MC58+3H Gatlinburg
 Trailhead GPS Coordinates: 35.65346, -83.58005
 
 Please note: the trailhead does not have a specific address and includes a "Plus code" to park at the start of the Little River Trail. If you navigate to "Elkmont Campground," then look for signs to parking for the Little River Trail. Park and look for the gate across the gravel road, where the Little River Trail begins.
-
-::: {.callout-note appearance="simple" icon="true"}
-#### Eastern Hemlock
-
-A tree that “feels” like the Smokies - likes shaded groves. Characterized by its needles being arranged in a flat frond. Threatened by an invasive species, the Hemlock Wooly Adelgid. While many trees in the region are affected (look for a white dusty covering of needles), others are not. Look for it along this trail.
-:::
 
 ### Trail Description
 
@@ -57,7 +49,16 @@ A tree that “feels” like the Smokies - likes shaded groves. Characterized by
 | 5.3                 | Reach Jakes Creek Road. Turn right to return to the trailhead.                                                                                            |
 | 5.5                 | Trailhead.                                                                                                                                                |
 
-<!-- IMAGE REMOVED FOR PUBLISHER: butterflies.jpg -->
+<!-- IMAGE: little river rocks kids.jpeg -->
+
+
+::: {.callout-note appearance="simple" icon="true"}
+#### Eastern Hemlock
+
+A tree that feels" like the Smokies. Characterized by its needles being arranged in a flat frond. Threatened by an invasive species
+
+<!-- Media: none -->
+:::
 
 ### Nearby
 

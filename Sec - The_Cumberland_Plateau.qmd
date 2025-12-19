@@ -3,7 +3,7 @@
 
 **Figures included in this chapter:**
 
-- plateau-region.jpg
+- maps/Plateau_Region_v6.jpg
 
 
 This region is the hidden gem near Knoxville. It's a plateau, with valleys carved out by rivers through the softer sandstone rock that is common in this area. There are also parts that are quite mountainous, particularly near Frozen Head State Park.
@@ -14,4 +14,4 @@ Something not very widely-recognized is that one of the most well-known hikers i
 
 These seven hikes hikes are some of the most special to us in this book; a little off-the-radar and even underappreciated, part of our motivation for writing this book was to draw attention to them.
 
-<!-- IMAGE REMOVED FOR PUBLISHER: plateau-region.jpg -->
+<!-- IMAGE: maps/Plateau_Region_v6.jpg -->

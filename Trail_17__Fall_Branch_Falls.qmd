@@ -1,17 +1,15 @@
 ## Trail 17: Fall Branch Falls
 
-
 **Figures included in this chapter:**
 
 - trail-17-figure-01.jpg
 - trail-17-map.jpeg
 
-
 ### Overview
 
 This hike is a perfect counterbalance to the wonderful but far more familiar Great Smoky Mountains National Park. This hike, like the Big South Fork, is quieter and subtler than the Smokies. It features unique rock cliffs that are perfect for kids to take in and explore. The visitor center, horse stables (not to mention hundreds of miles of nearby trails), complement the hike. Because you can turn around at any point, this hike is great for kids of nearly any age. However, be aware of the ladders along the hike that can be a little tricky for the youngest kids to navigate!
 
-<!-- IMAGE REMOVED FOR PUBLISHER: trail-17-figure-01.jpg -->
+<!-- IMAGE: trail-17-figure-01.jpg -->
 
 ### Key Characteristics
 
@@ -26,7 +24,7 @@ This hike is a perfect counterbalance to the wonderful but far more familiar Gre
 | Best Ages                 | Big kids and Pre-teens and older                      |
 | Accessibility             | Not accessible                      |
 
-<!-- IMAGE REMOVED FOR PUBLISHER: trail-17-map.jpeg -->
+<!-- IMAGE: trail-17-map.jpeg -->
 
 ### Directions to the Trailhead
 
@@ -46,6 +44,8 @@ From the Visitors Center, walk across Bandy Loop Road toward the campground. Fin
 | 0.55                | Rocky section featuring a short ladder (to make it easier to navigate through the rocks). |
 | 1.8                 | Fall Branch Falls. A great spot for a break before turning around to return to the start. |
 | 3.6                 | Trailhead.                                                                                |
+
+**NOTE - we probably want to add another photo to this chapter, and/or replace the stock photo**
 
 ### Nearby
 

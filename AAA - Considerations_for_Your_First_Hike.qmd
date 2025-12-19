@@ -9,7 +9,7 @@ editor:
 
 **Figures included in this chapter:**
 
-- ruth-hill.jpg
+- kids running.jpg
 - kids-looking-down.jpeg
 - snacks.jpeg
 
@@ -34,7 +34,7 @@ This applies to beginners and to the most experienced hikers; a common saying sh
 If this applies to long-distance hikers, we think it doubly applies to families hiking with littles!
 Hike your own hike.
 
-<!-- IMAGE REMOVED FOR PUBLISHER: ruth-hill.jpg -->
+<!-- IMAGE: kids running.jpg -->
 
 ### Let kids take the lead
 
@@ -42,7 +42,7 @@ To help your kids develop a love for hiking and the outdoors, let them take the 
 Let them develop their own interests and explore their own curiosities when you go on a hike.
 Sometimes this might mean playing in a creek for half of your planned hiking time.
 
-<!-- IMAGE REMOVED FOR PUBLISHER: kids-looking-down.jpeg -->
+<!-- IMAGE: kids-looking-down.jpeg -->
 
 ### Be choosy about the when and where
 
@@ -61,7 +61,7 @@ At a minimum, the following items are essential for hikes when the weather is go
 
 Older kids may like to carry some of these---especially the snacks!
 
-<!-- IMAGE REMOVED FOR PUBLISHER: snacks.jpeg -->
+<!-- IMAGE: snacks.jpeg -->
 
 When taking on a lengthier hike or traveling farther from home, we like asking ourselves the following questions:
 

@@ -27,6 +27,19 @@ To export all chapters as individual DOCX files (numbered sequentially):
 ```
 This creates numbered DOCX files in `docx_chapters/` directory, preserving the book's chapter order.
 
+### Collect Images for Publisher Delivery
+To collect only the images that are actually referenced in the book (excludes unused images from the writing process):
+```bash
+python3 collect-images.py
+```
+This script:
+- Scans all .qmd files for the "Figures included in this chapter:" sections
+- Copies only the referenced images to `publisher_images/` directory
+- Preserves the directory structure (`maps/`, `img/`, `illustrations/`)
+- Provides a summary showing images found, copied, and any missing files
+
+The output directory `publisher_images/` contains a clean set of images ready for publisher delivery, with 98 images organized by type (31 maps, 60 photos, 5 illustrations as of Dec 2025).
+
 ### Preview the Book
 ```bash
 quarto preview
@@ -88,6 +101,37 @@ The workflow runs `quarto render` and automatically commits changes to the `docs
 - **`illustrations/`**: Educational illustrations for callout boxes
 - **`final maps as of jan 26 2025/`**: Source map files
 - **`site_libs/`**: Quarto-generated dependencies (being removed based on git status)
+
+## Image Management
+
+### How Images Work in This Book
+
+Each chapter uses a two-part system for managing images:
+
+1. **"Figures included in this chapter:" list** at the top of each .qmd file
+   - This is the **single source of truth** for which images belong to a chapter
+   - Used by `collect-images.py` to collect images for publisher delivery
+   - Serves as a quick inventory for both authors and publisher
+
+2. **Inline placement markers** in the content: `<!-- IMAGE: filename.jpg -->`
+   - Marks where each image should be placed in the final layout
+   - Images are NOT embedded in DOCX output (commented out for publisher)
+   - Publisher will place images manually using these markers
+
+### Updating Images
+
+**To replace an image with the same filename:**
+1. Replace the file in the appropriate directory (`maps/`, `img/`, or `illustrations/`)
+2. Re-run `python3 collect-images.py`
+3. No .qmd file changes needed
+
+**To replace an image with a new filename:**
+1. Add the new image file to the appropriate directory
+2. Update the filename in the "Figures included in this chapter:" list
+3. Update the corresponding `<!-- IMAGE: filename -->` comment in the content
+4. Re-run `python3 collect-images.py`
+
+Both references must match to ensure consistency between the collection script and publisher layout instructions.
 
 ## Content Guidelines
 
