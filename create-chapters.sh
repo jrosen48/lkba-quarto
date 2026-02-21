@@ -53,6 +53,10 @@ chapters=(
 rm -rf docx_chapters
 mkdir -p docx_chapters
 
+# Generate publisher manifest from _quarto.yml
+echo "Generating publisher manifest..."
+python3 generate-manifest.py
+
 # Temporarily rename _quarto.yml to render files as standalone documents
 mv _quarto.yml _quarto.yml.bak
 

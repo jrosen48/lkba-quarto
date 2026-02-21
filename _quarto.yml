@@ -45,7 +45,7 @@ book:
         - AAA - overview-of-the-hikes.qmd
         - AAA - top-5.qmd
     - part: Sec - Knoxville.qmd
-      chapters:
+      chapters: 
         - Trail_1__Seven_Islands.qmd
         - Trail_2__Ijams_Riverside.qmd
         - Trail_3__Lakeshore_Park.qmd
@@ -58,21 +58,21 @@ book:
         - Trail_10__Sharp_s_Ridge.qmd
         - Trail_11__Norris_Dam.qmd
         - Trail_12__House_Mountain.qmd
-        - Trail_13__Aspire_Park.qmd
     - part: Sec - The_Cumberland_Plateau.qmd
       chapters:
-        - Trail_14__Emory_Falls.qmd
-        - Trail_15__Obed_Point.qmd
-        - Trail_16__Bandy_Creek.qmd
-        - Trail_17__Fall_Branch_Falls.qmd
-        - Trail_18__Twin_Arches.qmd
-        - Trail_19__Angel_Falls.qmd
-        - Trail_20___Honey_Creek.qmd
+        - Trail_13__Emory_Falls.qmd
+        - Trail_14__Obed_Point.qmd
+        - Trail_15__Bandy_Creek.qmd
+        - Trail_16__Fall_Branch_Falls.qmd
+        - Trail_17__Twin_Arches.qmd
+        - Trail_18__Angel_Falls.qmd
+        - Trail_19___Honey_Creek.qmd
     - part: Sec - The_Great_Smoky_Mountains_National_Park.qmd
       chapters:
-        - Trail_21__Spruce_Flats_Falls.qmd
-        - Trail_22__Little_River.qmd
-        - Trail_23__Mouse_Creek.qmd
+        - Trail_20__Spruce_Flats_Falls.qmd
+        - Trail_21__Little_River.qmd
+        - Trail_22__Mouse_Creek.qmd
+        - Trail_23__Whiteoak_Sink.qmd
         - Trail_24__Middle_Prong.qmd
         - Trail_25__Abrams_Creek.qmd
         - Trail_26__Look_Rock.qmd

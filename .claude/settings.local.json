@@ -18,7 +18,8 @@
       "Bash(grep:*)",
       "Bash(for:*)",
       "Bash(do sed -i.bak 's/IMAGE REMOVED FOR PUBLISHER:/IMAGE:/g' \"$f\")",
-      "Bash(done)"
+      "Bash(done)",
+      "Bash(./create-chapters-no-callouts.sh)"
     ],
     "deny": [],
     "ask": []

@@ -27,6 +27,22 @@ To export all chapters as individual DOCX files (numbered sequentially):
 ```
 This creates numbered DOCX files in `docx_chapters/` directory, preserving the book's chapter order.
 
+**Note:** The `create-chapters.sh` script automatically generates the publisher manifest (see below) at the start of each run to ensure it stays synchronized with the book structure.
+
+### Generate Publisher Manifest
+To generate a table of contents showing the book's organization for the publisher:
+```bash
+python3 generate-manifest.py
+```
+This script:
+- Reads the chapter structure from `_quarto.yml`
+- Generates `PUBLISHER-MANIFEST.md` with sequential chapter numbering (1-46)
+- Shows part divisions and geographic sections
+- Includes both human-readable titles and source filenames
+- Provides a summary of content breakdown (trails, sections, front/back matter)
+
+The manifest is automatically regenerated when running `./create-chapters.sh`, ensuring it always reflects the current book structure.
+
 ### Collect Images for Publisher Delivery
 To collect only the images that are actually referenced in the book (excludes unused images from the writing process):
 ```bash
