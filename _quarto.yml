@@ -12,9 +12,9 @@ project:
     - "AAA - Finding_a_Hike.qmd"
 
 website:
-  title: "Little Kids, Big Adventures"
+  title: "Hiking Knoxville"
   page-footer:
-    center: "© 2026 Katie Rosenberg and Joshua Rosenberg. All rights reserved."
+    center: "© 2026 Katie and Joshua Rosenberg. All rights reserved."
   navbar:
     background: light
     left:
