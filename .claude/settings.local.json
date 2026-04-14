@@ -19,7 +19,8 @@
       "Bash(for:*)",
       "Bash(do sed -i.bak 's/IMAGE REMOVED FOR PUBLISHER:/IMAGE:/g' \"$f\")",
       "Bash(done)",
-      "Bash(./create-chapters-no-callouts.sh)"
+      "Bash(./create-chapters-no-callouts.sh)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
