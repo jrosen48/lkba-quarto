@@ -9,6 +9,8 @@ on:
 jobs:
   render-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       # 1) Check out the repo with push rights
