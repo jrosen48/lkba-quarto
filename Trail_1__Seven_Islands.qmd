@@ -11,7 +11,7 @@
 
 This is one of our favorite trails in this book, and it is the first trail for that reason! This hike is a crowd pleaser for every family member of all ages thanks to a paved path that makes bringing babies in a stroller a breeze and easy acces to experience meadow, woodland, and a river! For the trail we highlight, a paved path descends through a meadow. Look for varied bird varieties and deer in all seasons! The trail crosses a bridge over the French Broad River and then a dirt trail make a loop around a beautiful island before returning back to the paved path. This hike is great for all ages and seasons, though it is sometimes hot in the summer due to limited shade on the paved part of the trail.
 
-<!-- IMAGE: seven-islands-entrance.jpg -->
+![](img/seven-islands-entrance.jpg)
 
 ### Key Characteristics
 
@@ -26,7 +26,7 @@ This is one of our favorite trails in this book, and it is the first trail for t
 | Best Ages                   | Toddlers, Little kids, and Big kids                           |
 | Accessibility               | Partially accessible (path is paved until the island portion) |
 
-<!-- IMAGE: trail-01-map.jpeg -->
+![](maps/trail-01-map.jpeg)
 
 ### Directions to the Trailhead
 
@@ -52,7 +52,7 @@ Park in the large gravel lot (note there is another parking area by a boat launc
 | 2                   | Climb back up the Bobwhite Access Trail to the trailhead.                                                                                                                                          |
 | 2.3                 | Trailhead.                                                                                                                                                                                         |
 
-<!-- IMAGE: kids-run.jpg -->
+![](img/kids-run.jpg)
 
 
 ::: {.callout-note appearance="simple" icon="true"}
@@ -61,7 +61,7 @@ Park in the large gravel lot (note there is another parking area by a boat launc
 A native fruit found around Seven Islands. Tastes like a mix of an apple and a banana. Paw Paw flowers are pollinated by beetles and flies.
 
 
-<!-- IMAGE: illustrations/pawpaw.jpg -->
+![](illustrations/pawpaw.jpg)
 
 <!-- Media: illustration -->
 :::
