@@ -1,12 +1,8 @@
-## Finding a Hike
+---
+title: "Finding a Hike"
+---
 
-
-**Figures included in this chapter:**
-
-- kids-swamp.jpg
-- rocky-trail.jpg
-- kids-walking-abrams.jpeg
-
+<!-- Figures included in this chapter: kids-swamp.jpg, rocky-trail.jpg, kids-walking-abrams.jpeg -->
 
 Lists of *the best* hikes are helpful, but they can lead you to trails that are far away, crowded, and not suited to young kids. Furthermore, what even is *the best* trail to kids?
 

@@ -1,12 +1,8 @@
-## A story about a hike
+---
+title: "A Story About a Hike"
+---
 
-
-**Figures included in this chapter:**
-
-- jo boat.jpeg
-- ayla mae run edited.JPG
-- ayla-flowers.jpg
-
+<!-- Figures included in this chapter: jo boat.jpeg, ayla mae run edited.JPG, ayla-flowers.jpg -->
 
 Picture this: A sunny day in nature with your family. Your kids happily climb up and over rocks, stopping only to splash in creeks. At the end, you have a picnic on the grass on a perfect, mild but warm day without a bug to be found.
 

@@ -7,6 +7,9 @@ project:
     - index.qmd
     - about.qmd
     - Trail_1__Seven_Islands.qmd
+    - a-story-about-a-hike.qmd
+    - "AAA - Considerations_for_Your_First_Hike.qmd"
+    - "AAA - Finding_a_Hike.qmd"
 
 website:
   title: "Little Kids, Big Adventures"
@@ -17,6 +20,14 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: "The Book"
+        menu:
+          - href: a-story-about-a-hike.qmd
+            text: "A Story About a Hike"
+          - href: "AAA - Considerations_for_Your_First_Hike.qmd"
+            text: "Getting Ready for Your First Hike"
+          - href: "AAA - Finding_a_Hike.qmd"
+            text: "Finding a Hike"
       - href: Trail_1__Seven_Islands.qmd
         text: Sample Chapter
       - href: about.qmd

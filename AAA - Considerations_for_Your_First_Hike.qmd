@@ -1,18 +1,11 @@
 ---
-editor: 
-  markdown: 
+title: "Getting Ready for Your First Hike"
+editor:
+  markdown:
     wrap: sentence
 ---
 
-## Getting Ready for Your First Hike
-
-
-**Figures included in this chapter:**
-
-- kids running.jpg
-- kids-looking-down.jpeg
-- snacks.jpeg
-
+<!-- Figures included in this chapter: kids running.jpg, kids-looking-down.jpeg, snacks.jpeg -->
 
 ### You don't need fancy gear!
 
