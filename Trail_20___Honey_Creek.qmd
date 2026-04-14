@@ -1,4 +1,8 @@
-## Trail 19 : Honey Creek
+---
+title: "Trail 19: Honey Creek"
+---
+
+## Trail 19: Honey Creek
 
 **Figures included in this chapter:**
 
@@ -12,7 +16,7 @@
 
 This hike is unreal! This trail features rope ladders, wooden ladders, gigantic sandstone walls, a scenic overlook, a trail that traverses *up* a river, and boulders you crawl over and through. It's spectacular and challenging. This is a memorable trail that exemplifies what makes the Cumberland Plateau region such a worthy complement to the Great Smoky Mountains National Park. Younger children may be able to hike the first half (traveling counterclockwise from the trailhead); you can walk the road back to the trailhead. The second half of the trail contains more challenging (but very beautiful) sections. Still, it's hard – probably the most difficult for most in this book, making it best for the older kiddo hiker. Oh, and you will definitely want to be prepared to get your feet wet on this hike!
 
-<!-- IMAGE: trail-20-figure-01.jpg -->
+![](img/trail-20-figure-01.jpg)
 
 ### Key Characteristics
 
@@ -27,7 +31,7 @@ This hike is unreal! This trail features rope ladders, wooden ladders, gigantic 
 | Best Ages                 | Big kids and Pre-teens and older |
 | Accessibility             | Not accessible                   |
 
-<!-- IMAGE: trail-20-map.jpeg -->
+![](maps/trail-20-map.jpeg)
 
 ### Directions to the Trailhead
 
@@ -39,7 +43,7 @@ Navigate to the Honey Creek Trailhead. Note that there is also a Honey Creek Ove
 
 Park in one of the many spots at the trailhead. The trail begins slightly past the trailhead, on the other side of the road from the large signpost for the trailhead, slightly up the road. Look for the Honey Creek Loop Trail sign.
 
-<!-- IMAGE: honey creek sign.jpg -->
+![](img/honey creek sign.jpg)
 
 ### Trail Description
 
@@ -60,7 +64,7 @@ Park in one of the many spots at the trailhead. The trail begins slightly past t
 | 3.3                 | Trail levels out, then climbs back to the start and the trailhead.                                                                                                                                     |
 | 4.4                 | Trailhead.                                                                                                                                                                                             |
 
-<!-- IMAGE: jonah ladder honey creek.jpg -->
+![](img/jonah ladder honey creek.jpg)
 
 
 ::: {.callout-note appearance="simple" icon="true"}
@@ -69,7 +73,7 @@ Park in one of the many spots at the trailhead. The trail begins slightly past t
 The Cumberland Plateau's sandstone cliffs tell their age in layers—tan and gray rock streaked with rust-orange where ancient iron has slowly rusted over millions of years. Water and time have carved dramatic overhangs called rockhouses, creating natural shelters that kids can't resist exploring. At Honey Creek, these bluffs tower overhead at nearly every turn.
 
 
-<!-- IMAGE: img/jo-bsf-cliff.jpg -->
+![](img/jo-bsf-cliff.jpg)
 
 <!-- Media: photo -->
 :::

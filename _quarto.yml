@@ -7,6 +7,8 @@ project:
     - index.qmd
     - about.qmd
     - Trail_1__Seven_Islands.qmd
+    - Trail_20___Honey_Creek.qmd
+    - Trail_24__Middle_Prong.qmd
     - a-story-about-a-hike.qmd
     - "AAA - Considerations_for_Your_First_Hike.qmd"
     - "AAA - Finding_a_Hike.qmd"
@@ -28,8 +30,14 @@ website:
             text: "Getting Ready for Your First Hike"
           - href: "AAA - Finding_a_Hike.qmd"
             text: "Finding a Hike"
-      - href: Trail_1__Seven_Islands.qmd
-        text: Sample Chapter
+      - text: "Sample Chapters"
+        menu:
+          - href: Trail_1__Seven_Islands.qmd
+            text: "Seven Islands (Trail 1)"
+          - href: Trail_20___Honey_Creek.qmd
+            text: "Honey Creek (Trail 19)"
+          - href: Trail_24__Middle_Prong.qmd
+            text: "Middle Prong (Trail 24)"
       - href: about.qmd
         text: About the Authors
 
