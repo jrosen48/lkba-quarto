@@ -18,9 +18,11 @@ jobs:
           persist-credentials: true   # so we can push commits
           fetch-depth: 0             # get full history
 
-      # 2) Install Quarto
+      # 2) Install Quarto + TinyTeX (needed for PDF rendering)
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
 
       # 3) Render your book; outputs go into docs/
       - name: Render site
